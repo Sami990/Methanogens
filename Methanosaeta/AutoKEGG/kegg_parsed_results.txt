@@ -1,0 +1,629 @@
+Gene	Enzymes	Protein Families	Other Info
+MCON_0015		&nbsp;&nbsp;&nbsp;01009 Protein phosphatases and associated proteins [BR:<a href="/brite/mcj01009+MCON_0015">mcj01009</a>]	
+MCON_0018			
+MCON_0025			
+MCON_0026			
+MCON_0069		&nbsp;&nbsp;&nbsp;01003 Glycosyltransferases [BR:<a href="/brite/mcj01003+MCON_0069">mcj01003</a>]	
+MCON_0073			
+MCON_0076		&nbsp;&nbsp;&nbsp;03009 Ribosome biogenesis [BR:<a href="/brite/mcj03009+MCON_0076">mcj03009</a>]	
+MCON_0079		&nbsp;&nbsp;&nbsp;02048 Prokaryotic defense system [BR:<a href="/brite/mcj02048+MCON_0079">mcj02048</a>]	
+MCON_0084		&nbsp;&nbsp;&nbsp;02048 Prokaryotic defense system [BR:<a href="/brite/mcj02048+MCON_0084">mcj02048</a>]	
+MCON_0086			
+MCON_0092			
+MCON_0098			
+MCON_0109			
+MCON_0114		&nbsp;&nbsp;&nbsp;03009 Ribosome biogenesis [BR:<a href="/brite/mcj03009+MCON_0114">mcj03009</a>]	
+MCON_0125		&nbsp;&nbsp;&nbsp;03016 Transfer RNA biogenesis [BR:<a href="/brite/mcj03016+MCON_0125">mcj03016</a>]	
+MCON_0129		&nbsp;&nbsp;&nbsp;04147 Exosome [BR:<a href="/brite/mcj04147+MCON_0129">mcj04147</a>]	
+MCON_0135			
+MCON_0142			
+MCON_0143		&nbsp;&nbsp;&nbsp;03400 DNA repair and recombination proteins [BR:<a href="/brite/mcj03400+MCON_0143">mcj03400</a>]	
+MCON_0144		&nbsp;&nbsp;&nbsp;01007 Amino acid related enzymes [BR:<a href="/brite/mcj01007+MCON_0144">mcj01007</a>]	
+MCON_0147			
+MCON_0150		&nbsp;&nbsp;&nbsp;03016 Transfer RNA biogenesis [BR:<a href="/brite/mcj03016+MCON_0150">mcj03016</a>]	
+MCON_0157		&nbsp;&nbsp;&nbsp;03019 Messenger RNA biogenesis [BR:<a href="/brite/mcj03019+MCON_0157">mcj03019</a>]	
+MCON_0161			
+MCON_0168			
+MCON_0169			
+MCON_0173			
+MCON_0195			
+MCON_0206			
+MCON_0207			
+MCON_0208			
+MCON_0209			
+MCON_0211			
+MCON_0212		&nbsp;&nbsp;&nbsp;03400 DNA repair and recombination proteins [BR:<a href="/brite/mcj03400+MCON_0212">mcj03400</a>]	
+MCON_0223			
+MCON_0224			
+MCON_0226			
+MCON_0228		&nbsp;&nbsp;&nbsp;01007 Amino acid related enzymes [BR:<a href="/brite/mcj01007+MCON_0228">mcj01007</a>]	
+MCON_0229			
+MCON_0234			
+MCON_0238			
+MCON_0239			
+MCON_0240			
+MCON_0241			
+MCON_0245			
+MCON_0249			
+MCON_0264		&nbsp;&nbsp;&nbsp;03400 DNA repair and recombination proteins [BR:<a href="/brite/mcj03400+MCON_0264">mcj03400</a>]	
+MCON_0292		&nbsp;&nbsp;&nbsp;01001 Protein kinases [BR:<a href="/brite/mcj01001+MCON_0292">mcj01001</a>]	
+MCON_0296			
+MCON_0299			
+MCON_0300			
+MCON_0301			
+MCON_0311		&nbsp;&nbsp;&nbsp;03029 Mitochondrial biogenesis [BR:<a href="/brite/mcj03029+MCON_0311">mcj03029</a>]	
+MCON_0312		&nbsp;&nbsp;&nbsp;03029 Mitochondrial biogenesis [BR:<a href="/brite/mcj03029+MCON_0312">mcj03029</a>]	
+MCON_0313		&nbsp;&nbsp;&nbsp;03029 Mitochondrial biogenesis [BR:<a href="/brite/mcj03029+MCON_0313">mcj03029</a>]	
+MCON_0316			
+MCON_0317		&nbsp;&nbsp;&nbsp;01002 Peptidases and inhibitors [BR:<a href="/brite/mcj01002+MCON_0317">mcj01002</a>]	
+MCON_0322			
+MCON_0330			
+MCON_0338			
+MCON_0339		&nbsp;&nbsp;&nbsp;03016 Transfer RNA biogenesis [BR:<a href="/brite/mcj03016+MCON_0339">mcj03016</a>]	
+MCON_0363			
+MCON_0405		&nbsp;&nbsp;&nbsp;03009 Ribosome biogenesis [BR:<a href="/brite/mcj03009+MCON_0405">mcj03009</a>]	
+MCON_0409			
+MCON_0410			
+MCON_0411			
+MCON_0412			
+MCON_0418		&nbsp;&nbsp;&nbsp;03032 DNA replication proteins [BR:<a href="/brite/mcj03032+MCON_0418">mcj03032</a>]	
+MCON_0422		&nbsp;&nbsp;&nbsp;03400 DNA repair and recombination proteins [BR:<a href="/brite/mcj03400+MCON_0422">mcj03400</a>]	
+MCON_0429			
+MCON_0430			
+MCON_0442			
+MCON_0444			
+MCON_0451		&nbsp;&nbsp;&nbsp;03016 Transfer RNA biogenesis [BR:<a href="/brite/mcj03016+MCON_0451">mcj03016</a>]	
+MCON_0459		&nbsp;&nbsp;&nbsp;01002 Peptidases and inhibitors [BR:<a href="/brite/mcj01002+MCON_0459">mcj01002</a>]	
+MCON_0460			
+MCON_0461			
+MCON_0462			
+MCON_0485			
+MCON_0487			
+MCON_0492			
+MCON_0502			
+MCON_0503			
+MCON_0505			
+MCON_0516		&nbsp;&nbsp;&nbsp;01002 Peptidases and inhibitors [BR:<a href="/brite/mcj01002+MCON_0516">mcj01002</a>]	
+MCON_0521			
+MCON_0533		&nbsp;&nbsp;&nbsp;03016 Transfer RNA biogenesis [BR:<a href="/brite/mcj03016+MCON_0533">mcj03016</a>]	
+MCON_0536			
+MCON_0543		&nbsp;&nbsp;&nbsp;02048 Prokaryotic defense system [BR:<a href="/brite/mcj02048+MCON_0543">mcj02048</a>]	
+MCON_0548		&nbsp;&nbsp;&nbsp;03021 Transcription machinery [BR:<a href="/brite/mcj03021+MCON_0548">mcj03021</a>]	
+MCON_0551		&nbsp;&nbsp;&nbsp;03016 Transfer RNA biogenesis [BR:<a href="/brite/mcj03016+MCON_0551">mcj03016</a>]	
+MCON_0554			
+MCON_0555			
+MCON_0556		&nbsp;&nbsp;&nbsp;01004 Lipid biosynthesis proteins [BR:<a href="/brite/mcj01004+MCON_0556">mcj01004</a>]	
+MCON_0558		&nbsp;&nbsp;&nbsp;01004 Lipid biosynthesis proteins [BR:<a href="/brite/mcj01004+MCON_0558">mcj01004</a>]	
+MCON_0559		&nbsp;&nbsp;&nbsp;01004 Lipid biosynthesis proteins [BR:<a href="/brite/mcj01004+MCON_0559">mcj01004</a>]	
+MCON_0561		&nbsp;&nbsp;&nbsp;01004 Lipid biosynthesis proteins [BR:<a href="/brite/mcj01004+MCON_0561">mcj01004</a>]	
+MCON_0563		&nbsp;&nbsp;&nbsp;03016 Transfer RNA biogenesis [BR:<a href="/brite/mcj03016+MCON_0563">mcj03016</a>]	
+MCON_0565			
+MCON_0566			
+MCON_0570		&nbsp;&nbsp;&nbsp;03016 Transfer RNA biogenesis [BR:<a href="/brite/mcj03016+MCON_0570">mcj03016</a>]	
+MCON_0572			
+MCON_0583			
+MCON_0585		&nbsp;&nbsp;&nbsp;03009 Ribosome biogenesis [BR:<a href="/brite/mcj03009+MCON_0585">mcj03009</a>]	
+MCON_0597			
+MCON_0610			
+MCON_0611			
+MCON_0617		&nbsp;&nbsp;&nbsp;02000 Transporters [BR:<a href="/brite/mcj02000+MCON_0617">mcj02000</a>]	
+MCON_0619			
+MCON_0640		&nbsp;&nbsp;&nbsp;03021 Transcription machinery [BR:<a href="/brite/mcj03021+MCON_0640">mcj03021</a>]	
+MCON_0651			
+MCON_0660			
+MCON_0667			
+MCON_0672			
+MCON_0701			
+MCON_0714		&nbsp;&nbsp;&nbsp;03400 DNA repair and recombination proteins [BR:<a href="/brite/mcj03400+MCON_0714">mcj03400</a>]	
+MCON_0716		&nbsp;&nbsp;&nbsp;02048 Prokaryotic defense system [BR:<a href="/brite/mcj02048+MCON_0716">mcj02048</a>]	
+MCON_0717		&nbsp;&nbsp;&nbsp;02048 Prokaryotic defense system [BR:<a href="/brite/mcj02048+MCON_0717">mcj02048</a>]	
+MCON_0725			
+MCON_0728		&nbsp;&nbsp;&nbsp;03009 Ribosome biogenesis [BR:<a href="/brite/mcj03009+MCON_0728">mcj03009</a>]	
+MCON_0747			
+MCON_0759			
+MCON_0760			
+MCON_0762			
+MCON_0764		&nbsp;&nbsp;&nbsp;03032 DNA replication proteins [BR:<a href="/brite/mcj03032+MCON_0764">mcj03032</a>]	
+MCON_0773			
+MCON_0778			
+MCON_0779			
+MCON_0780		&nbsp;&nbsp;&nbsp;01004 Lipid biosynthesis proteins [BR:<a href="/brite/mcj01004+MCON_0780">mcj01004</a>]	
+MCON_0797			
+MCON_0798		&nbsp;&nbsp;&nbsp;03032 DNA replication proteins [BR:<a href="/brite/mcj03032+MCON_0798">mcj03032</a>]	
+MCON_0799			
+MCON_0803			
+MCON_0804			
+MCON_0806			
+MCON_0819			
+MCON_0840			
+MCON_0894			
+MCON_0898			
+MCON_0899		&nbsp;&nbsp;&nbsp;01007 Amino acid related enzymes [BR:<a href="/brite/mcj01007+MCON_0899">mcj01007</a>]	
+MCON_0900			
+MCON_0901			
+MCON_0907			
+MCON_0918			
+MCON_0919			
+MCON_0923			
+MCON_0926			
+MCON_0937		&nbsp;&nbsp;&nbsp;01002 Peptidases and inhibitors [BR:<a href="/brite/mcj01002+MCON_0937">mcj01002</a>]	
+MCON_0941			
+MCON_0966		&nbsp;&nbsp;&nbsp;04147 Exosome [BR:<a href="/brite/mcj04147+MCON_0966">mcj04147</a>]	
+MCON_0968			
+MCON_0973		&nbsp;&nbsp;&nbsp;03021 Transcription machinery [BR:<a href="/brite/mcj03021+MCON_0973">mcj03021</a>]	
+MCON_1025			
+MCON_1026			
+MCON_1033			
+MCON_1034		&nbsp;&nbsp;&nbsp;01002 Peptidases and inhibitors [BR:<a href="/brite/mcj01002+MCON_1034">mcj01002</a>]	
+MCON_1040		&nbsp;&nbsp;&nbsp;02000 Transporters [BR:<a href="/brite/mcj02000+MCON_1040">mcj02000</a>]	
+MCON_1043		&nbsp;&nbsp;&nbsp;03400 DNA repair and recombination proteins [BR:<a href="/brite/mcj03400+MCON_1043">mcj03400</a>]	
+MCON_1052			
+MCON_1054		&nbsp;&nbsp;&nbsp;02000 Transporters [BR:<a href="/brite/mcj02000+MCON_1054">mcj02000</a>]	
+MCON_1056			
+MCON_1058			
+MCON_1062			
+MCON_1068			
+MCON_1069			
+MCON_1070			
+MCON_1071			
+MCON_1072			
+MCON_1073			
+MCON_1074			
+MCON_1075			
+MCON_1076			
+MCON_1081			
+MCON_1082		&nbsp;&nbsp;&nbsp;04147 Exosome [BR:<a href="/brite/mcj04147+MCON_1082">mcj04147</a>]	
+MCON_1091			
+MCON_1102		&nbsp;&nbsp;&nbsp;03032 DNA replication proteins [BR:<a href="/brite/mcj03032+MCON_1102">mcj03032</a>]	
+MCON_1103		&nbsp;&nbsp;&nbsp;03032 DNA replication proteins [BR:<a href="/brite/mcj03032+MCON_1103">mcj03032</a>]	
+MCON_1110			
+MCON_1111			
+MCON_1123		&nbsp;&nbsp;&nbsp;03019 Messenger RNA biogenesis [BR:<a href="/brite/mcj03019+MCON_1123">mcj03019</a>]	
+MCON_1129			
+MCON_1133		&nbsp;&nbsp;&nbsp;01003 Glycosyltransferases [BR:<a href="/brite/mcj01003+MCON_1133">mcj01003</a>]	
+MCON_1147			
+MCON_1149			
+MCON_1150		&nbsp;&nbsp;&nbsp;03016 Transfer RNA biogenesis [BR:<a href="/brite/mcj03016+MCON_1150">mcj03016</a>]	
+MCON_1151		&nbsp;&nbsp;&nbsp;03016 Transfer RNA biogenesis [BR:<a href="/brite/mcj03016+MCON_1151">mcj03016</a>]	
+MCON_1154			
+MCON_1155			
+MCON_1157		&nbsp;&nbsp;&nbsp;03009 Ribosome biogenesis [BR:<a href="/brite/mcj03009+MCON_1157">mcj03009</a>]	
+MCON_1158		&nbsp;&nbsp;&nbsp;01007 Amino acid related enzymes [BR:<a href="/brite/mcj01007+MCON_1158">mcj01007</a>]	
+MCON_1159			
+MCON_1163			
+MCON_1164			
+MCON_1180		&nbsp;&nbsp;&nbsp;01007 Amino acid related enzymes [BR:<a href="/brite/mcj01007+MCON_1180">mcj01007</a>]	
+MCON_1192			
+MCON_1198			
+MCON_1199		&nbsp;&nbsp;&nbsp;01007 Amino acid related enzymes [BR:<a href="/brite/mcj01007+MCON_1199">mcj01007</a>]	
+MCON_1200			
+MCON_1206		&nbsp;&nbsp;&nbsp;01002 Peptidases and inhibitors [BR:<a href="/brite/mcj01002+MCON_1206">mcj01002</a>]	
+MCON_1210			
+MCON_1211			
+MCON_1212			
+MCON_1213			
+MCON_1223			
+MCON_1227		&nbsp;&nbsp;&nbsp;01002 Peptidases and inhibitors [BR:<a href="/brite/mcj01002+MCON_1227">mcj01002</a>]	
+MCON_1237			
+MCON_1239			
+MCON_1240			
+MCON_1251			
+MCON_1268			
+MCON_1271			
+MCON_1272			
+MCON_1274		&nbsp;&nbsp;&nbsp;03021 Transcription machinery [BR:<a href="/brite/mcj03021+MCON_1274">mcj03021</a>]	
+MCON_1275		&nbsp;&nbsp;&nbsp;03021 Transcription machinery [BR:<a href="/brite/mcj03021+MCON_1275">mcj03021</a>]	
+MCON_1276		&nbsp;&nbsp;&nbsp;03021 Transcription machinery [BR:<a href="/brite/mcj03021+MCON_1276">mcj03021</a>]	
+MCON_1277		&nbsp;&nbsp;&nbsp;03021 Transcription machinery [BR:<a href="/brite/mcj03021+MCON_1277">mcj03021</a>]	
+MCON_1278		&nbsp;&nbsp;&nbsp;03021 Transcription machinery [BR:<a href="/brite/mcj03021+MCON_1278">mcj03021</a>]	
+MCON_1290			
+MCON_1297			
+MCON_1298			
+MCON_1299			
+MCON_1300			
+MCON_1301			
+MCON_1311			
+MCON_1314		&nbsp;&nbsp;&nbsp;01001 Protein kinases [BR:<a href="/brite/mcj01001+MCON_1314">mcj01001</a>]	
+MCON_1315			
+MCON_1319		&nbsp;&nbsp;&nbsp;03400 DNA repair and recombination proteins [BR:<a href="/brite/mcj03400+MCON_1319">mcj03400</a>]	
+MCON_1320			
+MCON_1321		&nbsp;&nbsp;&nbsp;03016 Transfer RNA biogenesis [BR:<a href="/brite/mcj03016+MCON_1321">mcj03016</a>]	
+MCON_1325			
+MCON_1326			
+MCON_1330			
+MCON_1332			
+MCON_1335			
+MCON_1340			
+MCON_1345			
+MCON_1346			
+MCON_1351		&nbsp;&nbsp;&nbsp;03400 DNA repair and recombination proteins [BR:<a href="/brite/mcj03400+MCON_1351">mcj03400</a>]	
+MCON_1356			
+MCON_1365			
+MCON_1368		&nbsp;&nbsp;&nbsp;04147 Exosome [BR:<a href="/brite/mcj04147+MCON_1368">mcj04147</a>]	
+MCON_1370		&nbsp;&nbsp;&nbsp;03016 Transfer RNA biogenesis [BR:<a href="/brite/mcj03016+MCON_1370">mcj03016</a>]	
+MCON_1371			
+MCON_1374			
+MCON_1376			
+MCON_1383			
+MCON_1395		&nbsp;&nbsp;&nbsp;01007 Amino acid related enzymes [BR:<a href="/brite/mcj01007+MCON_1395">mcj01007</a>]	
+MCON_1404		&nbsp;&nbsp;&nbsp;04131 Membrane trafficking [BR:<a href="/brite/mcj04131+MCON_1404">mcj04131</a>]	
+MCON_1405		&nbsp;&nbsp;&nbsp;03110 Chaperones and folding catalysts [BR:<a href="/brite/mcj03110+MCON_1405">mcj03110</a>]	
+MCON_1407			
+MCON_1410		&nbsp;&nbsp;&nbsp;01007 Amino acid related enzymes [BR:<a href="/brite/mcj01007+MCON_1410">mcj01007</a>]	
+MCON_1435			
+MCON_1441			
+MCON_1443			
+MCON_1444		&nbsp;&nbsp;&nbsp;01003 Glycosyltransferases [BR:<a href="/brite/mcj01003+MCON_1444">mcj01003</a>]	
+MCON_1447		&nbsp;&nbsp;&nbsp;03016 Transfer RNA biogenesis [BR:<a href="/brite/mcj03016+MCON_1447">mcj03016</a>]	
+MCON_1449			
+MCON_1451			
+MCON_1453			
+MCON_1455			
+MCON_1456		&nbsp;&nbsp;&nbsp;04147 Exosome [BR:<a href="/brite/mcj04147+MCON_1456">mcj04147</a>]	
+MCON_1457			
+MCON_1462		&nbsp;&nbsp;&nbsp;02000 Transporters [BR:<a href="/brite/mcj02000+MCON_1462">mcj02000</a>]	
+MCON_1467			
+MCON_1468			
+MCON_1469			
+MCON_1470			
+MCON_1471			
+MCON_1472			
+MCON_1478			
+MCON_1484			
+MCON_1485		&nbsp;&nbsp;&nbsp;01003 Glycosyltransferases [BR:<a href="/brite/mcj01003+MCON_1485">mcj01003</a>]	
+MCON_1490			
+MCON_1491		&nbsp;&nbsp;&nbsp;03000 Transcription factors [BR:<a href="/brite/mcj03000+MCON_1491">mcj03000</a>]	
+MCON_1493			
+MCON_1494			
+MCON_1495			
+MCON_1498		&nbsp;&nbsp;&nbsp;03032 DNA replication proteins [BR:<a href="/brite/mcj03032+MCON_1498">mcj03032</a>]	
+MCON_1501		&nbsp;&nbsp;&nbsp;04147 Exosome [BR:<a href="/brite/mcj04147+MCON_1501">mcj04147</a>]	
+MCON_1502			
+MCON_1503			
+MCON_1504			
+MCON_1507			
+MCON_1509			
+MCON_1517			
+MCON_1529			
+MCON_1530			
+MCON_1531			
+MCON_1542			
+MCON_1547		&nbsp;&nbsp;&nbsp;03032 DNA replication proteins [BR:<a href="/brite/mcj03032+MCON_1547">mcj03032</a>]	
+MCON_1548		&nbsp;&nbsp;&nbsp;03032 DNA replication proteins [BR:<a href="/brite/mcj03032+MCON_1548">mcj03032</a>]	
+MCON_1607		&nbsp;&nbsp;&nbsp;01002 Peptidases and inhibitors [BR:<a href="/brite/mcj01002+MCON_1607">mcj01002</a>]	
+MCON_1608		&nbsp;&nbsp;&nbsp;03032 DNA replication proteins [BR:<a href="/brite/mcj03032+MCON_1608">mcj03032</a>]	
+MCON_1611			
+MCON_1612			
+MCON_1613		&nbsp;&nbsp;&nbsp;01007 Amino acid related enzymes [BR:<a href="/brite/mcj01007+MCON_1613">mcj01007</a>]	
+MCON_1614		&nbsp;&nbsp;&nbsp;01007 Amino acid related enzymes [BR:<a href="/brite/mcj01007+MCON_1614">mcj01007</a>]	
+MCON_1615		&nbsp;&nbsp;&nbsp;03009 Ribosome biogenesis [BR:<a href="/brite/mcj03009+MCON_1615">mcj03009</a>]	
+MCON_1616			
+MCON_1623		&nbsp;&nbsp;&nbsp;03032 DNA replication proteins [BR:<a href="/brite/mcj03032+MCON_1623">mcj03032</a>]	
+MCON_1631			
+MCON_1637			
+MCON_1651			
+MCON_1652			
+MCON_1654		&nbsp;&nbsp;&nbsp;03400 DNA repair and recombination proteins [BR:<a href="/brite/mcj03400+MCON_1654">mcj03400</a>]	
+MCON_1668		&nbsp;&nbsp;&nbsp;01007 Amino acid related enzymes [BR:<a href="/brite/mcj01007+MCON_1668">mcj01007</a>]	
+MCON_1678			
+MCON_1679			
+MCON_1680			
+MCON_1681			
+MCON_1682			
+MCON_1683			
+MCON_1684			
+MCON_1685			
+MCON_1686			
+MCON_1689			
+MCON_1696		&nbsp;&nbsp;&nbsp;03012 Translation factors [BR:<a href="/brite/mcj03012+MCON_1696">mcj03012</a>]	
+MCON_1703		&nbsp;&nbsp;&nbsp;04131 Membrane trafficking [BR:<a href="/brite/mcj04131+MCON_1703">mcj04131</a>]	
+MCON_1716		&nbsp;&nbsp;&nbsp;02044 Secretion system [BR:<a href="/brite/mcj02044+MCON_1716">mcj02044</a>]	
+MCON_1722			
+MCON_1723			
+MCON_1733			
+MCON_1734			
+MCON_1735			
+MCON_1757			
+MCON_1760		&nbsp;&nbsp;&nbsp;04147 Exosome [BR:<a href="/brite/mcj04147+MCON_1760">mcj04147</a>]	
+MCON_1764			
+MCON_1770			
+MCON_1799		&nbsp;&nbsp;&nbsp;01004 Lipid biosynthesis proteins [BR:<a href="/brite/mcj01004+MCON_1799">mcj01004</a>]	
+MCON_1800			
+MCON_1801			
+MCON_1802		&nbsp;&nbsp;&nbsp;03400 DNA repair and recombination proteins [BR:<a href="/brite/mcj03400+MCON_1802">mcj03400</a>]	
+MCON_1803		&nbsp;&nbsp;&nbsp;03400 DNA repair and recombination proteins [BR:<a href="/brite/mcj03400+MCON_1803">mcj03400</a>]	
+MCON_1809			
+MCON_1830			
+MCON_1835		&nbsp;&nbsp;&nbsp;02000 Transporters [BR:<a href="/brite/mcj02000+MCON_1835">mcj02000</a>]	
+MCON_1862			
+MCON_1866			
+MCON_1871		&nbsp;&nbsp;&nbsp;03016 Transfer RNA biogenesis [BR:<a href="/brite/mcj03016+MCON_1871">mcj03016</a>]	
+MCON_1872			
+MCON_1873		&nbsp;&nbsp;&nbsp;04147 Exosome [BR:<a href="/brite/mcj04147+MCON_1873">mcj04147</a>]	
+MCON_1877		&nbsp;&nbsp;&nbsp;03400 DNA repair and recombination proteins [BR:<a href="/brite/mcj03400+MCON_1877">mcj03400</a>]	
+MCON_1878		&nbsp;&nbsp;&nbsp;03016 Transfer RNA biogenesis [BR:<a href="/brite/mcj03016+MCON_1878">mcj03016</a>]	
+MCON_1881			
+MCON_1886		&nbsp;&nbsp;&nbsp;03016 Transfer RNA biogenesis [BR:<a href="/brite/mcj03016+MCON_1886">mcj03016</a>]	
+MCON_1892		&nbsp;&nbsp;&nbsp;03016 Transfer RNA biogenesis [BR:<a href="/brite/mcj03016+MCON_1892">mcj03016</a>]	
+MCON_1902			
+MCON_1904		&nbsp;&nbsp;&nbsp;03016 Transfer RNA biogenesis [BR:<a href="/brite/mcj03016+MCON_1904">mcj03016</a>]	
+MCON_1906			
+MCON_1907			
+MCON_1908			
+MCON_1914		&nbsp;&nbsp;&nbsp;01002 Peptidases and inhibitors [BR:<a href="/brite/mcj01002+MCON_1914">mcj01002</a>]	
+MCON_1915		&nbsp;&nbsp;&nbsp;01002 Peptidases and inhibitors [BR:<a href="/brite/mcj01002+MCON_1915">mcj01002</a>]	
+MCON_1916			
+MCON_1918			
+MCON_1920			
+MCON_1922			
+MCON_1928			
+MCON_1929			
+MCON_1930			
+MCON_1934			
+MCON_1942			
+MCON_1948		&nbsp;&nbsp;&nbsp;02044 Secretion system [BR:<a href="/brite/mcj02044+MCON_1948">mcj02044</a>]	
+MCON_1950		&nbsp;&nbsp;&nbsp;01007 Amino acid related enzymes [BR:<a href="/brite/mcj01007+MCON_1950">mcj01007</a>]	
+MCON_1953			
+MCON_1956		&nbsp;&nbsp;&nbsp;03016 Transfer RNA biogenesis [BR:<a href="/brite/mcj03016+MCON_1956">mcj03016</a>]	
+MCON_1962		&nbsp;&nbsp;&nbsp;01007 Amino acid related enzymes [BR:<a href="/brite/mcj01007+MCON_1962">mcj01007</a>]	
+MCON_1964		&nbsp;&nbsp;&nbsp;04147 Exosome [BR:<a href="/brite/mcj04147+MCON_1964">mcj04147</a>]	
+MCON_1967			
+MCON_1969			
+MCON_1973			
+MCON_1974		&nbsp;&nbsp;&nbsp;01007 Amino acid related enzymes [BR:<a href="/brite/mcj01007+MCON_1974">mcj01007</a>]	
+MCON_1975		&nbsp;&nbsp;&nbsp;01007 Amino acid related enzymes [BR:<a href="/brite/mcj01007+MCON_1975">mcj01007</a>]	
+MCON_2011		&nbsp;&nbsp;&nbsp;03032 DNA replication proteins [BR:<a href="/brite/mcj03032+MCON_2011">mcj03032</a>]	
+MCON_2021			
+MCON_2023		&nbsp;&nbsp;&nbsp;01001 Protein kinases [BR:<a href="/brite/mcj01001+MCON_2023">mcj01001</a>]	
+MCON_2025			
+MCON_2026			
+MCON_2033		&nbsp;&nbsp;&nbsp;01007 Amino acid related enzymes [BR:<a href="/brite/mcj01007+MCON_2033">mcj01007</a>]	
+MCON_2044			
+MCON_2054		&nbsp;&nbsp;&nbsp;02048 Prokaryotic defense system [BR:<a href="/brite/mcj02048+MCON_2054">mcj02048</a>]	
+MCON_2055		&nbsp;&nbsp;&nbsp;02048 Prokaryotic defense system [BR:<a href="/brite/mcj02048+MCON_2055">mcj02048</a>]	
+MCON_2064		&nbsp;&nbsp;&nbsp;03400 DNA repair and recombination proteins [BR:<a href="/brite/mcj03400+MCON_2064">mcj03400</a>]	
+MCON_2071			
+MCON_2072			
+MCON_2076			
+MCON_2082		&nbsp;&nbsp;&nbsp;03016 Transfer RNA biogenesis [BR:<a href="/brite/mcj03016+MCON_2082">mcj03016</a>]	
+MCON_2084			
+MCON_2089		&nbsp;&nbsp;&nbsp;01007 Amino acid related enzymes [BR:<a href="/brite/mcj01007+MCON_2089">mcj01007</a>]	
+MCON_2095			
+MCON_2101		&nbsp;&nbsp;&nbsp;01007 Amino acid related enzymes [BR:<a href="/brite/mcj01007+MCON_2101">mcj01007</a>]	
+MCON_2106		&nbsp;&nbsp;&nbsp;01007 Amino acid related enzymes [BR:<a href="/brite/mcj01007+MCON_2106">mcj01007</a>]	
+MCON_2107		&nbsp;&nbsp;&nbsp;03019 Messenger RNA biogenesis [BR:<a href="/brite/mcj03019+MCON_2107">mcj03019</a>]	
+MCON_2117		&nbsp;&nbsp;&nbsp;01007 Amino acid related enzymes [BR:<a href="/brite/mcj01007+MCON_2117">mcj01007</a>]	
+MCON_2129			
+MCON_2203			
+MCON_2217			
+MCON_2233			
+MCON_2237			
+MCON_2245			
+MCON_2254			
+MCON_2256			
+MCON_2264		&nbsp;&nbsp;&nbsp;03032 DNA replication proteins [BR:<a href="/brite/mcj03032+MCON_2264">mcj03032</a>]	
+MCON_2279			
+MCON_2293		&nbsp;&nbsp;&nbsp;01007 Amino acid related enzymes [BR:<a href="/brite/mcj01007+MCON_2293">mcj01007</a>]	
+MCON_2295			
+MCON_2296		&nbsp;&nbsp;&nbsp;01007 Amino acid related enzymes [BR:<a href="/brite/mcj01007+MCON_2296">mcj01007</a>]	
+MCON_2304			
+MCON_2320			
+MCON_2321			
+MCON_2326		&nbsp;&nbsp;&nbsp;03400 DNA repair and recombination proteins [BR:<a href="/brite/mcj03400+MCON_2326">mcj03400</a>]	
+MCON_2332			
+MCON_2335			
+MCON_2339		&nbsp;&nbsp;&nbsp;04147 Exosome [BR:<a href="/brite/mcj04147+MCON_2339">mcj04147</a>]	
+MCON_2350			
+MCON_2351			
+MCON_2355		&nbsp;&nbsp;&nbsp;04147 Exosome [BR:<a href="/brite/mcj04147+MCON_2355">mcj04147</a>]	
+MCON_2372			
+MCON_2378			
+MCON_2389			
+MCON_2393			
+MCON_2394			
+MCON_2395			
+MCON_2415			
+MCON_2417		&nbsp;&nbsp;&nbsp;03400 DNA repair and recombination proteins [BR:<a href="/brite/mcj03400+MCON_2417">mcj03400</a>]	
+MCON_2418		&nbsp;&nbsp;&nbsp;01007 Amino acid related enzymes [BR:<a href="/brite/mcj01007+MCON_2418">mcj01007</a>]	
+MCON_2419		&nbsp;&nbsp;&nbsp;01007 Amino acid related enzymes [BR:<a href="/brite/mcj01007+MCON_2419">mcj01007</a>]	
+MCON_2443			
+MCON_2449			
+MCON_2455		&nbsp;&nbsp;&nbsp;04131 Membrane trafficking [BR:<a href="/brite/mcj04131+MCON_2455">mcj04131</a>]	
+MCON_2461			
+MCON_2465			
+MCON_2478			
+MCON_2483			
+MCON_2507		&nbsp;&nbsp;&nbsp;03032 DNA replication proteins [BR:<a href="/brite/mcj03032+MCON_2507">mcj03032</a>]	
+MCON_2511			
+MCON_2516			
+MCON_2525		&nbsp;&nbsp;&nbsp;04147 Exosome [BR:<a href="/brite/mcj04147+MCON_2525">mcj04147</a>]	
+MCON_2526			
+MCON_2528			
+MCON_2549			
+MCON_2555		&nbsp;&nbsp;&nbsp;01006 Prenyltransferases [BR:<a href="/brite/mcj01006+MCON_2555">mcj01006</a>]	
+MCON_2557			
+MCON_2558			
+MCON_2559			
+MCON_2562		&nbsp;&nbsp;&nbsp;03021 Transcription machinery [BR:<a href="/brite/mcj03021+MCON_2562">mcj03021</a>]	
+MCON_2564		&nbsp;&nbsp;&nbsp;03021 Transcription machinery [BR:<a href="/brite/mcj03021+MCON_2564">mcj03021</a>]	
+MCON_2572			
+MCON_2575			
+MCON_2577			
+MCON_2582		&nbsp;&nbsp;&nbsp;01002 Peptidases and inhibitors [BR:<a href="/brite/mcj01002+MCON_2582">mcj01002</a>]	
+MCON_2583			
+MCON_2590			
+MCON_2591			
+MCON_2593			
+MCON_2594			
+MCON_2596			
+MCON_2598		&nbsp;&nbsp;&nbsp;03012 Translation factors [BR:<a href="/brite/mcj03012+MCON_2598">mcj03012</a>]	
+MCON_2599			
+MCON_2602		&nbsp;&nbsp;&nbsp;03400 DNA repair and recombination proteins [BR:<a href="/brite/mcj03400+MCON_2602">mcj03400</a>]	
+MCON_2610			
+MCON_2612			
+MCON_2613		&nbsp;&nbsp;&nbsp;04147 Exosome [BR:<a href="/brite/mcj04147+MCON_2613">mcj04147</a>]	
+MCON_2626			
+MCON_2631			
+MCON_2633		&nbsp;&nbsp;&nbsp;03110 Chaperones and folding catalysts [BR:<a href="/brite/mcj03110+MCON_2633">mcj03110</a>]	
+MCON_2639			
+MCON_2640			
+MCON_2643			
+MCON_2644			
+MCON_2645			
+MCON_2653			
+MCON_2654			
+MCON_2658			
+MCON_2659			
+MCON_2661			
+MCON_2663		&nbsp;&nbsp;&nbsp;03016 Transfer RNA biogenesis [BR:<a href="/brite/mcj03016+MCON_2663">mcj03016</a>]	
+MCON_2669			
+MCON_2673		&nbsp;&nbsp;&nbsp;03036 Chromosome and associated proteins [BR:<a href="/brite/mcj03036+MCON_2673">mcj03036</a>]	
+MCON_2676		&nbsp;&nbsp;&nbsp;03016 Transfer RNA biogenesis [BR:<a href="/brite/mcj03016+MCON_2676">mcj03016</a>]	
+MCON_2678			
+MCON_2695		&nbsp;&nbsp;&nbsp;03009 Ribosome biogenesis [BR:<a href="/brite/mcj03009+MCON_2695">mcj03009</a>]	
+MCON_2714			
+MCON_2721			
+MCON_2722			
+MCON_2723		&nbsp;&nbsp;&nbsp;01002 Peptidases and inhibitors [BR:<a href="/brite/mcj01002+MCON_2723">mcj01002</a>]	
+MCON_2732			
+MCON_2737			
+MCON_2739			
+MCON_2748		&nbsp;&nbsp;&nbsp;03016 Transfer RNA biogenesis [BR:<a href="/brite/mcj03016+MCON_2748">mcj03016</a>]	
+MCON_2750		&nbsp;&nbsp;&nbsp;03016 Transfer RNA biogenesis [BR:<a href="/brite/mcj03016+MCON_2750">mcj03016</a>]	
+MCON_2752		&nbsp;&nbsp;&nbsp;03021 Transcription machinery [BR:<a href="/brite/mcj03021+MCON_2752">mcj03021</a>]	
+MCON_2754		&nbsp;&nbsp;&nbsp;03009 Ribosome biogenesis [BR:<a href="/brite/mcj03009+MCON_2754">mcj03009</a>]	
+MCON_2755			
+MCON_2758			
+MCON_2759			
+MCON_2769			
+MCON_2772			
+MCON_2775		&nbsp;&nbsp;&nbsp;01007 Amino acid related enzymes [BR:<a href="/brite/mcj01007+MCON_2775">mcj01007</a>]	
+MCON_2794		&nbsp;&nbsp;&nbsp;01006 Prenyltransferases [BR:<a href="/brite/mcj01006+MCON_2794">mcj01006</a>]	
+MCON_2812			
+MCON_2819			
+MCON_2821			
+MCON_2824			
+MCON_2837			
+MCON_2840		&nbsp;&nbsp;&nbsp;01007 Amino acid related enzymes [BR:<a href="/brite/mcj01007+MCON_2840">mcj01007</a>]	
+MCON_2856		&nbsp;&nbsp;&nbsp;01002 Peptidases and inhibitors [BR:<a href="/brite/mcj01002+MCON_2856">mcj01002</a>]	
+MCON_2865			
+MCON_2868		&nbsp;&nbsp;&nbsp;01004 Lipid biosynthesis proteins [BR:<a href="/brite/mcj01004+MCON_2868">mcj01004</a>]	
+MCON_2872			
+MCON_2873			
+MCON_2874			
+MCON_2875			
+MCON_2876			
+MCON_2882			
+MCON_2883			
+MCON_2884			
+MCON_2892		&nbsp;&nbsp;&nbsp;01002 Peptidases and inhibitors [BR:<a href="/brite/mcj01002+MCON_2892">mcj01002</a>]	
+MCON_2896			
+MCON_2898			
+MCON_2907		&nbsp;&nbsp;&nbsp;03016 Transfer RNA biogenesis [BR:<a href="/brite/mcj03016+MCON_2907">mcj03016</a>]	
+MCON_2908			
+MCON_2909			
+MCON_2920		&nbsp;&nbsp;&nbsp;03016 Transfer RNA biogenesis [BR:<a href="/brite/mcj03016+MCON_2920">mcj03016</a>]	
+MCON_2922		&nbsp;&nbsp;&nbsp;01009 Protein phosphatases and associated proteins [BR:<a href="/brite/mcj01009+MCON_2922">mcj01009</a>]	
+MCON_2923			
+MCON_2926		&nbsp;&nbsp;&nbsp;03400 DNA repair and recombination proteins [BR:<a href="/brite/mcj03400+MCON_2926">mcj03400</a>]	
+MCON_2949		&nbsp;&nbsp;&nbsp;03016 Transfer RNA biogenesis [BR:<a href="/brite/mcj03016+MCON_2949">mcj03016</a>]	
+MCON_2971			
+MCON_2973			
+MCON_2974			
+MCON_2977			
+MCON_2988		&nbsp;&nbsp;&nbsp;04147 Exosome [BR:<a href="/brite/mcj04147+MCON_2988">mcj04147</a>]	
+MCON_2997			
+MCON_2998			
+MCON_3017			
+MCON_3022			
+MCON_3042			
+MCON_3046			
+MCON_3057			
+MCON_3059			
+MCON_3060			
+MCON_3061			
+MCON_3062			
+MCON_3063			
+MCON_3064			
+MCON_3067			
+MCON_3068			
+MCON_3069			
+MCON_3070			
+MCON_3079			
+MCON_3080			
+MCON_3086			
+MCON_3089			
+MCON_3101			
+MCON_3103			
+MCON_3109			
+MCON_3110			
+MCON_3113		&nbsp;&nbsp;&nbsp;01007 Amino acid related enzymes [BR:<a href="/brite/mcj01007+MCON_3113">mcj01007</a>]	
+MCON_3114			
+MCON_3127		&nbsp;&nbsp;&nbsp;03021 Transcription machinery [BR:<a href="/brite/mcj03021+MCON_3127">mcj03021</a>]	
+MCON_3135		&nbsp;&nbsp;&nbsp;01007 Amino acid related enzymes [BR:<a href="/brite/mcj01007+MCON_3135">mcj01007</a>]	
+MCON_3136			
+MCON_3141			
+MCON_3148		&nbsp;&nbsp;&nbsp;03009 Ribosome biogenesis [BR:<a href="/brite/mcj03009+MCON_3148">mcj03009</a>]	
+MCON_3149		&nbsp;&nbsp;&nbsp;03009 Ribosome biogenesis [BR:<a href="/brite/mcj03009+MCON_3149">mcj03009</a>]	
+MCON_3156		&nbsp;&nbsp;&nbsp;03021 Transcription machinery [BR:<a href="/brite/mcj03021+MCON_3156">mcj03021</a>]	
+MCON_3163			
+MCON_3166			
+MCON_3168			
+MCON_3174		&nbsp;&nbsp;&nbsp;03016 Transfer RNA biogenesis [BR:<a href="/brite/mcj03016+MCON_3174">mcj03016</a>]	
+MCON_3175		&nbsp;&nbsp;&nbsp;03012 Translation factors [BR:<a href="/brite/mcj03012+MCON_3175">mcj03012</a>]	
+MCON_3176		&nbsp;&nbsp;&nbsp;03032 DNA replication proteins [BR:<a href="/brite/mcj03032+MCON_3176">mcj03032</a>]	
+MCON_3179		&nbsp;&nbsp;&nbsp;03032 DNA replication proteins [BR:<a href="/brite/mcj03032+MCON_3179">mcj03032</a>]	
+MCON_3184			
+MCON_3186		&nbsp;&nbsp;&nbsp;03021 Transcription machinery [BR:<a href="/brite/mcj03021+MCON_3186">mcj03021</a>]	
+MCON_3190			
+MCON_3198			
+MCON_3199			
+MCON_3207			
+MCON_3217		&nbsp;&nbsp;&nbsp;03016 Transfer RNA biogenesis [BR:<a href="/brite/mcj03016+MCON_3217">mcj03016</a>]	
+MCON_3229			
+MCON_3230			
+MCON_3231			
+MCON_3232			
+MCON_3250			
+MCON_3265		&nbsp;&nbsp;&nbsp;02048 Prokaryotic defense system [BR:<a href="/brite/mcj02048+MCON_3265">mcj02048</a>]	
+MCON_3269		&nbsp;&nbsp;&nbsp;02048 Prokaryotic defense system [BR:<a href="/brite/mcj02048+MCON_3269">mcj02048</a>]	
+MCON_3279			
+MCON_3282			
+MCON_3283			
+MCON_3293		&nbsp;&nbsp;&nbsp;04147 Exosome [BR:<a href="/brite/mcj04147+MCON_3293">mcj04147</a>]	
+MCON_3294			
+MCON_3296			
+MCON_3300			
+MCON_3301			
+MCON_3302		&nbsp;&nbsp;&nbsp;04147 Exosome [BR:<a href="/brite/mcj04147+MCON_3302">mcj04147</a>]	
+MCON_3307			
+MCON_3308			
+MCON_3310		&nbsp;&nbsp;&nbsp;01006 Prenyltransferases [BR:<a href="/brite/mcj01006+MCON_3310">mcj01006</a>]	
+MCON_3313			
+MCON_3321			
+MCON_3335			
+MCON_3352		&nbsp;&nbsp;&nbsp;04147 Exosome [BR:<a href="/brite/mcj04147+MCON_3352">mcj04147</a>]	
+MCON_3354		&nbsp;&nbsp;&nbsp;03009 Ribosome biogenesis [BR:<a href="/brite/mcj03009+MCON_3354">mcj03009</a>]	
+MCON_3359			
+MCON_3362			
+MCON_3369			
+MCON_3370			
+MCON_3371		&nbsp;&nbsp;&nbsp;04147 Exosome [BR:<a href="/brite/mcj04147+MCON_3371">mcj04147</a>]	
+MCON_3376		&nbsp;&nbsp;&nbsp;02048 Prokaryotic defense system [BR:<a href="/brite/mcj02048+MCON_3376">mcj02048</a>]	
+MCON_3379		&nbsp;&nbsp;&nbsp;02048 Prokaryotic defense system [BR:<a href="/brite/mcj02048+MCON_3379">mcj02048</a>]	
+MCON_3424		&nbsp;&nbsp;&nbsp;03012 Translation factors [BR:<a href="/brite/mcj03012+MCON_3424">mcj03012</a>]	
+MCON_3425		&nbsp;&nbsp;&nbsp;03016 Transfer RNA biogenesis [BR:<a href="/brite/mcj03016+MCON_3425">mcj03016</a>]	
+MCON_3441			
+MCON_3442			
+MCON_3444			
+MCON_3449		&nbsp;&nbsp;&nbsp;02000 Transporters [BR:<a href="/brite/mcj02000+MCON_3449">mcj02000</a>]	
+MCON_3455			
+MCON_3460		&nbsp;&nbsp;&nbsp;03016 Transfer RNA biogenesis [BR:<a href="/brite/mcj03016+MCON_3460">mcj03016</a>]	
+MCON_3465		&nbsp;&nbsp;&nbsp;03016 Transfer RNA biogenesis [BR:<a href="/brite/mcj03016+MCON_3465">mcj03016</a>]	
+MCON_3473			
+MCON_3474			
+MCON_3477			
+MCON_3478			
+MCON_3479			
+MCON_3480			
+MCON_3484		&nbsp;&nbsp;&nbsp;03019 Messenger RNA biogenesis [BR:<a href="/brite/mcj03019+MCON_3484">mcj03019</a>]	

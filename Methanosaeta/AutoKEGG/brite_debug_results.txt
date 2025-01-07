@@ -1,0 +1,58 @@
+Gene	Brite Info
+MCON_0015	</span></th>
+<td class="td10 defd"><div class="cel"><span class="nowrap">KEGG Orthology (KO) [BR:<a href="/brite/mcj00001+MCON_0015">mcj00001</a>]<br>
+&nbsp;09100 Metabolism<br>
+&nbsp;&nbsp;09102 Energy metabolism<br>
+&nbsp;&nbsp;&nbsp;00680 Methane metabolism<br>
+&nbsp;&nbsp;&nbsp;&nbsp;MCON_0015 (serB)<br>
+&nbsp;&nbsp;09105 Amino acid metabolism<br>
+&nbsp;&nbsp;&nbsp;00260 Glycine, serine and threonine metabolism<br>
+&nbsp;&nbsp;&nbsp;&nbsp;MCON_0015 (serB)<br>
+&nbsp;09180 Brite Hierarchies<br>
+&nbsp;&nbsp;09181 Protein families: metabolism<br>
+&nbsp;&nbsp;&nbsp;01009 Protein phosphatases and associated proteins [BR:<a href="/brite/mcj01009+MCON_0015">mcj01009</a>]<br>
+&nbsp;&nbsp;&nbsp;&nbsp;MCON_0015 (serB)<br>
+Enzymes [BR:<a href="/brite/mcj01000+MCON_0015">mcj01000</a>]<br>
+&nbsp;3. Hydrolases<br>
+&nbsp;&nbsp;3.1&nbsp;&nbsp;Acting on ester bonds<br>
+&nbsp;&nbsp;&nbsp;3.1.3&nbsp;&nbsp;Phosphoric-monoester hydrolases<br>
+&nbsp;&nbsp;&nbsp;&nbsp;3.1.3.3&nbsp;&nbsp;phosphoserine phosphatase<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MCON_0015 (serB)<br>
+Protein phosphatases and associated proteins [BR:<a href="/brite/mcj01009+MCON_0015">mcj01009</a>]<br>
+&nbsp;HAD phosphatases<br>
+&nbsp;&nbsp;Other HAD phosphatases<br>
+&nbsp;&nbsp;&nbsp;MCON_0015 (serB)<br>
+</span></div><button class="btn" onclick="location.href='https://www.kegg.jp/kegg-bin/search_brite?option=-a&amp;search_string=MCON_0015&amp;prefix=mcj';return false;">BRITE hierarchy</button></td></tr>
+
+
+<tr>
+MCON_0018	</span></th>
+<td class="td10 defd"><div class="cel"><span class="nowrap">Enzymes [BR:<a href="/brite/mcj01000+MCON_0018">mcj01000</a>]<br>
+&nbsp;7. Translocases<br>
+&nbsp;&nbsp;7.2&nbsp;&nbsp;Catalysing the translocation of inorganic cations<br>
+&nbsp;&nbsp;&nbsp;7.2.2&nbsp;&nbsp;Linked to the hydrolysis of a nucleoside triphosphate<br>
+&nbsp;&nbsp;&nbsp;&nbsp;7.2.2.8&nbsp;&nbsp;P-type Cu+ transporter<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MCON_0018<br>
+</span></div><button class="btn" onclick="location.href='https://www.kegg.jp/kegg-bin/search_brite?option=-a&amp;search_string=MCON_0018&amp;prefix=mcj';return false;">BRITE hierarchy</button></td></tr>
+
+
+<tr>
+MCON_0025	</span></th>
+<td class="td11 defd"><div class="cel"><span class="nowrap">KEGG Orthology (KO) [BR:<a href="/brite/mcj00001+MCON_0025">mcj00001</a>]<br>
+&nbsp;09100 Metabolism<br>
+&nbsp;&nbsp;09101 Carbohydrate metabolism<br>
+&nbsp;&nbsp;&nbsp;00562 Inositol phosphate metabolism<br>
+&nbsp;&nbsp;&nbsp;&nbsp;MCON_0025<br>
+&nbsp;&nbsp;09110 Biosynthesis of other secondary metabolites<br>
+&nbsp;&nbsp;&nbsp;00521 Streptomycin biosynthesis<br>
+&nbsp;&nbsp;&nbsp;&nbsp;MCON_0025<br>
+Enzymes [BR:<a href="/brite/mcj01000+MCON_0025">mcj01000</a>]<br>
+&nbsp;5. Isomerases<br>
+&nbsp;&nbsp;5.5&nbsp;&nbsp;Intramolecular lyases<br>
+&nbsp;&nbsp;&nbsp;5.5.1&nbsp;&nbsp;Intramolecular lyases (only sub-subclass identified to date)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;5.5.1.4&nbsp;&nbsp;inositol-3-phosphate synthase<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MCON_0025<br>
+</span></div><button class="btn" onclick="location.href='https://www.kegg.jp/kegg-bin/search_brite?option=-a&amp;search_string=MCON_0025&amp;prefix=mcj';return false;">BRITE hierarchy</button></td></tr>
+
+
+<tr>
