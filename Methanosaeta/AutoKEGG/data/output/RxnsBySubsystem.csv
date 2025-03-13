@@ -1,457 +1,457 @@
-Values,Var2,Var3
-0,Diphosphate + H2O <=> 2 Orthophosphate,MCON_1906
-0,2-Acetolactate + CO2 <=> 2 Pyruvate,MCON_0410 | MCON_0411
-0,Carbonic acid <=> CO2 + H2O,MCON_1210
-0,2 Superoxide + 2 H+ <=> Hydrogen peroxide + Oxygen,MCON_2612
-0,Glycine + H2O + NAD+ <=> Glyoxylate + Ammonia + NADH + H+,MCON_0907
-0,Methanol + Hydrogen peroxide <=> Formaldehyde + 2 H2O,MCON_0161
-0,Glycerone phosphate + H2O <=> Glycerone + Orthophosphate,MCON_2339
-0,"beta-D-Fructose 1,6-bisphosphate <=> Glycerone phosphate + D-Glyceraldehyde 3-phosphate",MCON_2528 | MCON_1478 | MCON_3321 | MCON_3232 | MCON_2526
-0,"2,3-Dihydroxy-3-methylbutanoate <=> 3-Methyl-2-oxobutanoic acid + H2O",MCON_1149
-0,Phenol + Acetate <=> Phenyl acetate + H2O,MCON_1799
-0,3-Phospho-D-glyceroyl phosphate + H2O <=> 3-Phospho-D-glycerate + Orthophosphate,MCON_0840 | MCON_3294
-0,"(R,R)-Tartaric acid <=> D-Glycerate + CO2",MCON_1272
-0,alpha-D-Glucose 6-phosphate <=> beta-D-Fructose 6-phosphate,MCON_2977
-0,O-Phospho-D-serine + H2O <=> D-Serine + Orthophosphate,MCON_0015 | MCON_0973
-0,dTDP-glucose <=> dTDP-galactose,MCON_1457 | MCON_1862 | MCON_3230 | MCON_1223
-0,2-Acetolactate + Thiamin diphosphate <=> 2-(alpha-Hydroxyethyl)thiamine diphosphate + Pyruvate,MCON_0410 | MCON_0411
-0,"2-Acetolactate + NADPH + H+ <=> 2,3-Dihydroxy-3-methylbutanoate + NADP+",MCON_0412
-0,alpha-D-Hexose 1-phosphate <=> alpha-D-Hexose 6-phosphate,MCON_0725
-0,beta-D-Glucose 6-phosphate <=> beta-D-Fructose 6-phosphate,MCON_2977
-0,2 S-Adenosyl-L-methionine + Uroporphyrin III <=> 2 S-Adenosyl-L-homocysteine + Sirohydrochlorin,MCON_0901
-0,3-Phospho-D-erythronate <=> Phosphoenol-4-deoxy-3-tetrulosonate + H2O,MCON_0157
-0,(S)-2-Acetolactate + Thiamin diphosphate <=> 2-(alpha-Hydroxyethyl)thiamine diphosphate + Pyruvate,MCON_0410 | MCON_0411
-0,2-Oxobutanoate + 2-(alpha-Hydroxyethyl)thiamine diphosphate <=> (S)-2-Aceto-2-hydroxybutanoate + Thiamin diphosphate,MCON_0410 | MCON_0411
-0,ATP + L-Selenomethionine + H2O <=> Orthophosphate + Diphosphate + Se-Adenosylselenomethionine,MCON_2824
-0,"beta-D-Fructose 1,6-bisphosphate + H2O <=> beta-D-Fructose 6-phosphate + Orthophosphate",MCON_2525 | MCON_2528
-0,ATP + Adenylylselenate <=> ADP + 3'-Phosphoadenylylselenate,MCON_2909
-0,2 Mycothiol + NAD+ <=> Mycothione + NADH + H+,MCON_0536
-0,2 Mycothiol + NADP+ <=> Mycothione + NADPH + H+,MCON_0536
-0,ADP + D-Glucose <=> AMP + D-Glucose 6-phosphate,MCON_0234
-0,Cobalt-precorrin 3 + S-Adenosyl-L-methionine <=> Cobalt-precorrin 4 + S-Adenosyl-L-homocysteine,MCON_1681
-0,L-Iditol + NAD+ <=> L-Sorbose + NADH + H+,MCON_0566
-0,L-Aspartate + H2O + NAD+ <=> Oxaloacetate + Ammonia + NADH + H+,MCON_1163
-0,L-Aspartate + H2O + NADP+ <=> Oxaloacetate + Ammonia + NADPH + H+,MCON_1163
-0,NADH + H+ + Oxygen <=> NAD+ + Hydrogen peroxide,MCON_0597
-0,Hydrogen + NADP+ <=> NADPH + H+,MCON_3103
-0,S-Adenosyl-L-methionine + Uroporphyrinogen III <=> S-Adenosyl-L-homocysteine + Precorrin 1,MCON_0901
-0,S-Adenosyl-L-methionine + Precorrin 1 <=> S-Adenosyl-L-homocysteine + Precorrin 2,MCON_0901
-0,D-Glyceraldehyde 3-phosphate + D-Ribulose 5-phosphate + L-Glutamine <=> Pyridoxal phosphate + L-Glutamate + Orthophosphate + 3 H2O,MCON_2350 | MCON_2351
-0,Spermidine + NAD+ <=> Dehydrospermidine + NADH + H+,MCON_3163 | MCON_3059
-0,2 ATP + HCO3- + Ammonia <=> 2 ADP + Orthophosphate + Carbamoyl phosphate,MCON_0086 | MCON_1025 | MCON_1026
-0,2-Hydroxyglutarate + NAD+ <=> 2-Oxoglutarate + NADH + H+,MCON_3371
-0,"beta-D-Fructose 6-phosphate + ADP <=> beta-D-Fructose 1,6-bisphosphate + AMP",MCON_0234
-0,O-Phospho-L-serine + Sulfite <=> L-Cysteate + Orthophosphate,MCON_0195
-0,Cobyrinate + L-Glutamine + ATP + H2O <=> Cobyrinate c-monamide + L-Glutamate + ADP + Orthophosphate,MCON_2971
-0,"Cobyrinate c-monamide + L-Glutamine + ATP + H2O <=> Cob(II)yrinate a,c diamide + L-Glutamate + ADP + Orthophosphate",MCON_2971
-0,ATP + Dephospho-CoA <=> 2'-(5-Triphosphoribosyl)-3'-dephospho-CoA + Adenine,MCON_0073
-0,Reduced coenzyme F420 + NADP+ <=> Coenzyme F420 + NADPH + H+,MCON_1371
-0,D-arabino-Hex-3-ulose 6-phosphate <=> beta-D-Fructose 6-phosphate,MCON_0429
-0,8-Oxo-dGTP + H2O <=> 8-Oxo-dGMP + Diphosphate,MCON_0143
-0,D-Ribose 5-phosphate + D-Glyceraldehyde 3-phosphate + Ammonia <=> Pyridoxal phosphate + 4 H2O + Orthophosphate,MCON_2350 | MCON_2351
-0,"ADP + (6S)-6beta-Hydroxy-1,4,5,6-tetrahydronicotinamide-adenine dinucleotide <=> AMP + Orthophosphate + NADH",MCON_1530
-0,"ADP + (6S)-6beta-Hydroxy-1,4,5,6-tetrahydronicotinamide-adenine dinucleotide phosphate <=> AMP + Orthophosphate + NADPH",MCON_1530
-0,"(6R)-6beta-Hydroxy-1,4,5,6-tetrahydronicotinamide-adenine dinucleotide <=> (6S)-6beta-Hydroxy-1,4,5,6-tetrahydronicotinamide-adenine dinucleotide",MCON_1530
-0,"(6R)-6beta-Hydroxy-1,4,5,6-tetrahydronicotinamide-adenine dinucleotide phosphate <=> (6S)-6beta-Hydroxy-1,4,5,6-tetrahydronicotinamide-adenine dinucleotide phosphate",MCON_1530
-0,5-Phospho-alpha-D-ribose 1-diphosphate + 4-Aminobenzoate <=> 4-(beta-D-Ribofuranosyl)aniline 5'-phosphate + CO2 + Diphosphate,MCON_2372 | MCON_0135
-0,"CDP-2,3-bis-(O-phytanyl)-sn-glycerol + L-Serine <=> CMP + 2,3-Bis-(O-phytanyl)-sn-glycero-1-phospho-L-serine",MCON_0461
-0,L-Threonine + ATP + HCO3- + H+ <=> L-Threonylcarbamoyladenylate + Diphosphate + H2O,MCON_0585
-0,"CDP-2,3-bis-(O-phytanyl)-sn-glycerol + 1D-myo-Inositol 3-phosphate <=> CMP + 1-Archaetidyl-1D-myo-inositol 3-phosphate",MCON_0773
-0,CTP + Phytol <=> CDP + Phytyl phosphate,MCON_2378
-0,ATP + HCO3- <=> ADP + Carboxyphosphate,MCON_0086 | MCON_1025 | MCON_1026
-0,Ammonia + Carboxyphosphate <=> Carbamate + Orthophosphate,MCON_0086 | MCON_1025 | MCON_1026
-0,2-Iminobutanoate + H2O <=> 2-Oxobutanoate + Ammonia,MCON_0330
-0,2-Aminobut-2-enoate <=> 2-Iminobutanoate,MCON_0330
-0,"Adenosine-GDP-cobinamide + N1-(5-Phospho-alpha-D-ribosyl)-5,6-dimethylbenzimidazole <=> GMP + Adenosylcobalamin 5'-phosphate",MCON_1723
-0,"4-Amino-5-hydroxymethyl-2-methylpyrimidine diphosphate + 2-[(2R,5Z)-2-Carboxy-4-methylthiazol-5(2H)-ylidene]ethyl phosphate <=> Diphosphate + Thiamin monophosphate + CO2",MCON_3369 | MCON_0806
-0,(R)-2-Hydroxyglutarate + NAD+ <=> 2-Oxoglutarate + NADH + H+,MCON_3371
-0,Reduced coenzyme F420 + Methanophenazine <=> Coenzyme F420 + Dihydromethanophenazine,MCON_3064 | MCON_3068 | MCON_3061 | MCON_3063 | MCON_3067 | MCON_3069 | MCON_3070 | MCON_2389 | MCON_3060 | MCON_3062
-0,"Ni(II)-pyridinium-3,5-bisthiocarboxylate mononucleotide <=> Pyridinium-3,5-bisthiocarboxylate mononucleotide + Nickel(2+)",MCON_0898 | MCON_0941
-0,"Deamino-NAD+ + HCO3- <=> AMP + Pyridinium-3,5-biscarboxylic acid mononucleotide",MCON_1809
-0,"ATP + Pyridinium-3,5-biscarboxylic acid mononucleotide <=> Diphosphate + 5-Carboxy-1-(5-O-phospho-beta-D-ribofuranosyl)pyridin-1-ium-3-carbonyl adenylate",MCON_2758
-0,ATP + Pyridinium-3-carboxy-5-thiocarboxylic acid mononucleotide <=> Diphosphate + 1-(5-O-Phospho-beta-D-ribofuranosyl)-5-(sulfanylcarbonyl)pyridin-1-ium-3-carbonyl adenylate,MCON_2758
-0,(R)-S-Adenosyl-L-methionine + H2O <=> Adenosine + L-Methionine,MCON_2393
-0,N-(5'-Phospho-D-1'-ribulosylformimino)-5-amino-1-(5''-phospho-D-ribosyl)-4-imidazolecarboxamide + Ammonia <=> 1-(5'-Phosphoribosyl)-5-amino-4-imidazolecarboxamide + D-erythro-1-(Imidazol-4-yl)glycerol 3-phosphate + H2O,MCON_0619 | MCON_3300 | MCON_3301
-0,Ammonia + HCO3- <=> Carbamate + H2O,MCON_2233
-0,3''-O-Acetyl-ADP-D-ribose + H2O <=> ADP-ribose + Acetate,MCON_3110
-0,O-Acetyl-ADP-ribose + H2O <=> ADP-ribose + Acetate,MCON_3110
-0,ADP + D-Glucosamine <=> AMP + D-Glucosamine 6-phosphate,MCON_0234
-0,"3-(D-Glyceryl)-diphospho-5'-guanosine + 7,8-Didemethyl-8-hydroxy-5-deazariboflavin <=> GMP + 3PG-factor 420-0",MCON_1062
-0,Iminoaspartate + H2O <=> Oxaloacetate + Ammonia,MCON_1163
-0,"4-Deoxy-L-erythro-hex-4-enopyranuronate <=> (4S,5S)-4,5-Dihydroxy-2,6-dioxohexanoate",MCON_0026
-0,4 Fe2+ + Oxygen + 6 H2O <=> 4 Iron(III) oxide-hydroxide + 8 H+,MCON_2661
-0,2 Fe2+ + Oxygen + 4 H2O <=> 2 Iron(III) oxide-hydroxide + 4 H+ + Hydrogen peroxide,MCON_2661
-0,2 Fe2+ + Hydrogen peroxide + 2 H2O <=> 2 Iron(III) oxide-hydroxide + 4 H+,MCON_2661
-rn00010 Glycolysis / Gluconeogenesis; rn00710 Carbon fixation by Calvin cycle; rn01110 Biosynthesis of secondary metabolites; rn01200 Carbon metabolism; rn01230 Biosynthesis of amino acids,D-Glyceraldehyde 3-phosphate + Orthophosphate + NAD+ <=> 3-Phospho-D-glyceroyl phosphate + NADH + H+,MCON_2908
-rn00010 Glycolysis / Gluconeogenesis; rn00710 Carbon fixation by Calvin cycle; rn01110 Biosynthesis of secondary metabolites; rn01200 Carbon metabolism; rn01230 Biosynthesis of amino acids,D-Glyceraldehyde 3-phosphate + Orthophosphate + NADP+ <=> 3-Phospho-D-glyceroyl phosphate + NADPH + H+,MCON_2908
-rn00010 Glycolysis / Gluconeogenesis; rn00710 Carbon fixation by Calvin cycle; rn01110 Biosynthesis of secondary metabolites; rn01200 Carbon metabolism; rn01230 Biosynthesis of amino acids,ATP + 3-Phospho-D-glycerate <=> ADP + 3-Phospho-D-glyceroyl phosphate,MCON_2355
-rn00030 Pentose phosphate pathway,ATP + D-Ribose <=> ADP + D-Ribose 5-phosphate,MCON_1689
-rn00030 Pentose phosphate pathway,2-Deoxy-D-ribose 5-phosphate + ADP <=> Deoxyribose + ATP,MCON_1689
-rn00030 Pentose phosphate pathway,"D-Ribose 1,5-bisphosphate <=> D-Ribulose 1,5-bisphosphate",MCON_0206
-rn00030 Pentose phosphate pathway; rn00680 Methane metabolism; rn01200 Carbon metabolism; rn01230 Biosynthesis of amino acids,D-Ribulose 5-phosphate + Formaldehyde <=> D-arabino-Hex-3-ulose 6-phosphate,MCON_0429 | MCON_1383
-rn00030 Pentose phosphate pathway; rn00680 Methane metabolism; rn01200 Carbon metabolism; rn01230 Biosynthesis of amino acids,D-arabino-Hex-3-ulose 6-phosphate <=> D-Fructose 6-phosphate,MCON_0429
-rn00040 Pentose and glucuronate interconversions,Xylitol + NAD+ <=> D-Xylulose + NADH + H+,MCON_0566
-rn00040 Pentose and glucuronate interconversions,4-Deoxy-L-threo-hex-4-enopyranuronate <=> 5-Dehydro-4-deoxy-D-glucuronate,MCON_0026
-rn00051 Fructose and mannose metabolism,D-Sorbitol + NAD+ <=> D-Fructose + NADH + H+,MCON_0566
-rn00051 Fructose and mannose metabolism,L-Fuculose 1-phosphate <=> Glycerone phosphate + (S)-Lactaldehyde,MCON_1374
-rn00051 Fructose and mannose metabolism,D-Fructose 1-phosphate <=> Glycerone phosphate + D-Glyceraldehyde,MCON_2528 | MCON_1478 | MCON_3321 | MCON_3232 | MCON_2526
-rn00051 Fructose and mannose metabolism,D-Allose 6-phosphate <=> D-Allulose 6-phosphate,MCON_3136
-"rn00220 Arginine biosynthesis; rn00250 Alanine, aspartate and glutamate metabolism; rn01110 Biosynthesis of secondary metabolites; rn01230 Biosynthesis of amino acids",N-(L-Arginino)succinate <=> Fumarate + L-Arginine,MCON_1456
-"rn00220 Arginine biosynthesis; rn00250 Alanine, aspartate and glutamate metabolism; rn01110 Biosynthesis of secondary metabolites; rn01230 Biosynthesis of amino acids",ATP + L-Citrulline + L-Aspartate <=> AMP + Diphosphate + N-(L-Arginino)succinate,MCON_3352
-rn00220 Arginine biosynthesis; rn01110 Biosynthesis of secondary metabolites; rn01210 2-Oxocarboxylic acid metabolism; rn01230 Biosynthesis of amino acids,Acetyl-CoA + L-Glutamate <=> CoA + N-Acetyl-L-glutamate,MCON_1455
-rn00220 Arginine biosynthesis; rn01110 Biosynthesis of secondary metabolites; rn01210 2-Oxocarboxylic acid metabolism; rn01230 Biosynthesis of amino acids,N-Acetylornithine + 2-Oxoglutarate <=> N-Acetyl-L-glutamate 5-semialdehyde + L-Glutamate,MCON_1613
-rn00220 Arginine biosynthesis; rn01110 Biosynthesis of secondary metabolites; rn01210 2-Oxocarboxylic acid metabolism; rn01230 Biosynthesis of amino acids,ATP + N-Acetyl-L-glutamate <=> ADP + N-Acetyl-L-glutamate 5-phosphate,MCON_2654
-rn00220 Arginine biosynthesis; rn01110 Biosynthesis of secondary metabolites; rn01210 2-Oxocarboxylic acid metabolism; rn01230 Biosynthesis of amino acids,N-Acetyl-L-glutamate 5-semialdehyde + Orthophosphate + NADP+ <=> N-Acetyl-L-glutamate 5-phosphate + NADPH + H+,MCON_1453
-rn00230 Purine metabolism,"ATP <=> 3',5'-Cyclic AMP + Diphosphate",MCON_1159
-rn00230 Purine metabolism,"ADP + ATP <=> Orthophosphate + P1,P4-Bis(5'-adenosyl)tetraphosphate",MCON_2026
-rn00230 Purine metabolism,"GTP <=> 3',5'-Cyclic GMP + Diphosphate",MCON_1159
-rn00230 Purine metabolism,3'-AMP + H2O <=> Adenosine + Orthophosphate,MCON_0299
-rn00230 Purine metabolism,"Adenylyl sulfate + ATP <=> Sulfate + P1,P4-Bis(5'-adenosyl)tetraphosphate",MCON_2026
-rn00230 Purine metabolism,Guanosine 3'-phosphate + H2O <=> Guanosine + Orthophosphate,MCON_0299
-rn00230 Purine metabolism,1-(5'-Phosphoribosyl)-5-amino-4-imidazolecarboxamide + Diphosphate <=> 5-Amino-4-imidazolecarboxyamide + 5-Phospho-alpha-D-ribose 1-diphosphate,MCON_2988
-rn00230 Purine metabolism,N6-Succino-2-amino-2'-deoxyadenylate <=> dZMP + Fumarate,MCON_2669
-rn00230 Purine metabolism,dZDP + ATP <=> dZTP + ADP,MCON_1703
-"rn00230 Purine metabolism; rn00250 Alanine, aspartate and glutamate metabolism; rn01232 Nucleotide metabolism; rn01240 Biosynthesis of cofactors","N6-(1,2-Dicarboxyethyl)-AMP <=> Fumarate + AMP",MCON_2669
-"rn00230 Purine metabolism; rn00250 Alanine, aspartate and glutamate metabolism; rn01232 Nucleotide metabolism; rn01240 Biosynthesis of cofactors","GTP + IMP + L-Aspartate <=> GDP + Orthophosphate + N6-(1,2-Dicarboxyethyl)-AMP",MCON_0554
-rn00230 Purine metabolism; rn00670 One carbon pool by folate; rn01110 Biosynthesis of secondary metabolites,10-Formyltetrahydrofolate + 5'-Phosphoribosylglycinamide <=> Tetrahydrofolate + 5'-Phosphoribosyl-N-formylglycinamide,MCON_2025
-rn00230 Purine metabolism; rn00670 One carbon pool by folate; rn01110 Biosynthesis of secondary metabolites,10-Formyltetrahydrofolate + 1-(5'-Phosphoribosyl)-5-amino-4-imidazolecarboxamide <=> Tetrahydrofolate + 1-(5'-Phosphoribosyl)-5-formamido-4-imidazolecarboxamide,MCON_1368
-rn00230 Purine metabolism; rn01110 Biosynthesis of secondary metabolites,IMP + H2O <=> 1-(5'-Phosphoribosyl)-5-formamido-4-imidazolecarboxamide,MCON_1471 | MCON_1368
-rn00230 Purine metabolism; rn01110 Biosynthesis of secondary metabolites,ATP + 5-Phosphoribosylamine + Glycine <=> ADP + Orthophosphate + 5'-Phosphoribosylglycinamide,MCON_1872
-rn00230 Purine metabolism; rn01110 Biosynthesis of secondary metabolites,ATP + 2-(Formamido)-N1-(5'-phosphoribosyl)acetamidine <=> ADP + Orthophosphate + Aminoimidazole ribotide,MCON_1652
-rn00230 Purine metabolism; rn01110 Biosynthesis of secondary metabolites,ATP + 5'-Phosphoribosyl-N-formylglycinamide + L-Glutamine + H2O <=> ADP + Orthophosphate + 2-(Formamido)-N1-(5'-phosphoribosyl)acetamidine + L-Glutamate,MCON_0209 | MCON_0208 | MCON_0207
-rn00230 Purine metabolism; rn01110 Biosynthesis of secondary metabolites,1-(5'-Phosphoribosyl)-5-amino-4-(N-succinocarboxamide)-imidazole <=> Fumarate + 1-(5'-Phosphoribosyl)-5-amino-4-imidazolecarboxamide,MCON_2669
-rn00230 Purine metabolism; rn01110 Biosynthesis of secondary metabolites,ATP + 1-(5-Phospho-D-ribosyl)-5-amino-4-imidazolecarboxylate + L-Aspartate <=> ADP + Orthophosphate + 1-(5'-Phosphoribosyl)-5-amino-4-(N-succinocarboxamide)-imidazole,MCON_1441
-rn00230 Purine metabolism; rn01110 Biosynthesis of secondary metabolites,Formate + ATP + 1-(5'-Phosphoribosyl)-5-amino-4-imidazolecarboxamide <=> ADP + Orthophosphate + 1-(5'-Phosphoribosyl)-5-formamido-4-imidazolecarboxamide,MCON_1268 | MCON_3207
-rn00230 Purine metabolism; rn01110 Biosynthesis of secondary metabolites,5-Carboxyamino-1-(5-phospho-D-ribosyl)imidazole <=> 1-(5-Phospho-D-ribosyl)-5-amino-4-imidazolecarboxylate,MCON_2643
-rn00230 Purine metabolism; rn01110 Biosynthesis of secondary metabolites; rn01232 Nucleotide metabolism,ATP + H2O <=> ADP + Orthophosphate,MCON_1365 | MCON_2516
-rn00230 Purine metabolism; rn01110 Biosynthesis of secondary metabolites; rn01232 Nucleotide metabolism,Xanthosine 5'-phosphate + H2O <=> Xanthosine + Orthophosphate,MCON_0299
-rn00230 Purine metabolism; rn01232 Nucleotide metabolism,AMP + H2O <=> Adenosine + Orthophosphate,MCON_0299
-rn00230 Purine metabolism; rn01232 Nucleotide metabolism,AMP + Diphosphate <=> Adenine + 5-Phospho-alpha-D-ribose 1-diphosphate,MCON_2988
-rn00230 Purine metabolism; rn01232 Nucleotide metabolism,ATP + GDP <=> ADP + GTP,MCON_1703
-rn00230 Purine metabolism; rn01232 Nucleotide metabolism,GTP + H2O <=> GDP + Orthophosphate,MCON_1716
-rn00230 Purine metabolism; rn01232 Nucleotide metabolism,ITP + H2O <=> IMP + Diphosphate,MCON_0926
-rn00230 Purine metabolism; rn01232 Nucleotide metabolism,ATP + IDP <=> ADP + ITP,MCON_1703
-rn00230 Purine metabolism; rn01232 Nucleotide metabolism,IMP + H2O <=> Inosine + Orthophosphate,MCON_0299
-rn00230 Purine metabolism; rn01232 Nucleotide metabolism,ATP + dADP <=> ADP + dATP,MCON_1703
-rn00230 Purine metabolism; rn01232 Nucleotide metabolism,GMP + H2O <=> Guanosine + Orthophosphate,MCON_0299
-rn00230 Purine metabolism; rn01232 Nucleotide metabolism,ATP + Xanthosine 5'-phosphate + Ammonia <=> AMP + Diphosphate + GMP,MCON_0459 | MCON_1034
-rn00230 Purine metabolism; rn01232 Nucleotide metabolism,ATP + Xanthosine 5'-phosphate + L-Glutamine + H2O <=> AMP + Diphosphate + GMP + L-Glutamate,MCON_0459 | MCON_1034
-rn00230 Purine metabolism; rn01232 Nucleotide metabolism,Adenine + H2O <=> Hypoxanthine + Ammonia,MCON_1251
-rn00230 Purine metabolism; rn01232 Nucleotide metabolism,ATP + dAMP <=> ADP + dADP,MCON_1964 | MCON_1615
-rn00230 Purine metabolism; rn01232 Nucleotide metabolism,Guanine + H2O <=> Xanthine + Ammonia,MCON_1091
-rn00230 Purine metabolism; rn01232 Nucleotide metabolism,dGTP + H2O <=> Deoxyguanosine + Triphosphate,MCON_1311
-rn00230 Purine metabolism; rn01232 Nucleotide metabolism,ATP + dGDP <=> ADP + dGTP,MCON_1703
-rn00230 Purine metabolism; rn01232 Nucleotide metabolism,dGMP + H2O <=> Deoxyguanosine + Orthophosphate,MCON_0299
-rn00230 Purine metabolism; rn01232 Nucleotide metabolism,dAMP + H2O <=> Deoxyadenosine + Orthophosphate,MCON_0299
-rn00230 Purine metabolism; rn01232 Nucleotide metabolism,XTP + H2O <=> Xanthosine 5'-phosphate + Diphosphate,MCON_0926
-rn00230 Purine metabolism; rn01232 Nucleotide metabolism,ATP + dIDP <=> ADP + dITP,MCON_1703
-rn00230 Purine metabolism; rn01232 Nucleotide metabolism,dITP + H2O <=> 2'-Deoxyinosine 5'-phosphate + Diphosphate,MCON_0926
-rn00230 Purine metabolism; rn01232 Nucleotide metabolism,"AMP + Orthophosphate <=> Adenine + D-Ribose 1,5-bisphosphate",MCON_0583
-rn00230 Purine metabolism; rn01232 Nucleotide metabolism,GTP + Formate <=> dGTP + CO2 + H2O,MCON_2095
-rn00230 Purine metabolism; rn01232 Nucleotide metabolism,ATP + Formate <=> dATP + CO2 + H2O,MCON_2095
-rn00240 Pyrimidine metabolism,2'-Deoxy-5-hydroxymethylcytidine-5'-diphosphate + ATP <=> 2'-Deoxy-5-hydroxymethylcytidine-5'-triphosphate + ADP,MCON_1703
-rn00240 Pyrimidine metabolism,5-Methylcytosine + H2O <=> Thymine + Ammonia,MCON_0322
-rn00240 Pyrimidine metabolism,3'-UMP + H2O <=> Uridine + Orthophosphate,MCON_0299
-rn00240 Pyrimidine metabolism,3'-CMP + H2O <=> Cytidine + Orthophosphate,MCON_0299
-rn00240 Pyrimidine metabolism; rn01232 Nucleotide metabolism,CMP + H2O <=> Cytidine + Orthophosphate,MCON_0299
-rn00240 Pyrimidine metabolism; rn01232 Nucleotide metabolism,ATP + CMP <=> ADP + CDP,MCON_2678
-rn00240 Pyrimidine metabolism; rn01232 Nucleotide metabolism,UMP + H2O <=> Uridine + Orthophosphate,MCON_0299
-rn00240 Pyrimidine metabolism; rn01232 Nucleotide metabolism,Cytosine + H2O <=> Uracil + Ammonia,MCON_0322
-rn00240 Pyrimidine metabolism; rn01232 Nucleotide metabolism,dTMP + H2O <=> Thymidine + Orthophosphate,MCON_0299
-rn00240 Pyrimidine metabolism; rn01232 Nucleotide metabolism,dCMP + H2O <=> dUMP + Ammonia,MCON_1948
-rn00240 Pyrimidine metabolism; rn01232 Nucleotide metabolism,dCMP + H2O <=> Deoxycytidine + Orthophosphate,MCON_0299
-rn00240 Pyrimidine metabolism; rn01232 Nucleotide metabolism,ATP + dCMP <=> ADP + dCDP,MCON_2678
-rn00240 Pyrimidine metabolism; rn01232 Nucleotide metabolism,ATP + dTDP <=> ADP + dTTP,MCON_1703
-rn00240 Pyrimidine metabolism; rn01232 Nucleotide metabolism,ATP + dTMP <=> ADP + dTDP,MCON_1907
-rn00240 Pyrimidine metabolism; rn01232 Nucleotide metabolism,ATP + dUMP <=> ADP + dUDP,MCON_1907
-rn00240 Pyrimidine metabolism; rn01232 Nucleotide metabolism,dUTP + H2O <=> dUMP + Diphosphate,MCON_0264
-rn00240 Pyrimidine metabolism; rn01232 Nucleotide metabolism,dUMP + H2O <=> Deoxyuridine + Orthophosphate,MCON_0299
-rn00240 Pyrimidine metabolism; rn01232 Nucleotide metabolism,ATP + dCDP <=> ADP + dCTP,MCON_1703
-rn00240 Pyrimidine metabolism; rn01232 Nucleotide metabolism,ATP + dUDP <=> ADP + dUTP,MCON_1703
-rn00240 Pyrimidine metabolism; rn01232 Nucleotide metabolism,"CMP + Orthophosphate <=> Cytosine + D-Ribose 1,5-bisphosphate",MCON_0583
-rn00240 Pyrimidine metabolism; rn01232 Nucleotide metabolism,"UMP + Orthophosphate <=> Uracil + D-Ribose 1,5-bisphosphate",MCON_0583
-rn00240 Pyrimidine metabolism; rn01232 Nucleotide metabolism,UTP + Formate <=> dUTP + CO2 + H2O,MCON_2095
-rn00240 Pyrimidine metabolism; rn01232 Nucleotide metabolism,CTP + Formate <=> dCTP + CO2 + H2O,MCON_2095
-rn00240 Pyrimidine metabolism; rn01232 Nucleotide metabolism; rn01240 Biosynthesis of cofactors,ATP + UDP <=> ADP + UTP,MCON_1703
-rn00240 Pyrimidine metabolism; rn01232 Nucleotide metabolism; rn01240 Biosynthesis of cofactors,ATP + UMP <=> ADP + UDP,MCON_1967
-rn00240 Pyrimidine metabolism; rn01232 Nucleotide metabolism; rn01240 Biosynthesis of cofactors,ATP + CDP <=> ADP + CTP,MCON_1703
-rn00240 Pyrimidine metabolism; rn01232 Nucleotide metabolism; rn01240 Biosynthesis of cofactors,ATP + UTP + Ammonia <=> ADP + Orthophosphate + CTP,MCON_1542
-rn00240 Pyrimidine metabolism; rn01232 Nucleotide metabolism; rn01240 Biosynthesis of cofactors,ATP + UTP + L-Glutamine + H2O <=> ADP + Orthophosphate + CTP + L-Glutamate,MCON_1542
-rn00240 Pyrimidine metabolism; rn01240 Biosynthesis of cofactors,Orotidine 5'-phosphate <=> UMP + CO2,MCON_2465
-rn00240 Pyrimidine metabolism; rn01240 Biosynthesis of cofactors,(S)-Dihydroorotate + NAD+ <=> Orotate + H+ + NADH,MCON_2335
-rn00240 Pyrimidine metabolism; rn01240 Biosynthesis of cofactors,Orotidine 5'-phosphate + Diphosphate <=> Orotate + 5-Phospho-alpha-D-ribose 1-diphosphate,MCON_1953
-rn00240 Pyrimidine metabolism; rn01240 Biosynthesis of cofactors,(S)-Dihydroorotate + H2O <=> N-Carbamoyl-L-aspartate,MCON_1192
-"rn00250 Alanine, aspartate and glutamate metabolism; rn00350 Tyrosine metabolism; rn00650 Butanoate metabolism; rn00760 Nicotinate and nicotinamide metabolism",Succinate semialdehyde + NAD+ + H2O <=> Succinate + NADH + H+,MCON_2755
-"rn00250 Alanine, aspartate and glutamate metabolism; rn00350 Tyrosine metabolism; rn00650 Butanoate metabolism; rn00760 Nicotinate and nicotinamide metabolism",Succinate semialdehyde + NADP+ + H2O <=> Succinate + NADPH + H+,MCON_2755 | MCON_2755
-"rn00260 Glycine, serine and threonine metabolism","L-2,4-Diaminobutanoate + Acetyl-CoA <=> N(gamma)-Acetyldiaminobutyrate + CoA",MCON_1200
-"rn00260 Glycine, serine and threonine metabolism",N(gamma)-Acetyldiaminobutyrate <=> H2O + Ectoine,MCON_1198
-"rn00260 Glycine, serine and threonine metabolism; rn00270 Cysteine and methionine metabolism; rn00300 Lysine biosynthesis; rn01110 Biosynthesis of secondary metabolites; rn01230 Biosynthesis of amino acids",L-Homoserine + NAD+ <=> L-Aspartate 4-semialdehyde + NADH + H+,MCON_0799
-"rn00260 Glycine, serine and threonine metabolism; rn00270 Cysteine and methionine metabolism; rn00300 Lysine biosynthesis; rn01110 Biosynthesis of secondary metabolites; rn01230 Biosynthesis of amino acids",L-Homoserine + NADP+ <=> L-Aspartate 4-semialdehyde + NADPH + H+,MCON_0799
-rn00261 Monobactam biosynthesis; rn00300 Lysine biosynthesis; rn01110 Biosynthesis of secondary metabolites; rn01230 Biosynthesis of amino acids,"2,3,4,5-Tetrahydrodipicolinate + NAD+ + H2O <=> (2S,4S)-4-Hydroxy-2,3,4,5-tetrahydrodipicolinate + NADH + H+",MCON_0803
-rn00261 Monobactam biosynthesis; rn00300 Lysine biosynthesis; rn01110 Biosynthesis of secondary metabolites; rn01230 Biosynthesis of amino acids,"2,3,4,5-Tetrahydrodipicolinate + NADP+ + H2O <=> (2S,4S)-4-Hydroxy-2,3,4,5-tetrahydrodipicolinate + NADPH + H+",MCON_0803
-rn00261 Monobactam biosynthesis; rn00300 Lysine biosynthesis; rn01110 Biosynthesis of secondary metabolites; rn01230 Biosynthesis of amino acids,"L-Aspartate 4-semialdehyde + Pyruvate <=> (2S,4S)-4-Hydroxy-2,3,4,5-tetrahydrodipicolinate + H2O",MCON_0804
-rn00270 Cysteine and methionine metabolism,S-Adenosyl-L-homocysteine + H2O <=> S-Inosyl-L-homocysteine + Ammonia,MCON_2923
-rn00270 Cysteine and methionine metabolism,L-Cysteine + 2-Oxoglutarate <=> Mercaptopyruvate + L-Glutamate,MCON_3113 | MCON_2775 | MCON_2296
-rn00270 Cysteine and methionine metabolism,L-Cysteine + 2-Oxoglutarate <=> Mercaptopyruvate + Glutamate,MCON_3113 | MCON_2775 | MCON_2296
-rn00270 Cysteine and methionine metabolism,L-Cysteine + Glutathione + NADP+ <=> S-Glutathionyl-L-cysteine + NADPH,MCON_1435
-rn00270 Cysteine and methionine metabolism,L-Cysteate + 2-Oxoglutarate <=> 3-Sulfopyruvate + L-Glutamate,MCON_3113 | MCON_2775 | MCON_2296
-rn00270 Cysteine and methionine metabolism,3-Sulfino-L-alanine + 2-Oxoglutarate <=> 3-Sulfinylpyruvate + L-Glutamate,MCON_3113 | MCON_2775 | MCON_2296
-rn00270 Cysteine and methionine metabolism,S-Methyl-5-thio-D-ribose 1-phosphate <=> S-Methyl-5-thio-D-ribulose 1-phosphate,MCON_3474
-rn00270 Cysteine and methionine metabolism,5'-Methylthioadenosine + H2O <=> 5'-S-Methyl-5'-thioinosine + Ammonia,MCON_2923
-rn00270 Cysteine and methionine metabolism,5'-S-Methyl-5'-thioinosine + Orthophosphate <=> Hypoxanthine + S-Methyl-5-thio-D-ribose 1-phosphate,MCON_3473
-"rn00280 Valine, leucine and isoleucine degradation; rn00290 Valine, leucine and isoleucine biosynthesis; rn00966 Glucosinolate biosynthesis; rn01110 Biosynthesis of secondary metabolites; rn01210 2-Oxocarboxylic acid metabolism; rn01230 Biosynthesis of amino acids",L-Leucine + 2-Oxoglutarate <=> 4-Methyl-2-oxopentanoate + L-Glutamate,MCON_2293
-"rn00280 Valine, leucine and isoleucine degradation; rn00290 Valine, leucine and isoleucine biosynthesis; rn00966 Glucosinolate biosynthesis; rn01110 Biosynthesis of secondary metabolites; rn01210 2-Oxocarboxylic acid metabolism; rn01230 Biosynthesis of amino acids",L-Isoleucine + 2-Oxoglutarate <=> (S)-3-Methyl-2-oxopentanoic acid + L-Glutamate,MCON_2293
-"rn00290 Valine, leucine and isoleucine biosynthesis; rn00660 C5-Branched dibasic acid metabolism; rn01210 2-Oxocarboxylic acid metabolism; rn01230 Biosynthesis of amino acids",(R)-2-Methylmalate <=> 2-Methylmaleate + H2O,MCON_1320 | MCON_1271
-"rn00290 Valine, leucine and isoleucine biosynthesis; rn00660 C5-Branched dibasic acid metabolism; rn01210 2-Oxocarboxylic acid metabolism; rn01230 Biosynthesis of amino acids",2-Methylmaleate + H2O <=> D-erythro-3-Methylmalate,MCON_1320 | MCON_1271
-"rn00290 Valine, leucine and isoleucine biosynthesis; rn00660 C5-Branched dibasic acid metabolism; rn01210 2-Oxocarboxylic acid metabolism; rn01230 Biosynthesis of amino acids",Acetyl-CoA + Pyruvate + H2O <=> (R)-2-Methylmalate + CoA,MCON_0409
-"rn00290 Valine, leucine and isoleucine biosynthesis; rn01110 Biosynthesis of secondary metabolites; rn01210 2-Oxocarboxylic acid metabolism",alpha-Isopropylmalate <=> 2-Isopropylmaleate + H2O,MCON_1320 | MCON_1271
-"rn00290 Valine, leucine and isoleucine biosynthesis; rn01110 Biosynthesis of secondary metabolites; rn01210 2-Oxocarboxylic acid metabolism","(2R,3S)-3-Isopropylmalate <=> 2-Isopropylmaleate + H2O",MCON_1320 | MCON_1271
-"rn00290 Valine, leucine and isoleucine biosynthesis; rn01110 Biosynthesis of secondary metabolites; rn01210 2-Oxocarboxylic acid metabolism; rn01230 Biosynthesis of amino acids","(R)-2,3-Dihydroxy-3-methylbutanoate + NADP+ <=> 3-Hydroxy-3-methyl-2-oxobutanoic acid + NADPH + H+",MCON_0412
-"rn00290 Valine, leucine and isoleucine biosynthesis; rn01110 Biosynthesis of secondary metabolites; rn01210 2-Oxocarboxylic acid metabolism; rn01230 Biosynthesis of amino acids","(R)-2,3-Dihydroxy-3-methylpentanoate + NADP+ <=> (R)-3-Hydroxy-3-methyl-2-oxopentanoate + NADPH + H+",MCON_0412
-"rn00290 Valine, leucine and isoleucine biosynthesis; rn01110 Biosynthesis of secondary metabolites; rn01210 2-Oxocarboxylic acid metabolism; rn01230 Biosynthesis of amino acids",(S)-2-Aceto-2-hydroxybutanoate <=> (R)-3-Hydroxy-3-methyl-2-oxopentanoate,MCON_0412
-"rn00290 Valine, leucine and isoleucine biosynthesis; rn01110 Biosynthesis of secondary metabolites; rn01210 2-Oxocarboxylic acid metabolism; rn01230 Biosynthesis of amino acids","(R)-2,3-Dihydroxy-3-methylpentanoate <=> (S)-3-Methyl-2-oxopentanoic acid + H2O",MCON_1149
-"rn00290 Valine, leucine and isoleucine biosynthesis; rn01110 Biosynthesis of secondary metabolites; rn01210 2-Oxocarboxylic acid metabolism; rn01230 Biosynthesis of amino acids",(S)-2-Acetolactate <=> 3-Hydroxy-3-methyl-2-oxobutanoic acid,MCON_0412
-"rn00290 Valine, leucine and isoleucine biosynthesis; rn01110 Biosynthesis of secondary metabolites; rn01210 2-Oxocarboxylic acid metabolism; rn01230 Biosynthesis of amino acids",Pyruvate + 2-Oxobutanoate <=> (S)-2-Aceto-2-hydroxybutanoate + CO2,MCON_0410 | MCON_0411
-rn00300 Lysine biosynthesis; rn00470 D-Amino acid metabolism; rn01110 Biosynthesis of secondary metabolites; rn01230 Biosynthesis of amino acids,"meso-2,6-Diaminoheptanedioate <=> L-Lysine + CO2",MCON_1770
-rn00300 Lysine biosynthesis; rn00470 D-Amino acid metabolism; rn01110 Biosynthesis of secondary metabolites; rn01230 Biosynthesis of amino acids,"LL-2,6-Diaminoheptanedioate <=> meso-2,6-Diaminoheptanedioate",MCON_0430
-rn00300 Lysine biosynthesis; rn01110 Biosynthesis of secondary metabolites; rn01210 2-Oxocarboxylic acid metabolism; rn01230 Biosynthesis of amino acids,"(R)-2-Hydroxybutane-1,2,4-tricarboxylate <=> (Z)-But-1-ene-1,2,4-tricarboxylate + H2O",MCON_0444 | MCON_1922
-rn00300 Lysine biosynthesis; rn01110 Biosynthesis of secondary metabolites; rn01210 2-Oxocarboxylic acid metabolism; rn01230 Biosynthesis of amino acids,"Homoisocitrate <=> (Z)-But-1-ene-1,2,4-tricarboxylate + H2O",MCON_0444 | MCON_1922
-rn00300 Lysine biosynthesis; rn01230 Biosynthesis of amino acids,"N-Succinyl-LL-2,6-diaminoheptanedioate + H2O <=> Succinate + LL-2,6-Diaminoheptanedioate",MCON_2723
-rn00300 Lysine biosynthesis; rn01230 Biosynthesis of amino acids,"N-Succinyl-LL-2,6-diaminoheptanedioate + 2-Oxoglutarate <=> N-Succinyl-2-L-amino-6-oxoheptanedioate + L-Glutamate",MCON_1613
-rn00310 Lysine degradation,"L-Lysine <=> (3S)-3,6-Diaminohexanoate",MCON_3114
-rn00310 Lysine degradation,5-Oxopentanoate + NAD+ + H2O <=> Glutarate + NADH + H+,MCON_2755
-rn00330 Arginine and proline metabolism,Creatinine + H2O <=> Creatine,MCON_1443
-rn00330 Arginine and proline metabolism,Creatinine + H2O <=> N-Methylhydantoin + Ammonia,MCON_0322
-rn00330 Arginine and proline metabolism,L-erythro-4-Hydroxyglutamate + 2-Oxoglutarate <=> (4R)-4-Hydroxy-2-oxoglutarate + L-Glutamate,MCON_3113 | MCON_2775 | MCON_2296
-rn00330 Arginine and proline metabolism; rn01110 Biosynthesis of secondary metabolites,L-Arginine <=> Agmatine + CO2,MCON_3166
-rn00330 Arginine and proline metabolism; rn01110 Biosynthesis of secondary metabolites,Agmatine + H2O <=> N-Carbamoylputrescine + Ammonia,MCON_3455
-rn00340 Histidine metabolism; rn01110 Biosynthesis of secondary metabolites,L-Histidinal + H2O + NAD+ <=> L-Histidine + NADH + H+,MCON_0797
-rn00340 Histidine metabolism; rn01110 Biosynthesis of secondary metabolites,L-Histidinol + NAD+ <=> L-Histidinal + NADH + H+,MCON_0797
-rn00340 Histidine metabolism; rn01110 Biosynthesis of secondary metabolites; rn01230 Biosynthesis of amino acids,1-(5-Phospho-D-ribosyl)-ATP + Diphosphate <=> ATP + 5-Phospho-alpha-D-ribose 1-diphosphate,MCON_1881
-rn00340 Histidine metabolism; rn01110 Biosynthesis of secondary metabolites; rn01230 Biosynthesis of amino acids,L-Histidinol phosphate + 2-Oxoglutarate <=> 3-(Imidazol-4-yl)-2-oxopropyl phosphate + L-Glutamate,MCON_1614
-rn00340 Histidine metabolism; rn01110 Biosynthesis of secondary metabolites; rn01230 Biosynthesis of amino acids,D-erythro-1-(Imidazol-4-yl)glycerol 3-phosphate <=> 3-(Imidazol-4-yl)-2-oxopropyl phosphate + H2O,MCON_0300 | MCON_0505
-rn00340 Histidine metabolism; rn01110 Biosynthesis of secondary metabolites; rn01230 Biosynthesis of amino acids,Phosphoribosyl-AMP + H2O <=> 5-(5-Phospho-D-ribosylaminoformimino)-1-(5-phosphoribosyl)-imidazole-4-carboxamide,MCON_1969
-rn00340 Histidine metabolism; rn01110 Biosynthesis of secondary metabolites; rn01230 Biosynthesis of amino acids,N-(5'-Phospho-D-1'-ribulosylformimino)-5-amino-1-(5''-phospho-D-ribosyl)-4-imidazolecarboxamide + L-Glutamine <=> D-erythro-1-(Imidazol-4-yl)glycerol 3-phosphate + 1-(5'-Phosphoribosyl)-5-amino-4-imidazolecarboxamide + L-Glutamate,MCON_0619 | MCON_3300 | MCON_3301
-rn00340 Histidine metabolism; rn01110 Biosynthesis of secondary metabolites; rn01230 Biosynthesis of amino acids,5-(5-Phospho-D-ribosylaminoformimino)-1-(5-phosphoribosyl)-imidazole-4-carboxamide <=> N-(5'-Phospho-D-1'-ribulosylformimino)-5-amino-1-(5''-phospho-D-ribosyl)-4-imidazolecarboxamide,MCON_0301 | MCON_2256
-rn00360 Phenylalanine metabolism,L-Phenylalanine <=> Phenethylamine + CO2,MCON_0966
-rn00360 Phenylalanine metabolism,ATP + Phenylacetic acid + CoA <=> AMP + Diphosphate + Phenylacetyl-CoA,MCON_0819 | MCON_2332
-rn00380 Tryptophan metabolism,Formylanthranilate + H2O <=> Formate + Anthranilate,MCON_1407
-rn00380 Tryptophan metabolism,2 3-Hydroxyanthranilate + 4 Oxygen <=> Cinnavalininate + 2 Superoxide + 2 Hydrogen peroxide + 2 H+,MCON_0161
-rn00380 Tryptophan metabolism,5-Hydroxy-L-tryptophan <=> Serotonin + CO2,MCON_0966
-rn00380 Tryptophan metabolism,5-Hydroxykynurenamine + CO2 <=> 5-Hydroxykynurenine,MCON_0966
-rn00380 Tryptophan metabolism,5-Hydroxy-N-formylkynurenine + H2O <=> 5-Hydroxykynurenine + Formate,MCON_1407
-"rn00400 Phenylalanine, tyrosine and tryptophan biosynthesis; rn01110 Biosynthesis of secondary metabolites",L-Serine + Indole <=> L-Tryptophan + H2O,MCON_2511 | MCON_1800 | MCON_1801
-"rn00400 Phenylalanine, tyrosine and tryptophan biosynthesis; rn01110 Biosynthesis of secondary metabolites","L-Aspartate 4-semialdehyde + 6-Deoxy-5-ketofructose 1-phosphate <=> 2-Amino-3,7-dideoxy-D-threo-hept-6-ulosonic acid + Hydroxypyruvaldehyde phosphate",MCON_1478 | MCON_3321
-"rn00400 Phenylalanine, tyrosine and tryptophan biosynthesis; rn01110 Biosynthesis of secondary metabolites","2-Amino-3,7-dideoxy-D-threo-hept-6-ulosonic acid + H2O + NAD+ <=> 3-Dehydroquinate + Ammonia + NADH + H+",MCON_1239
-"rn00400 Phenylalanine, tyrosine and tryptophan biosynthesis; rn01110 Biosynthesis of secondary metabolites; rn01230 Biosynthesis of amino acids",L-Arogenate <=> L-Phenylalanine + H2O + CO2,MCON_2639
-"rn00400 Phenylalanine, tyrosine and tryptophan biosynthesis; rn01110 Biosynthesis of secondary metabolites; rn01230 Biosynthesis of amino acids",Chorismate + Ammonia <=> Anthranilate + Pyruvate + H2O,MCON_1299 | MCON_1300
-"rn00400 Phenylalanine, tyrosine and tryptophan biosynthesis; rn01110 Biosynthesis of secondary metabolites; rn01230 Biosynthesis of amino acids",N-(5-Phospho-D-ribosyl)anthranilate + Diphosphate <=> Anthranilate + 5-Phospho-alpha-D-ribose 1-diphosphate,MCON_0565 | MCON_1297
-"rn00400 Phenylalanine, tyrosine and tryptophan biosynthesis; rn01110 Biosynthesis of secondary metabolites; rn01230 Biosynthesis of amino acids",Prephenate <=> Phenylpyruvate + H2O + CO2,MCON_2639
-"rn00400 Phenylalanine, tyrosine and tryptophan biosynthesis; rn01110 Biosynthesis of secondary metabolites; rn01230 Biosynthesis of amino acids",5-O-(1-Carboxyvinyl)-3-phosphoshikimate <=> Chorismate + Orthophosphate,MCON_1507
-"rn00400 Phenylalanine, tyrosine and tryptophan biosynthesis; rn01110 Biosynthesis of secondary metabolites; rn01230 Biosynthesis of amino acids",Chorismate <=> Prephenate,MCON_2644
-"rn00400 Phenylalanine, tyrosine and tryptophan biosynthesis; rn01110 Biosynthesis of secondary metabolites; rn01230 Biosynthesis of amino acids",ATP + Shikimate <=> ADP + Shikimate 3-phosphate,MCON_0363 | MCON_2645
-"rn00400 Phenylalanine, tyrosine and tryptophan biosynthesis; rn01110 Biosynthesis of secondary metabolites; rn01230 Biosynthesis of amino acids",Shikimate + NADP+ <=> 3-Dehydroshikimate + NADPH + H+,MCON_3308
-"rn00400 Phenylalanine, tyrosine and tryptophan biosynthesis; rn01110 Biosynthesis of secondary metabolites; rn01230 Biosynthesis of amino acids",3-Dehydroquinate <=> 3-Dehydroshikimate + H2O,MCON_1240
-"rn00400 Phenylalanine, tyrosine and tryptophan biosynthesis; rn01110 Biosynthesis of secondary metabolites; rn01230 Biosynthesis of amino acids",Phosphoenolpyruvate + Shikimate 3-phosphate <=> Orthophosphate + 5-O-(1-Carboxyvinyl)-3-phosphoshikimate,MCON_0229
-"rn00400 Phenylalanine, tyrosine and tryptophan biosynthesis; rn01110 Biosynthesis of secondary metabolites; rn01230 Biosynthesis of amino acids",1-(2-Carboxyphenylamino)-1-deoxy-D-ribulose 5-phosphate <=> Indoleglycerol phosphate + CO2 + H2O,MCON_1301
-"rn00400 Phenylalanine, tyrosine and tryptophan biosynthesis; rn01110 Biosynthesis of secondary metabolites; rn01230 Biosynthesis of amino acids",N-(5-Phospho-D-ribosyl)anthranilate <=> 1-(2-Carboxyphenylamino)-1-deoxy-D-ribulose 5-phosphate,MCON_1298
-rn00450 Selenocompound metabolism,Hydrogen selenide + 3 NADP+ + 3 H2O <=> Selenite + 3 NADPH + 5 H+,MCON_1435
-rn00450 Selenocompound metabolism,Selenohomocysteine + 5-Methyltetrahydropteroyltri-L-glutamate <=> L-Selenomethionine + Tetrahydropteroyltri-L-glutamate,MCON_0168
-rn00450 Selenocompound metabolism,2 NADPH + 2 H+ + Methylselenic acid <=> 2 NADP+ + 2 H2O + Methaneselenol,MCON_1435
-rn00520 Amino sugar and nucleotide sugar metabolism; rn00541 O-Antigen nucleotide sugar biosynthesis; rn01250 Biosynthesis of nucleotide sugars,UTP + N-Acetyl-alpha-D-glucosamine 1-phosphate <=> Diphosphate + UDP-N-acetyl-alpha-D-glucosamine,MCON_2572
-rn00520 Amino sugar and nucleotide sugar metabolism; rn00541 O-Antigen nucleotide sugar biosynthesis; rn01250 Biosynthesis of nucleotide sugars,UDP-N-acetyl-alpha-D-glucosamine <=> UDP-N-acetyl-D-galactosamine,MCON_1457 | MCON_1862 | MCON_3230 | MCON_1223
-rn00520 Amino sugar and nucleotide sugar metabolism; rn00541 O-Antigen nucleotide sugar biosynthesis; rn01250 Biosynthesis of nucleotide sugars,"UDP-2,3-diacetamido-2,3-dideoxy-alpha-D-glucuronate <=> UDP-2,3-diacetamido-2,3-dideoxy-alpha-D-mannuronate",MCON_2577
-rn00520 Amino sugar and nucleotide sugar metabolism; rn00541 O-Antigen nucleotide sugar biosynthesis; rn01250 Biosynthesis of nucleotide sugars,"Acetyl-CoA + UDP-2-acetamido-3-amino-2,3-dideoxy-alpha-D-glucuronate <=> CoA + UDP-2,3-diacetamido-2,3-dideoxy-alpha-D-glucuronate",MCON_2575
-rn00520 Amino sugar and nucleotide sugar metabolism; rn01250 Biosynthesis of nucleotide sugars,Acetyl-CoA + alpha-D-Glucosamine 1-phosphate <=> CoA + N-Acetyl-alpha-D-glucosamine 1-phosphate,MCON_2572
-rn00520 Amino sugar and nucleotide sugar metabolism; rn01250 Biosynthesis of nucleotide sugars,UTP + N-Acetyl-alpha-D-galactosamine 1-phosphate <=> Diphosphate + UDP-N-acetyl-D-galactosamine,MCON_2572
-rn00520 Amino sugar and nucleotide sugar metabolism; rn01250 Biosynthesis of nucleotide sugars,Acetyl-CoA + alpha-D-Galactosamine 1-phosphate <=> CoA + N-Acetyl-alpha-D-galactosamine 1-phosphate,MCON_2572
-rn00521 Streptomycin biosynthesis; rn00523 Polyketide sugar unit biosynthesis; rn00541 O-Antigen nucleotide sugar biosynthesis; rn01110 Biosynthesis of secondary metabolites; rn01250 Biosynthesis of nucleotide sugars,dTDP-L-rhamnose + NADP+ <=> dTDP-4-dehydro-beta-L-rhamnose + NADPH + H+,MCON_2591
-rn00521 Streptomycin biosynthesis; rn00523 Polyketide sugar unit biosynthesis; rn00541 O-Antigen nucleotide sugar biosynthesis; rn01110 Biosynthesis of secondary metabolites; rn01250 Biosynthesis of nucleotide sugars,dTDP-4-oxo-6-deoxy-D-glucose <=> dTDP-4-dehydro-beta-L-rhamnose,MCON_0485 | MCON_2590
-rn00521 Streptomycin biosynthesis; rn00562 Inositol phosphate metabolism; rn01110 Biosynthesis of secondary metabolites,1D-myo-Inositol 3-phosphate + H2O <=> myo-Inositol + Orthophosphate,MCON_2071
-rn00521 Streptomycin biosynthesis; rn00562 Inositol phosphate metabolism; rn01110 Biosynthesis of secondary metabolites,D-Glucose 6-phosphate <=> 1D-myo-Inositol 3-phosphate,MCON_0025
-rn00562 Inositol phosphate metabolism,Inositol 1-phosphate + H2O <=> myo-Inositol + Orthophosphate,MCON_2071
-rn00562 Inositol phosphate metabolism,myo-Inositol 4-phosphate + H2O <=> myo-Inositol + Orthophosphate,MCON_2071
-rn00564 Glycerophospholipid metabolism,sn-Glycero-3-phosphocholine + H2O <=> Choline + sn-Glycerol 3-phosphate,MCON_0572
-rn00564 Glycerophospholipid metabolism,sn-Glycero-3-phosphoethanolamine + H2O <=> Ethanolamine + sn-Glycerol 3-phosphate,MCON_0572
-rn00564 Glycerophospholipid metabolism; rn01110 Biosynthesis of secondary metabolites,Geranylgeranyl diphosphate + sn-Glycerol 1-phosphate <=> Diphosphate + 3-(O-Geranylgeranyl)-sn-glycerol 1-phosphate,MCON_1916
-rn00564 Glycerophospholipid metabolism; rn01110 Biosynthesis of secondary metabolites,"Geranylgeranyl diphosphate + 3-(O-Geranylgeranyl)-sn-glycerol 1-phosphate <=> Diphosphate + 2,3-Bis-(O-geranylgeranyl)-sn-glycerol 1-phosphate",MCON_0147
-rn00564 Glycerophospholipid metabolism; rn01110 Biosynthesis of secondary metabolites,sn-Glycerol 1-phosphate + NAD+ <=> Glycerone phosphate + NADH + H+,MCON_1056
-rn00564 Glycerophospholipid metabolism; rn01110 Biosynthesis of secondary metabolites,sn-Glycerol 1-phosphate + NADP+ <=> Glycerone phosphate + NADPH + H+,MCON_1056
-rn00564 Glycerophospholipid metabolism; rn01110 Biosynthesis of secondary metabolites,"CTP + 2,3-Bis-(O-geranylgeranyl)-sn-glycerol 1-phosphate <=> Diphosphate + CDP-2,3-bis-(O-geranylgeranyl)-sn-glycerol",MCON_1076
-rn00564 Glycerophospholipid metabolism; rn01110 Biosynthesis of secondary metabolites,"CDP-2,3-bis-(O-geranylgeranyl)-sn-glycerol + L-Serine <=> CMP + 2,3-Bis-(O-geranylgeranyl)-sn-glycero-1-phospho-L-serine",MCON_0461
-rn00564 Glycerophospholipid metabolism; rn01110 Biosynthesis of secondary metabolites,"2,3-Bis-(O-phytanyl)-sn-glycerol 1-phosphate + 8 NAD+ <=> 2,3-Bis-(O-geranylgeranyl)-sn-glycerol 1-phosphate + 8 NADH + 8 H+",MCON_3296 | MCON_1147 | MCON_3250
-rn00564 Glycerophospholipid metabolism; rn01110 Biosynthesis of secondary metabolites,"2,3-Bis-(O-phytanyl)-sn-glycerol 1-phosphate + 8 NADP+ <=> 2,3-Bis-(O-geranylgeranyl)-sn-glycerol 1-phosphate + 8 NADPH + 8 H+",MCON_3296 | MCON_1147 | MCON_3250
-rn00620 Pyruvate metabolism,Oxaloacetate <=> Pyruvate + CO2,MCON_1918
-rn00620 Pyruvate metabolism,Acetyl adenylate + CoA <=> AMP + Acetyl-CoA,MCON_0780 | MCON_0556 | MCON_0558 | MCON_0559 | MCON_0561 | MCON_2868
-rn00620 Pyruvate metabolism,ATP + Acetate <=> Diphosphate + Acetyl adenylate,MCON_0780 | MCON_0556 | MCON_0558 | MCON_0559 | MCON_0561 | MCON_2868
-rn00620 Pyruvate metabolism,Acetyl phosphate + H2O <=> Acetate + Orthophosphate,MCON_0840 | MCON_3294
-rn00620 Pyruvate metabolism,(S)-Lactate <=> (R)-Lactate,MCON_0092
-rn00620 Pyruvate metabolism,(R)-S-Lactoylglutathione + H2O <=> Glutathione + (R)-Lactate,MCON_1612 | MCON_0109 | MCON_3079
-rn00627 Aminobenzoate degradation,Benzoyl phosphate + H2O <=> Benzoate + Orthophosphate,MCON_0840 | MCON_3294
-rn00627 Aminobenzoate degradation,4-Nitrophenyl phosphate + H2O <=> 4-Nitrophenol + Orthophosphate,MCON_2339
-rn00630 Glyoxylate and dicarboxylate metabolism,meso-Tartaric acid + NAD+ <=> 2-Hydroxy-3-oxosuccinate + NADH + H+,MCON_1272
-rn00630 Glyoxylate and dicarboxylate metabolism,"(R,R)-Tartaric acid + NAD+ <=> 2-Hydroxy-3-oxosuccinate + NADH + H+",MCON_1272
-rn00630 Glyoxylate and dicarboxylate metabolism; rn01110 Biosynthesis of secondary metabolites; rn01200 Carbon metabolism,2 Hydrogen peroxide <=> Oxygen + 2 H2O,MCON_0161
-rn00630 Glyoxylate and dicarboxylate metabolism; rn01110 Biosynthesis of secondary metabolites; rn01200 Carbon metabolism,2-Phosphoglycolate + H2O <=> Glycolate + Orthophosphate,MCON_3141
-rn00630 Glyoxylate and dicarboxylate metabolism; rn01110 Biosynthesis of secondary metabolites; rn01200 Carbon metabolism,"D-Ribulose 1,5-bisphosphate + Oxygen <=> 3-Phospho-D-glycerate + 2-Phosphoglycolate",MCON_3086
-rn00640 Propanoate metabolism,Propionyladenylate + CoA <=> AMP + Propanoyl-CoA,MCON_0780 | MCON_0556 | MCON_0558 | MCON_0559 | MCON_0561 | MCON_2868
-rn00640 Propanoate metabolism,ATP + Propanoate <=> Diphosphate + Propionyladenylate,MCON_0780 | MCON_0556 | MCON_0558 | MCON_0559 | MCON_0561 | MCON_2868
-rn00670 One carbon pool by folate; rn00720 Other carbon fixation pathways; rn01200 Carbon metabolism; rn01240 Biosynthesis of cofactors,"5,10-Methylenetetrahydrofolate + NADP+ <=> 5,10-Methenyltetrahydrofolate + NADPH",MCON_0224
-rn00670 One carbon pool by folate; rn00720 Other carbon fixation pathways; rn01200 Carbon metabolism; rn01240 Biosynthesis of cofactors,"5,10-Methenyltetrahydrofolate + H2O <=> 10-Formyltetrahydrofolate + H+",MCON_0224
-rn00680 Methane metabolism,Coenzyme F420 + Hydrogen <=> Reduced coenzyme F420,MCON_2320
-rn00680 Methane metabolism,"L-Serine + 5,6,7,8-Tetrahydromethanopterin <=> 5,10-Methylenetetrahydromethanopterin + Glycine + H2O",MCON_0223
-rn00680 Methane metabolism,Phosphoenolpyruvate + GTP <=> Enolpyruvoyl-2-diphospho-5'-guanosine + Diphosphate,MCON_0918
-rn00680 Methane metabolism,"Enolpyruvoyl-2-diphospho-5'-guanosine + 7,8-Didemethyl-8-hydroxy-5-deazariboflavin <=> GMP + Dehydro coenzyme F420-0",MCON_1062
-rn00680 Methane metabolism; rn01200 Carbon metabolism,"Formylmethanofuran + 5,6,7,8-Tetrahydromethanopterin <=> Methanofuran + 5-Formyl-5,6,7,8-tetrahydromethanopterin",MCON_1472
-rn00680 Methane metabolism; rn01200 Carbon metabolism,"5,10-Methenyltetrahydromethanopterin + H2O <=> 5-Formyl-5,6,7,8-tetrahydromethanopterin + H+",MCON_1290
-rn00680 Methane metabolism; rn01200 Carbon metabolism,"5-Methyl-5,6,7,8-tetrahydromethanopterin + Coenzyme M + 2 Sodium cation(side 1) <=> 5,6,7,8-Tetrahydromethanopterin + 2-(Methylthio)ethanesulfonate + 2 Sodium cation(side 2)",MCON_1069 | MCON_1070 | MCON_1068 | MCON_1071 | MCON_1072 | MCON_1073 | MCON_1074 | MCON_1075 | MCON_2872 | MCON_2873
-rn00680 Methane metabolism; rn01200 Carbon metabolism,"5,10-Methylenetetrahydromethanopterin + Coenzyme F420 + H+ <=> 5,10-Methenyltetrahydromethanopterin + Reduced coenzyme F420",MCON_1052
-rn00680 Methane metabolism; rn01200 Carbon metabolism,"5,10-Methylenetetrahydromethanopterin + Reduced coenzyme F420 <=> 5-Methyl-5,6,7,8-tetrahydromethanopterin + Coenzyme F420",MCON_2394
-rn00680 Methane metabolism; rn01200 Carbon metabolism,Coenzyme M 7-mercaptoheptanoylthreonine-phosphate heterodisulfide + Dihydromethanophenazine <=> Coenzyme B + Coenzyme M + Methanophenazine,MCON_3442 | MCON_3441
-rn00680 Methane metabolism; rn01200 Carbon metabolism,Coenzyme B + 2-(Methylthio)ethanesulfonate <=> Coenzyme M 7-mercaptoheptanoylthreonine-phosphate heterodisulfide + Methane,MCON_0759 | MCON_0760 | MCON_0762
-rn00680 Methane metabolism; rn01200 Carbon metabolism,"5,6,7,8-Tetrahydromethanopterin + Formaldehyde <=> 5,10-Methylenetetrahydromethanopterin + H2O",MCON_1033 | MCON_1383
-rn00680 Methane metabolism; rn01200 Carbon metabolism,Formylmethanofuran + H2O <=> Formate + Methanofuran,MCON_0238 | MCON_0239 | MCON_0240 | MCON_0241 | MCON_1733 | MCON_1734 | MCON_2898 | MCON_2129
-rn00680 Methane metabolism; rn01200 Carbon metabolism,Formate + Coenzyme F420 <=> CO2 + Reduced coenzyme F420,MCON_2237
-rn00680 Methane metabolism; rn01200 Carbon metabolism,5-Methyl-H4SPT + Coenzyme M + 2 Sodium cation(side 1) <=> Tetrahydrosarcinapterin + 2-(Methylthio)ethanesulfonate + 2 Sodium cation(side 2),MCON_1069 | MCON_1070 | MCON_1068 | MCON_1071 | MCON_1072 | MCON_1073 | MCON_1074 | MCON_1075 | MCON_2872 | MCON_2873
-rn00680 Methane metabolism; rn01210 2-Oxocarboxylic acid metabolism,(R)-(Homo)2-citrate <=> cis-(Homo)2-aconitate + H2O,MCON_0444 | MCON_1922
-rn00680 Methane metabolism; rn01210 2-Oxocarboxylic acid metabolism,cis-(Homo)2-aconitate + H2O <=> (-)-threo-Iso(homo)2-citrate,MCON_0444 | MCON_1922
-rn00680 Methane metabolism; rn01210 2-Oxocarboxylic acid metabolism,(R)-(Homo)3-citrate <=> cis-(Homo)3-aconitate + H2O,MCON_0444 | MCON_1922
-rn00680 Methane metabolism; rn01210 2-Oxocarboxylic acid metabolism,cis-(Homo)3-aconitate + H2O <=> (-)-threo-Iso(homo)3-citrate,MCON_0444 | MCON_1922
-rn00680 Methane metabolism; rn01240 Biosynthesis of cofactors,3-Sulfopyruvate <=> Sulfoacetaldehyde + CO2,MCON_2819 | MCON_2821
-rn00680 Methane metabolism; rn01240 Biosynthesis of cofactors,(2S)-2-Phospholactate + GTP <=> (2S)-Lactyl-2-diphospho-5'-guanosine + Diphosphate,MCON_0918
-rn00680 Methane metabolism; rn01240 Biosynthesis of cofactors,"7,8-Didemethyl-8-hydroxy-5-deazariboflavin + (2S)-Lactyl-2-diphospho-5'-guanosine <=> Coenzyme F420-0 + GMP",MCON_1062
-rn00680 Methane metabolism; rn01240 Biosynthesis of cofactors,Coenzyme F420-0 + GTP + L-Glutamate <=> Coenzyme F420-1 + GDP + Orthophosphate,MCON_0919
-rn00680 Methane metabolism; rn01240 Biosynthesis of cofactors,Coenzyme F420-1 + GTP + L-Glutamate <=> Coenzyme F420 + GDP + Orthophosphate,MCON_0919
-rn00680 Methane metabolism; rn01240 Biosynthesis of cofactors,ATP + Tyramine + L-Glutamate <=> ADP + Orthophosphate + gamma-Glutamyltyramine,MCON_1686
-rn00680 Methane metabolism; rn01240 Biosynthesis of cofactors,(5-Formylfuran-3-yl)methyl phosphate + Orthophosphate + 2 H2O <=> 2 D-Glyceraldehyde 3-phosphate,MCON_2254
-rn00680 Methane metabolism; rn01240 Biosynthesis of cofactors,(5-Formylfuran-3-yl)methyl phosphate + L-Alanine <=> [5-(Aminomethyl)furan-3-yl]methyl phosphate + Pyruvate,MCON_2279
-rn00680 Methane metabolism; rn01240 Biosynthesis of cofactors,[5-(Aminomethyl)furan-3-yl]methyl phosphate + ATP <=> [5-(Aminomethyl)furan-3-yl]methyl diphosphate + ADP,MCON_0142
-rn00680 Methane metabolism; rn01240 Biosynthesis of cofactors,[5-(Aminomethyl)furan-3-yl]methyl diphosphate + gamma-Glutamyltyramine <=> (4-{4-[2-(gamma-L-Glutamylamino)ethyl]phenoxymethyl}furan-2-yl)methanamine + Diphosphate,MCON_2321
-rn00680 Methane metabolism; rn01240 Biosynthesis of cofactors,"5-Amino-6-(1-D-ribitylamino)uracil + L-Tyrosine + S-Adenosyl-L-methionine <=> 5-Amino-5-(4-hydroxybenzyl)-6-(D-ribitylimino)-5,6-dihydrouracil + Iminoglycine + L-Methionine + 5'-Deoxyadenosine",MCON_3335
-rn00680 Methane metabolism; rn01240 Biosynthesis of cofactors,"5-Amino-5-(4-hydroxybenzyl)-6-(D-ribitylimino)-5,6-dihydrouracil + S-Adenosyl-L-methionine <=> 7,8-Didemethyl-8-hydroxy-5-deazariboflavin + Ammonia + L-Methionine + 5'-Deoxyadenosine",MCON_1058
-rn00710 Carbon fixation by Calvin cycle; rn01200 Carbon metabolism,"D-Ribulose 1,5-bisphosphate + CO2 + H2O <=> 2 3-Phospho-D-glycerate",MCON_3086
-rn00710 Carbon fixation by Calvin cycle; rn01200 Carbon metabolism,"ATP + D-Ribulose 5-phosphate <=> ADP + D-Ribulose 1,5-bisphosphate",MCON_1902
-rn00710 Carbon fixation by Calvin cycle; rn01200 Carbon metabolism,"Sedoheptulose 1,7-bisphosphate <=> Glycerone phosphate + D-Erythrose 4-phosphate",MCON_2528 | MCON_1478 | MCON_3321 | MCON_3232 | MCON_2526
-rn00710 Carbon fixation by Calvin cycle; rn01200 Carbon metabolism,"Sedoheptulose 1,7-bisphosphate + H2O <=> Sedoheptulose 7-phosphate + Orthophosphate",MCON_2525 | MCON_2528
-rn00720 Other carbon fixation pathways; rn01200 Carbon metabolism,Tetrahydrofolate + Acetyl-CoA <=> 5-Methyltetrahydrofolate + CoA + CO,MCON_1942 | MCON_1330
-rn00720 Other carbon fixation pathways; rn01200 Carbon metabolism,Fumarate + Coenzyme M + Coenzyme B <=> Succinate + Coenzyme M 7-mercaptoheptanoylthreonine-phosphate heterodisulfide,MCON_3042
-rn00730 Thiamine metabolism,Thiamin diphosphate + H2O <=> Thiamin monophosphate + Orthophosphate,MCON_1365
-rn00730 Thiamine metabolism,Thiamin diphosphate + ADP <=> Thiamin triphosphate + AMP,MCON_1964 | MCON_1615
-rn00730 Thiamine metabolism; rn01240 Biosynthesis of cofactors,ATP + Thiamin monophosphate <=> ADP + Thiamin diphosphate,MCON_3190
-rn00730 Thiamine metabolism; rn01240 Biosynthesis of cofactors,Thiamin monophosphate + H2O <=> Thiamine + Orthophosphate,MCON_2339
-rn00730 Thiamine metabolism; rn01240 Biosynthesis of cofactors,4-Amino-5-hydroxymethyl-2-methylpyrimidine diphosphate + 4-Methyl-5-(2-phosphooxyethyl)thiazole <=> Diphosphate + Thiamin monophosphate,MCON_3369 | MCON_0806
-rn00730 Thiamine metabolism; rn01240 Biosynthesis of cofactors,ATP + 4-Amino-5-hydroxymethyl-2-methylpyrimidine <=> ADP + 4-Amino-2-methyl-5-(phosphooxymethyl)pyrimidine,MCON_0806
-rn00730 Thiamine metabolism; rn01240 Biosynthesis of cofactors,Aminoimidazole ribotide + S-Adenosyl-L-methionine <=> 4-Amino-2-methyl-5-(phosphooxymethyl)pyrimidine + 5'-Deoxyadenosine + L-Methionine + Formate + CO,MCON_1611
-rn00730 Thiamine metabolism; rn01240 Biosynthesis of cofactors,ATP + 5-(2-Hydroxyethyl)-4-methylthiazole <=> ADP + 4-Methyl-5-(2-phosphooxyethyl)thiazole,MCON_3370
-rn00730 Thiamine metabolism; rn01240 Biosynthesis of cofactors,ATP + 4-Amino-2-methyl-5-(phosphooxymethyl)pyrimidine <=> ADP + 4-Amino-5-hydroxymethyl-2-methylpyrimidine diphosphate,MCON_0806
-rn00730 Thiamine metabolism; rn01240 Biosynthesis of cofactors,4-Amino-5-hydroxymethyl-2-methylpyrimidine diphosphate + 2-(2-Carboxy-4-methylthiazol-5-yl)ethyl phosphate <=> Thiamin monophosphate + Diphosphate + CO2,MCON_3369 | MCON_0806
-rn00730 Thiamine metabolism; rn01240 Biosynthesis of cofactors,NAD+ + Glycine + Hydrogen sulfide <=> Nicotinamide + ADP-5-ethyl-4-methylthiazole-2-carboxylate + 3 H2O,MCON_3229
-rn00740 Riboflavin metabolism,CTP + Riboflavin <=> CDP + FMN,MCON_0442
-rn00740 Riboflavin metabolism,Dimethylallyl phosphate + Reduced FMN <=> Prenylated FMNH2 + Orthophosphate,MCON_3057
-rn00740 Riboflavin metabolism; rn01110 Biosynthesis of secondary metabolites; rn01240 Biosynthesis of cofactors,"2 6,7-Dimethyl-8-(D-ribityl)lumazine <=> Riboflavin + 5-Amino-6-(1-D-ribitylamino)uracil",MCON_1631
-rn00740 Riboflavin metabolism; rn01110 Biosynthesis of secondary metabolites; rn01240 Biosynthesis of cofactors,ATP + FMN <=> Diphosphate + FAD,MCON_1493
-rn00740 Riboflavin metabolism; rn01110 Biosynthesis of secondary metabolites; rn01240 Biosynthesis of cofactors,"5-Amino-6-(1-D-ribitylamino)uracil + L-3,4-Dihydroxybutan-2-one 4-phosphate <=> 6,7-Dimethyl-8-(D-ribityl)lumazine + 2 H2O + Orthophosphate",MCON_2295
-rn00740 Riboflavin metabolism; rn01110 Biosynthesis of secondary metabolites; rn01240 Biosynthesis of cofactors,"D-Ribulose 5-phosphate <=> L-3,4-Dihydroxybutan-2-one 4-phosphate + Formate",MCON_1155
-rn00740 Riboflavin metabolism; rn01240 Biosynthesis of cofactors,"2,5-Diamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one + NADH + H+ <=> 2,5-Diamino-6-(5-phospho-D-ribitylamino)pyrimidin-4(3H)-one + NAD+",MCON_0173 | MCON_0968
-rn00740 Riboflavin metabolism; rn01240 Biosynthesis of cofactors,"2,5-Diamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one + NADPH + H+ <=> 2,5-Diamino-6-(5-phospho-D-ribitylamino)pyrimidin-4(3H)-one + NADP+",MCON_0173 | MCON_0968
-rn00760 Nicotinate and nicotinamide metabolism,ATP + Nicotinamide D-ribonucleotide <=> Diphosphate + NAD+,MCON_2395
-rn00760 Nicotinate and nicotinamide metabolism,Nicotinamide D-ribonucleotide + H2O <=> Nicotinamide-beta-riboside + Orthophosphate,MCON_0299
-rn00760 Nicotinate and nicotinamide metabolism,Nicotinate D-ribonucleotide + H2O <=> Nicotinate D-ribonucleoside + Orthophosphate,MCON_0299
-rn00760 Nicotinate and nicotinamide metabolism; rn01240 Biosynthesis of cofactors,ATP + NAD+ <=> ADP + NADP+,MCON_2072
-rn00760 Nicotinate and nicotinamide metabolism; rn01240 Biosynthesis of cofactors,ATP + Deamino-NAD+ + Ammonia <=> AMP + Diphosphate + NAD+,MCON_1866
-rn00760 Nicotinate and nicotinamide metabolism; rn01240 Biosynthesis of cofactors,ATP + Deamino-NAD+ + L-Glutamine + H2O <=> AMP + Diphosphate + NAD+ + L-Glutamate,MCON_1866
-rn00760 Nicotinate and nicotinamide metabolism; rn01240 Biosynthesis of cofactors,Nicotinamide + H2O <=> Nicotinate + Ammonia,MCON_1757
-rn00760 Nicotinate and nicotinamide metabolism; rn01240 Biosynthesis of cofactors,ATP + Nicotinate D-ribonucleotide <=> Diphosphate + Deamino-NAD+,MCON_2395
-rn00760 Nicotinate and nicotinamide metabolism; rn01240 Biosynthesis of cofactors,Nicotinate D-ribonucleotide + Diphosphate + CO2 <=> Quinolinate + 5-Phospho-alpha-D-ribose 1-diphosphate,MCON_1164
-rn00760 Nicotinate and nicotinamide metabolism; rn01240 Biosynthesis of cofactors,Quinolinate + 2 H2O + Orthophosphate <=> Iminoaspartate + Glycerone phosphate,MCON_2769
-rn00760 Nicotinate and nicotinamide metabolism; rn01240 Biosynthesis of cofactors,L-Aspartate + NADP+ <=> Iminoaspartate + NADPH + H+,MCON_1163
-rn00760 Nicotinate and nicotinamide metabolism; rn01240 Biosynthesis of cofactors,L-Aspartate + NAD+ <=> Iminoaspartate + NADH + H+,MCON_1163
-rn00770 Pantothenate and CoA biosynthesis,"(R)-2,3-Dihydroxy-3-methylbutanoate + NADP+ <=> (S)-2-Acetolactate + NADPH + H+",MCON_0412
-rn00770 Pantothenate and CoA biosynthesis,GTP + Dephospho-CoA <=> GDP + CoA,MCON_3184
-rn00770 Pantothenate and CoA biosynthesis; rn01240 Biosynthesis of cofactors,ATP + Pantetheine 4'-phosphate <=> Diphosphate + Dephospho-CoA,MCON_1494
-rn00770 Pantothenate and CoA biosynthesis; rn01240 Biosynthesis of cofactors,(R)-4'-Phosphopantothenoyl-L-cysteine <=> Pantetheine 4'-phosphate + CO2,MCON_3480
-rn00770 Pantothenate and CoA biosynthesis; rn01240 Biosynthesis of cofactors,CTP + D-4'-Phosphopantothenate + L-Cysteine <=> CMP + Diphosphate + (R)-4'-Phosphopantothenoyl-L-cysteine,MCON_3480
-rn00770 Pantothenate and CoA biosynthesis; rn01240 Biosynthesis of cofactors,ATP + (R)-Pantoate <=> ADP + (R)-4-Phosphopantoate,MCON_3479
-rn00790 Folate biosynthesis,"ATP + 6-(Hydroxymethyl)-7,8-dihydropterin <=> AMP + 6-Hydroxymethyl-7,8-dihydropterin diphosphate",MCON_1908
-rn00790 Folate biosynthesis,"7,8-Dihydroneopterin 3'-triphosphate + H2O <=> 6-Carboxy-5,6,7,8-tetrahydropterin + Acetaldehyde + Triphosphate",MCON_1447
-rn00790 Folate biosynthesis,7-Carboxy-7-carbaguanine + Ammonia + ATP <=> 7-Cyano-7-carbaguanine + ADP + Orthophosphate + H2O,MCON_0533
-rn00790 Folate biosynthesis,"6-Carboxy-5,6,7,8-tetrahydropterin <=> 7-Carboxy-7-carbaguanine + Ammonia",MCON_0125
-rn00790 Folate biosynthesis,"GTP + H2O <=> 7,8-Dihydroneopterin 2',3'-cyclic phosphate + Formate + Diphosphate",MCON_3313
-rn00790 Folate biosynthesis,5-Phospho-alpha-D-ribose 1-diphosphate + 4-Hydroxybenzoate <=> 4-(beta-D-Ribofuranosyl)phenol 5'-phosphate + CO2 + Diphosphate,MCON_2372 | MCON_0135
-rn00790 Folate biosynthesis,Molybdoenzyme molybdenum cofactor + GTP <=> Guanylyl molybdenum cofactor + Diphosphate,MCON_0226
-rn00790 Folate biosynthesis; rn01240 Biosynthesis of cofactors,"6-(Hydroxymethyl)-7,8-dihydropterin + 4-Aminobenzoate <=> Dihydropteroate + H2O",MCON_3444
-rn00790 Folate biosynthesis; rn01240 Biosynthesis of cofactors,"6-Hydroxymethyl-7,8-dihydropterin diphosphate + 4-Aminobenzoate <=> Diphosphate + Dihydropteroate",MCON_3444
-rn00790 Folate biosynthesis; rn01240 Biosynthesis of cofactors,"7,8-Dihydroneopterin <=> Glycolaldehyde + 6-(Hydroxymethyl)-7,8-dihydropterin",MCON_0460
-rn00790 Folate biosynthesis; rn01240 Biosynthesis of cofactors,"7,8-Dihydroneopterin 3'-triphosphate <=> 6-Pyruvoyltetrahydropterin + Triphosphate",MCON_1447
-rn00790 Folate biosynthesis; rn01240 Biosynthesis of cofactors,"7,8-Dihydroneopterin 3'-triphosphate + 3 H2O <=> 7,8-Dihydroneopterin + 3 Orthophosphate",MCON_2339
-rn00790 Folate biosynthesis; rn01240 Biosynthesis of cofactors,"ATP + 5,6,7,8-Tetrahydromethanopterin + L-Glutamate <=> ADP + Orthophosphate + Tetrahydrosarcinapterin",MCON_0555
-rn00790 Folate biosynthesis; rn01240 Biosynthesis of cofactors,ATP + Molybdopterin <=> Diphosphate + Adenylated molybdopterin,MCON_2021
-rn00790 Folate biosynthesis; rn01240 Biosynthesis of cofactors,Adenylated molybdopterin + Molybdate <=> Molybdoenzyme molybdenum cofactor + AMP + H2O,MCON_1509 | MCON_2884
-rn00790 Folate biosynthesis; rn01240 Biosynthesis of cofactors,"6-Hydroxymethyl-7,8-dihydropterin diphosphate + 4-(beta-D-Ribofuranosyl)aniline 5'-phosphate <=> N-[(7,8-Dihydropterin-6-yl)methyl]-4-(beta-D-ribofuranosyl)aniline 5'-phosphate + Diphosphate",MCON_0701
-rn00790 Folate biosynthesis; rn01240 Biosynthesis of cofactors,"(8S)-3',8-Cyclo-7,8-dihydroguanosine 5'-triphosphate + H2O <=> Precursor Z + Diphosphate",MCON_1531
-rn00860 Porphyrin metabolism; rn01110 Biosynthesis of secondary metabolites; rn01240 Biosynthesis of cofactors,2 5-Aminolevulinate <=> Porphobilinogen + 2 H2O,MCON_1501
-rn00860 Porphyrin metabolism; rn01110 Biosynthesis of secondary metabolites; rn01240 Biosynthesis of cofactors,4 Porphobilinogen + H2O <=> Hydroxymethylbilane + 4 Ammonia,MCON_0900
-rn00860 Porphyrin metabolism; rn01110 Biosynthesis of secondary metabolites; rn01240 Biosynthesis of cofactors,5-Aminolevulinate <=> (S)-4-Amino-5-oxopentanoate,MCON_0899
-rn00860 Porphyrin metabolism; rn01110 Biosynthesis of secondary metabolites; rn01240 Biosynthesis of cofactors,Hydroxymethylbilane <=> Uroporphyrinogen III + H2O,MCON_0901
-rn00860 Porphyrin metabolism; rn01110 Biosynthesis of secondary metabolites; rn01240 Biosynthesis of cofactors,2 S-Adenosyl-L-methionine + Uroporphyrinogen III <=> 2 S-Adenosyl-L-homocysteine + Precorrin 2,MCON_0901
-rn00860 Porphyrin metabolism; rn01110 Biosynthesis of secondary metabolites; rn01240 Biosynthesis of cofactors,Precorrin 2 + NAD+ <=> Sirohydrochlorin + NADH + H+,MCON_1503
-rn00860 Porphyrin metabolism; rn01110 Biosynthesis of secondary metabolites; rn01240 Biosynthesis of cofactors,Sirohydrochlorin + Nickel(2+) <=> Nickel-sirohydrochlorin + 2 H+,MCON_1928
-rn00860 Porphyrin metabolism; rn01110 Biosynthesis of secondary metabolites; rn01240 Biosynthesis of cofactors,"Nickel-sirohydrochlorin + 2 ATP + 2 L-Glutamine + 2 H2O <=> Nickel-sirohydrochlorin a,c-diamide + 2 ADP + 2 L-Glutamate + 2 Orthophosphate",MCON_0502
-rn00860 Porphyrin metabolism; rn01110 Biosynthesis of secondary metabolites; rn01240 Biosynthesis of cofactors,"15,17(3)-Seco-F430-17(3)-acid + ATP <=> Coenzyme F430 + ADP + Orthophosphate",MCON_1929
-rn00860 Porphyrin metabolism; rn01110 Biosynthesis of secondary metabolites; rn01240 Biosynthesis of cofactors,"Siroheme <=> 12,18-Didecarboxysiroheme + 2 CO2",MCON_1213 | MCON_1504
-rn00860 Porphyrin metabolism; rn01110 Biosynthesis of secondary metabolites; rn01240 Biosynthesis of cofactors,Fe-coproporphyrin III + 2 S-Adenosyl-L-methionine <=> Heme + 2 CO2 + 2 5'-Deoxyadenosine + 2 L-Methionine,MCON_1212
-rn00860 Porphyrin metabolism; rn01240 Biosynthesis of cofactors,S-Adenosyl-L-methionine + Precorrin 2 <=> S-Adenosyl-L-homocysteine + Precorrin 3A + H+,MCON_1684
-rn00860 Porphyrin metabolism; rn01240 Biosynthesis of cofactors,Precorrin 8X <=> Hydrogenobyrinate,MCON_0651 | MCON_1680
-rn00860 Porphyrin metabolism; rn01240 Biosynthesis of cofactors,S-Adenosyl-L-methionine + Precorrin 3B <=> S-Adenosyl-L-homocysteine + Precorrin 4,MCON_1681
-rn00860 Porphyrin metabolism; rn01240 Biosynthesis of cofactors,S-Adenosyl-L-methionine + Precorrin 4 <=> S-Adenosyl-L-homocysteine + Precorrin 5,MCON_1683
-rn00860 Porphyrin metabolism; rn01240 Biosynthesis of cofactors,Adenosyl cobinamide phosphate + GTP <=> Adenosine-GDP-cobinamide + Diphosphate,MCON_1722
-rn00860 Porphyrin metabolism; rn01240 Biosynthesis of cofactors,Cobamide coenzyme + GMP <=> Adenosine-GDP-cobinamide + alpha-Ribazole,MCON_1723
-rn00860 Porphyrin metabolism; rn01240 Biosynthesis of cofactors,"Hydrogenobyrinate + 2 L-Glutamine + 2 ATP + 2 H2O <=> Hydrogenobyrinate a,c diamide + 2 Orthophosphate + 2 L-Glutamate + 2 ADP",MCON_2971
-rn00860 Porphyrin metabolism; rn01240 Biosynthesis of cofactors,"Adenosyl cobyrinate a,c diamide + 4 L-Glutamine + 4 ATP + 4 H2O <=> Adenosyl cobyrinate hexaamide + 4 L-Glutamate + 4 Orthophosphate + 4 ADP",MCON_2599
-rn00860 Porphyrin metabolism; rn01240 Biosynthesis of cofactors,"Hydrogenobyrinate a,c diamide + Cobalt ion + ATP + H2O <=> Cob(II)yrinate a,c diamide + Orthophosphate + ADP + H+",MCON_0660 | MCON_0667 | MCON_2203
-rn00860 Porphyrin metabolism; rn01240 Biosynthesis of cofactors,Sirohydrochlorin + Cobalt ion <=> Cobalt-sirohydrochlorin + 2 H+,MCON_0747 | MCON_2896 | MCON_1928
-rn00860 Porphyrin metabolism; rn01240 Biosynthesis of cofactors,Cobalt-sirohydrochlorin + S-Adenosyl-L-methionine <=> Cobalt-factor III + S-Adenosyl-L-homocysteine,MCON_1684
-rn00860 Porphyrin metabolism; rn01240 Biosynthesis of cofactors,Cobalt-precorrin 4 + S-Adenosyl-L-methionine <=> Cobalt-precorrin 5A + S-Adenosyl-L-homocysteine,MCON_1683
-rn00860 Porphyrin metabolism; rn01240 Biosynthesis of cofactors,Cobalt-precorrin 8 <=> Cobyrinate,MCON_0651 | MCON_1680
-rn00860 Porphyrin metabolism; rn01240 Biosynthesis of cofactors,"Cobyrinate + 2 L-Glutamine + 2 ATP + 2 H2O <=> Cob(II)yrinate a,c diamide + 2 L-Glutamate + 2 ADP + 2 Orthophosphate",MCON_2971
-rn00860 Porphyrin metabolism; rn01240 Biosynthesis of cofactors,Adenosyl cobyrinate hexaamide + D-1-Aminopropan-2-ol O-phosphate + ATP <=> Adenosyl cobinamide phosphate + ADP + Orthophosphate,MCON_1335
-rn00860 Porphyrin metabolism; rn01240 Biosynthesis of cofactors,ATP + Adenosyl cobyrinate hexaamide + (R)-1-Aminopropan-2-ol <=> ADP + Orthophosphate + Adenosyl cobinamide,MCON_1335
-rn00860 Porphyrin metabolism; rn01240 Biosynthesis of cofactors,Cobalt-precorrin 5A + H2O <=> Cobalt-precorrin 5B + Acetaldehyde,MCON_1682
-rn00860 Porphyrin metabolism; rn01240 Biosynthesis of cofactors,Cobalt-precorrin 5B + S-Adenosyl-L-methionine <=> Cobalt-precorrin 6 + S-Adenosyl-L-homocysteine,MCON_1679
-rn00860 Porphyrin metabolism; rn01240 Biosynthesis of cofactors,Cobalt-dihydro-precorrin 6 + S-Adenosyl-L-methionine <=> Cobalt-precorrin 7 + S-Adenosyl-L-homocysteine + CO2,MCON_1685
-rn00860 Porphyrin metabolism; rn01240 Biosynthesis of cofactors,Cobalt-precorrin 7 + S-Adenosyl-L-methionine <=> Cobalt-precorrin 8 + S-Adenosyl-L-homocysteine,MCON_1678
-rn00900 Terpenoid backbone biosynthesis; rn01110 Biosynthesis of secondary metabolites,Isopentenyl diphosphate <=> Dimethylallyl diphosphate,MCON_2557
-rn00900 Terpenoid backbone biosynthesis; rn01110 Biosynthesis of secondary metabolites,Dimethylallyl diphosphate + Isopentenyl diphosphate <=> Diphosphate + Geranyl diphosphate,MCON_2555
-rn00900 Terpenoid backbone biosynthesis; rn01110 Biosynthesis of secondary metabolites,"Geranyl diphosphate + Isopentenyl diphosphate <=> Diphosphate + trans,trans-Farnesyl diphosphate",MCON_2555
-rn00900 Terpenoid backbone biosynthesis; rn01110 Biosynthesis of secondary metabolites,"trans,trans-Farnesyl diphosphate + Isopentenyl diphosphate <=> Diphosphate + Geranylgeranyl diphosphate",MCON_2555
-rn00900 Terpenoid backbone biosynthesis; rn01110 Biosynthesis of secondary metabolites,(R)-Mevalonate + CoA + 2 NAD+ <=> (S)-3-Hydroxy-3-methylglutaryl-CoA + 2 NADH + 2 H+,MCON_2640
-rn00900 Terpenoid backbone biosynthesis; rn01110 Biosynthesis of secondary metabolites,ATP + (R)-Mevalonate <=> ADP + (R)-5-Phosphomevalonate,MCON_2559
-rn00900 Terpenoid backbone biosynthesis; rn01110 Biosynthesis of secondary metabolites,"trans,trans-Farnesyl diphosphate + 5 Isopentenyl diphosphate <=> all-trans-Octaprenyl diphosphate + 5 Diphosphate",MCON_2794
-rn00900 Terpenoid backbone biosynthesis; rn01110 Biosynthesis of secondary metabolites,ATP + Isopentenyl phosphate <=> ADP + Isopentenyl diphosphate,MCON_2558
-rn00900 Terpenoid backbone biosynthesis; rn01110 Biosynthesis of secondary metabolites,(R)-5-Phosphomevalonate <=> trans-Anhydromevalonate 5-phosphate + H2O,MCON_2875 | MCON_2874
-rn00900 Terpenoid backbone biosynthesis; rn01110 Biosynthesis of secondary metabolites,trans-Anhydromevalonate 5-phosphate <=> Isopentenyl phosphate + CO2,MCON_1237
-rn00910 Nitrogen metabolism,Ammonia + NAD+ + H2O <=> Hydroxylamine + NADH + H+,MCON_2044
-rn00910 Nitrogen metabolism,ATP + Carbamate <=> ADP + Carbamoyl phosphate,MCON_0086 | MCON_1025 | MCON_1026 | MCON_2233
-rn00910 Nitrogen metabolism,HCO3- + H+ <=> CO2 + H2O,MCON_1210
-rn00920 Sulfur metabolism,Thiosulfate + Cyanide ion <=> Sulfite + Thiocyanate,MCON_1529 | MCON_1376 | MCON_2997 | MCON_2998 | MCON_3198 | MCON_3199 | MCON_3231
-rn00920 Sulfur metabolism,S-Adenosyl-L-methionine + Methanethiol <=> S-Adenosyl-L-homocysteine + Dimethyl sulfide,MCON_0211 | MCON_2076
-rn00983 Drug metabolism - other enzymes,5-FU + 5-Phospho-alpha-D-ribose 1-diphosphate <=> 5-Fluorouridine monophosphate + Diphosphate,MCON_1953
-rn00983 Drug metabolism - other enzymes,6-Mercaptopurine ribonucleoside triphosphate + H2O <=> 6-Thioinosine-5'-monophosphate + Diphosphate,MCON_0926
-rn00983 Drug metabolism - other enzymes,6-Thioxanthine 5'-monophosphate + ATP + L-Glutamine + H2O <=> 6-Thioguanosine monophosphate + AMP + Diphosphate + L-Glutamate,MCON_0459 | MCON_1034
-rn00983 Drug metabolism - other enzymes,ATP + 5-Fluorouridine diphosphate <=> ADP + 5-Fluorouridine triphosphate,MCON_1703
-rn00983 Drug metabolism - other enzymes,ATP + 5-Fluorodeoxyuridine diphosphate <=> ADP + 5-Fluorodeoxyuridine triphosphate,MCON_1703
-rn00983 Drug metabolism - other enzymes,5-Fluorodeoxyuridine triphosphate + H2O <=> 5-Fluorodeoxyuridine monophosphate + Diphosphate,MCON_0264
-rn01040 Biosynthesis of unsaturated fatty acids,Stearoyl-CoA + H2O <=> CoA + Octadecanoic acid,MCON_1799
-rn01040 Biosynthesis of unsaturated fatty acids,Eicosanoyl-CoA + H2O <=> CoA + Icosanoic acid,MCON_1799
-rn01040 Biosynthesis of unsaturated fatty acids,Oleoyl-CoA + H2O <=> CoA + (9Z)-Octadecenoic acid,MCON_1799
-rn01040 Biosynthesis of unsaturated fatty acids,Linoleoyl-CoA + H2O <=> CoA + Linoleate,MCON_1799
-rn01040 Biosynthesis of unsaturated fatty acids,"(9Z,12Z,15Z)-Octadecatrienoyl-CoA + H2O <=> CoA + (9Z,12Z,15Z)-Octadecatrienoic acid",MCON_1799
-rn01040 Biosynthesis of unsaturated fatty acids,"(5Z,8Z,11Z,14Z,17Z)-Icosapentaenoyl-CoA + H2O <=> CoA + (5Z,8Z,11Z,14Z,17Z)-Icosapentaenoic acid",MCON_1799
-rn01040 Biosynthesis of unsaturated fatty acids,"(4Z,7Z,10Z,13Z,16Z,19Z)-Docosahexaenoyl-CoA + H2O <=> CoA + (4Z,7Z,10Z,13Z,16Z,19Z)-Docosahexaenoic acid",MCON_1799
-rn01040 Biosynthesis of unsaturated fatty acids,"gamma-Linolenoyl-CoA + H2O <=> CoA + (6Z,9Z,12Z)-Octadecatrienoic acid",MCON_1799
-rn01040 Biosynthesis of unsaturated fatty acids,"8,11,14-Eicosatrienoyl-CoA + H2O <=> CoA + Dihomo-gamma-linolenate",MCON_1799
-rn01040 Biosynthesis of unsaturated fatty acids,Arachidonyl-CoA + H2O <=> CoA + Arachidonate,MCON_1799
-rn01210 2-Oxocarboxylic acid metabolism,Oxaloglutarate <=> 2-Oxoadipate + CO2,MCON_1920
-rn01210 2-Oxocarboxylic acid metabolism,Homoisocitrate + NAD+ <=> Oxaloglutarate + NADH + H+,MCON_1920
-rn01210 2-Oxocarboxylic acid metabolism; rn01240 Biosynthesis of cofactors,(R)-(Homo)2-citrate <=> (-)-threo-Iso(homo)2-citrate,MCON_0444 | MCON_1922
-rn01210 2-Oxocarboxylic acid metabolism; rn01240 Biosynthesis of cofactors,(R)-(Homo)3-citrate <=> (-)-threo-Iso(homo)3-citrate,MCON_0444 | MCON_1922
+ ,Rxns,Reactions,Gene-Protein Rules,Lower Bound,Upper Bound
+0,Diphosphate + H2O <=> 2 Orthophosphate,h2o[c] + ppi[c]  <=> 2 pi[c] ,MCON_1906,-20,20
+0,2-Acetolactate + CO2 <=> 2 Pyruvate,co2[c] + 2acet[c]  <=> 2 pyr[c] ,MCON_0410 | MCON_0411,-20,20
+0,Carbonic acid <=> CO2 + H2O,h2co3[c]  <=> h2o[c] + co2[c] ,MCON_1210,-20,20
+0,2 Superoxide + 2 H+ <=> Hydrogen peroxide + Oxygen,2 h[c] + 2 o2s[c]  <=> o2[c] + h2o2[c] ,MCON_2612,-20,20
+0,Glycine + H2O + NAD+ <=> Glyoxylate + Ammonia + NADH + H+,h2o[c] + nad[c] + gly[c]  <=> nadh[c] + nh4[c] + glx[c] + h[c] ,MCON_0907,-20,20
+0,Methanol + Hydrogen peroxide <=> Formaldehyde + 2 H2O,h2o2[c] + meoh[c]  <=> 2 h2o[c] + fald[c] ,MCON_0161,-20,20
+0,Glycerone phosphate + H2O <=> Glycerone + Orthophosphate,h2o[c] + dhap[c]  <=> pi[c] + dha[c] ,MCON_2339,-20,20
+glycolysis,"beta-D-Fructose 1,6-bisphosphate <=> Glycerone phosphate + D-Glyceraldehyde 3-phosphate",f26bp[c]  <=> dhap[c] + g3p[c] ,MCON_2528 | MCON_1478 | MCON_3321 | MCON_3232 | MCON_2526,-20,20
+0,"2,3-Dihydroxy-3-methylbutanoate <=> 3-Methyl-2-oxobutanoic acid + H2O",23dhmb[c]  <=> h2o[c] + 3mob[c] ,MCON_1149,-20,20
+0,Phenol + Acetate <=> Phenyl acetate + H2O,ac[c] + phenol[c]  <=> h2o[c] + pac[c] ,MCON_1799,-20,20
+glycolysis,3-Phospho-D-glyceroyl phosphate + H2O <=> 3-Phospho-D-glycerate + Orthophosphate,h2o[c] + 13dpg[c]  <=> pi[c] + 3pg[c] ,MCON_0840 | MCON_3294,-20,20
+0,"(R,R)-Tartaric acid <=> D-Glycerate + CO2",  <=> co2[c] + glyc_R[c] ,MCON_1272,-20,20
+0,alpha-D-Glucose 6-phosphate <=> beta-D-Fructose 6-phosphate,g6p[c]  <=> f6p[c] ,MCON_2977,-20,20
+0,O-Phospho-D-serine + H2O <=> D-Serine + Orthophosphate,h2o[c] + pser_D[c]  <=> pi[c] + ser_D[c] ,MCON_0015 | MCON_0973,-20,20
+0,dTDP-glucose <=> dTDP-galactose,dtdpglu[c]  <=> dtdpgal[c] ,MCON_1457 | MCON_1862 | MCON_3230 | MCON_1223,-20,20
+0,2-Acetolactate + Thiamin diphosphate <=> 2-(alpha-Hydroxyethyl)thiamine diphosphate + Pyruvate,thmpp[c] + 2acet[c]  <=> pyr[c] + M00561[c] ,MCON_0410 | MCON_0411,-20,20
+0,"2-Acetolactate + NADPH + H+ <=> 2,3-Dihydroxy-3-methylbutanoate + NADP+",nadph[c] + h[c] + 2acet[c]  <=> nadp[c] + 23dhmb[c] ,MCON_0412,-20,20
+0,alpha-D-Hexose 1-phosphate <=> alpha-D-Hexose 6-phosphate,ahex1p[c]  <=> g6p[c] ,MCON_0725,-20,20
+0,beta-D-Glucose 6-phosphate <=> beta-D-Fructose 6-phosphate,g6p_B[c]  <=> f6p[c] ,MCON_2977,-20,20
+0,2 S-Adenosyl-L-methionine + Uroporphyrin III <=> 2 S-Adenosyl-L-homocysteine + Sirohydrochlorin,2 amet[c] + C02469  <=> 2 ahcys[c] + scl[c] ,MCON_0901,-20,20
+0,3-Phospho-D-erythronate <=> Phosphoenol-4-deoxy-3-tetrulosonate + H2O,3per[c]  <=> h2o[c] + p4d3tetr[c] ,MCON_0157,-20,20
+0,(S)-2-Acetolactate + Thiamin diphosphate <=> 2-(alpha-Hydroxyethyl)thiamine diphosphate + Pyruvate,thmpp[c] + alac_S[c]  <=> pyr[c] + M00561[c] ,MCON_0410 | MCON_0411,-20,20
+0,2-Oxobutanoate + 2-(alpha-Hydroxyethyl)thiamine diphosphate <=> (S)-2-Aceto-2-hydroxybutanoate + Thiamin diphosphate,2obut[c] + M00561[c]  <=> thmpp[c] + 2ahbut[c] ,MCON_0410 | MCON_0411,-20,20
+0,ATP + L-Selenomethionine + H2O <=> Orthophosphate + Diphosphate + Se-Adenosylselenomethionine,h2o[c] + atp[c] + selmeth[c]  <=> pi[c] + ppi[c] + seasmet[c] ,MCON_2824,-20,20
+glycolysis,"beta-D-Fructose 1,6-bisphosphate + H2O <=> beta-D-Fructose 6-phosphate + Orthophosphate",h2o[c] + f26bp[c]  <=> pi[c] + f6p[c] ,MCON_2525 | MCON_2528,-20,20
+0,ATP + Adenylylselenate <=> ADP + 3'-Phosphoadenylylselenate,atp[c] + adsel[c]  <=> adp[c] + 3padsel[c] ,MCON_2909,-20,20
+0,2 Mycothiol + NAD+ <=> Mycothione + NADH + H+,nad[c] + 2 myct[c]  <=> nadh[c] + h[c] + mycotne[c] ,MCON_0536,-20,20
+0,2 Mycothiol + NADP+ <=> Mycothione + NADPH + H+,nadp[c] + 2 myct[c]  <=> nadph[c] + h[c] + mycotne[c] ,MCON_0536,-20,20
+0,ADP + D-Glucose <=> AMP + D-Glucose 6-phosphate,adp[c] + glc_D[c]  <=> amp[c] + g6p[c] ,MCON_0234,-20,20
+0,Cobalt-precorrin 3 + S-Adenosyl-L-methionine <=> Cobalt-precorrin 4 + S-Adenosyl-L-homocysteine,amet[c] + copre3[c]  <=> ahcys[c] + copre4[c] ,MCON_1681,-20,20
+0,L-Iditol + NAD+ <=> L-Sorbose + NADH + H+,nad[c] + C01507[c]  <=> nadh[c] + h[c] + srb_L[c] ,MCON_0566,-20,20
+0,L-Aspartate + H2O + NAD+ <=> Oxaloacetate + Ammonia + NADH + H+,h2o[c] + nad[c] + asp_L[c]  <=> nadh[c] + nh4[c] + oaa[c] + h[c] ,MCON_1163,-20,20
+0,L-Aspartate + H2O + NADP+ <=> Oxaloacetate + Ammonia + NADPH + H+,h2o[c] + nadp[c] + asp_L[c]  <=> nadph[c] + nh4[c] + oaa[c] + h[c] ,MCON_1163,-20,20
+0,NADH + H+ + Oxygen <=> NAD+ + Hydrogen peroxide,nadh[c] + o2[c] + h[c]  <=> nad[c] + h2o2[c] ,MCON_0597,-20,20
+0,Hydrogen + NADP+ <=> NADPH + H+,nadp[c] + h2[c]  <=> nadph[c] + h[c] ,MCON_3103,-20,20
+0,S-Adenosyl-L-methionine + Uroporphyrinogen III <=> S-Adenosyl-L-homocysteine + Precorrin 1,amet[c] + uppg3[c]  <=> ahcys[c] + pre1[c] ,MCON_0901,-20,20
+0,S-Adenosyl-L-methionine + Precorrin 1 <=> S-Adenosyl-L-homocysteine + Precorrin 2,amet[c] + pre1[c]  <=> ahcys[c] + pre2[c] ,MCON_0901,-20,20
+0,D-Glyceraldehyde 3-phosphate + D-Ribulose 5-phosphate + L-Glutamine <=> Pyridoxal phosphate + L-Glutamate + Orthophosphate + 3 H2O,gln_L[c] + g3p[c] + ru5p_D[c]  <=> 3 h2o[c] + pi[c] + pydx5p[c] + glu_L[c] ,MCON_2350 | MCON_2351,-20,20
+0,Spermidine + NAD+ <=> Dehydrospermidine + NADH + H+,nad[c] + spmd[c]  <=> nadh[c] + h[c] + CE5586[c] ,MCON_3163 | MCON_3059,-20,20
+0,2 ATP + HCO3- + Ammonia <=> 2 ADP + Orthophosphate + Carbamoyl phosphate,2 atp[c] + nh4[c] + hco3[c]  <=> 2 adp[c] + pi[c] + cbp[c] ,MCON_0086 | MCON_1025 | MCON_1026,-20,20
+0,2-Hydroxyglutarate + NAD+ <=> 2-Oxoglutarate + NADH + H+,nad[c] + M00653[c]  <=> nadh[c] + akg[c] + h[c] ,MCON_3371,-20,20
+glycolysis,"beta-D-Fructose 6-phosphate + ADP <=> beta-D-Fructose 1,6-bisphosphate + AMP",nad[c] + M00653[c]  <=> nadh[c] + akg[c] + h[c] ,MCON_0234,-20,20
+0,O-Phospho-L-serine + Sulfite <=> L-Cysteate + Orthophosphate,so3[c] + pser_L[c]  <=> pi[c] + Lcyst[c] ,MCON_0195,-20,20
+0,Cobyrinate + L-Glutamine + ATP + H2O <=> Cobyrinate c-monamide + L-Glutamate + ADP + Orthophosphate,h2o[c] + atp[c] + gln_L[c] + cobya[c]  <=> adp[c] + pi[c] + glu_L[c] + cobncmonamd[c] ,MCON_2971,-20,20
+0,"Cobyrinate c-monamide + L-Glutamine + ATP + H2O <=> Cob(II)yrinate a,c diamide + L-Glutamate + ADP + Orthophosphate",h2o[c] + atp[c] + gln_L[c] + cobncmonamd[c]  <=> adp[c] + pi[c] + glu_L[c] + co2dam[c] ,MCON_2971,-20,20
+0,ATP + Dephospho-CoA <=> 2'-(5-Triphosphoribosyl)-3'-dephospho-CoA + Adenine,atp[c] + dpcoa[c]  <=> ade[c] + 2tpr3dpcoa[c] ,MCON_0073,-20,20
+0,Reduced coenzyme F420 + NADP+ <=> Coenzyme F420 + NADPH + H+,nadp[c] + coF420h[c]  <=> nadph[c] + h[c] + coF420[c] ,MCON_1371,-20,20
+0,D-arabino-Hex-3-ulose 6-phosphate <=> beta-D-Fructose 6-phosphate,ah6p_D[c]  <=> f6p[c] ,MCON_0429,-20,20
+0,8-Oxo-dGTP + H2O <=> 8-Oxo-dGMP + Diphosphate,h2o[c] + 8oxdgtp[c]  <=> ppi[c] + 8oxdgmp[c] ,MCON_0143,-20,20
+0,D-Ribose 5-phosphate + D-Glyceraldehyde 3-phosphate + Ammonia <=> Pyridoxal phosphate + 4 H2O + Orthophosphate,nh4[c] + r5p[c] + g3p[c]  <=> 4 h2o[c] + pi[c] + pydx5p[c] ,MCON_2350 | MCON_2351,-20,20
+0,"ADP + (6S)-6beta-Hydroxy-1,4,5,6-tetrahydronicotinamide-adenine dinucleotide <=> AMP + Orthophosphate + NADH",adp[c] + nadhx_S[c]  <=> nadh[c] + pi[c] + amp[c] ,MCON_1530,-20,20
+0,"ADP + (6S)-6beta-Hydroxy-1,4,5,6-tetrahydronicotinamide-adenine dinucleotide phosphate <=> AMP + Orthophosphate + NADPH",adp[c] + nadphx_S[c]  <=> nadph[c] + pi[c] + amp[c] ,MCON_1530,-20,20
+0,"(6R)-6beta-Hydroxy-1,4,5,6-tetrahydronicotinamide-adenine dinucleotide <=> (6S)-6beta-Hydroxy-1,4,5,6-tetrahydronicotinamide-adenine dinucleotide",nadhx_R[c]  <=> nadhx_S[c] ,MCON_1530,-20,20
+0,"(6R)-6beta-Hydroxy-1,4,5,6-tetrahydronicotinamide-adenine dinucleotide phosphate <=> (6S)-6beta-Hydroxy-1,4,5,6-tetrahydronicotinamide-adenine dinucleotide phosphate",nadphx_R[c]  <=> nadphx_S[c] ,MCON_1530,-20,20
+0,5-Phospho-alpha-D-ribose 1-diphosphate + 4-Aminobenzoate <=> 4-(beta-D-Ribofuranosyl)aniline 5'-phosphate + CO2 + Diphosphate,prpp[c] + 4abz[c]  <=> co2[c] + ppi[c] + 4bdriboanil5p[c] ,MCON_2372 | MCON_0135,-20,20
+0,"CDP-2,3-bis-(O-phytanyl)-sn-glycerol + L-Serine <=> CMP + 2,3-Bis-(O-phytanyl)-sn-glycero-1-phospho-L-serine",ser_L[c] + cdp23bisophytsnglyc[c]  <=> cmp[c] + dpgps[c] ,MCON_0461,-20,20
+0,L-Threonine + ATP + HCO3- + H+ <=> L-Threonylcarbamoyladenylate + Diphosphate + H2O,atp[c] + h[c] + thr_L[c] + hco3[c]  <=> h2o[c] + ppi[c] + tcamp[c] ,MCON_0585,-20,20
+0,"CDP-2,3-bis-(O-phytanyl)-sn-glycerol + 1D-myo-Inositol 3-phosphate <=> CMP + 1-Archaetidyl-1D-myo-inositol 3-phosphate",mi3p_D[c] + cdp23bisophytsnglyc[c]  <=> cmp[c] + archp[c] ,MCON_0773,-20,20
+0,CTP + Phytol <=> CDP + Phytyl phosphate,ctp[c] + phytol1[c]  <=> cdp[c] + phyldpp[c] ,MCON_2378,-20,20
+0,ATP + HCO3- <=> ADP + Carboxyphosphate,atp[c] + hco3[c]  <=> adp[c] + cap[c] ,MCON_0086 | MCON_1025 | MCON_1026,-20,20
+0,Ammonia + Carboxyphosphate <=> Carbamate + Orthophosphate,nh4[c] + cap[c]  <=> pi[c] + cbmt[c] ,MCON_0086 | MCON_1025 | MCON_1026,-20,20
+0,2-Iminobutanoate + H2O <=> 2-Oxobutanoate + Ammonia,h2o[c] + 2imin[c]  <=> nh4[c] + 2obut[c] ,MCON_0330,-20,20
+0,2-Aminobut-2-enoate <=> 2-Iminobutanoate,2abut2en[c]  <=> 2imin[c] ,MCON_0330,-20,20
+0,"Adenosine-GDP-cobinamide + N1-(5-Phospho-alpha-D-ribosyl)-5,6-dimethylbenzimidazole <=> GMP + Adenosylcobalamin 5'-phosphate",5prdmbz[c] + agdpcbi[c]  <=> gmp[c] + adoc5p[c] ,MCON_1723,-20,20
+0,"4-Amino-5-hydroxymethyl-2-methylpyrimidine diphosphate + 2-[(2R,5Z)-2-Carboxy-4-methylthiazol-5(2H)-ylidene]ethyl phosphate <=> Diphosphate + Thiamin monophosphate + CO2",2mahmp[c] + 2c4mthzep[c]  <=> co2[c] + ppi[c] + thmmp[c] ,MCON_3369 | MCON_0806,-20,20
+0,(R)-2-Hydroxyglutarate + NAD+ <=> 2-Oxoglutarate + NADH + H+,nad[c] + r2hglut[c]  <=> nadh[c] + akg[c] + h[c] ,MCON_3371,-20,20
+0,Reduced coenzyme F420 + Methanophenazine <=> Coenzyme F420 + Dihydromethanophenazine,coF420h[c] + mphze[c]  <=> coF420[c] + dhmphze[c] ,MCON_3064 | MCON_3068 | MCON_3061 | MCON_3063 | MCON_3067 | MCON_3069 | MCON_3070 | MCON_2389 | MCON_3060 | MCON_3062,-20,20
+0,"Ni(II)-pyridinium-3,5-bisthiocarboxylate mononucleotide <=> Pyridinium-3,5-bisthiocarboxylate mononucleotide + Nickel(2+)",niiipyridnium35bistcaatemntd[c]  <=> ni2[c] + p2tmn[c] ,MCON_0898 | MCON_0941,-20,20
+0,"Deamino-NAD+ + HCO3- <=> AMP + Pyridinium-3,5-biscarboxylic acid mononucleotide",hco3[c] + dnad[c]  <=> amp[c] + p2cmn[c] ,MCON_1809,-20,20
+0,"ATP + Pyridinium-3,5-biscarboxylic acid mononucleotide <=> Diphosphate + 5-Carboxy-1-(5-O-phospho-beta-D-ribofuranosyl)pyridin-1-ium-3-carbonyl adenylate",atp[c] + p2cmn[c]  <=> ppi[c] + 5ca15opbdribopyridn1ium3carbaden[c] ,MCON_2758,-20,20
+0,ATP + Pyridinium-3-carboxy-5-thiocarboxylic acid mononucleotide <=> Diphosphate + 1-(5-O-Phospho-beta-D-ribofuranosyl)-5-(sulfanylcarbonyl)pyridin-1-ium-3-carbonyl adenylate,atp[c] + pctm[c]  <=> ppi[c] + 15opbdribo5sulfpyridn1ium3carbaden[c] ,MCON_2758,-20,20
+0,(R)-S-Adenosyl-L-methionine + H2O <=> Adenosine + L-Methionine,h2o[c] + amet[c]  <=> met_L[c] + adn[c] ,MCON_2393,-20,20
+0,N-(5'-Phospho-D-1'-ribulosylformimino)-5-amino-1-(5''-phospho-D-ribosyl)-4-imidazolecarboxamide + Ammonia <=> 1-(5'-Phosphoribosyl)-5-amino-4-imidazolecarboxamide + D-erythro-1-(Imidazol-4-yl)glycerol 3-phosphate + H2O,nh4[c] + n5pd1ribu5am15pdribo4imidazcarbamd[c]  <=> h2o[c] + eig3p[c] + aicar[c] ,MCON_0619 | MCON_3300 | MCON_3301,-20,20
+0,Ammonia + HCO3- <=> Carbamate + H2O,nh4[c] + hco3[c]  <=> h2o[c] + cbmt[c] ,MCON_2233,-20,20
+0,3''-O-Acetyl-ADP-D-ribose + H2O <=> ADP-ribose + Acetate,h2o[c] + 3oacadprib_d[c]  <=> ac[c] + adprib[c] ,MCON_3110,-20,20
+0,O-Acetyl-ADP-ribose + H2O <=> ADP-ribose + Acetate,h2o[c] + aadpr[c]  <=> ac[c] + adprib[c] ,MCON_3110,-20,20
+0,ADP + D-Glucosamine <=> AMP + D-Glucosamine 6-phosphate,adp[c] + gam[c]  <=> amp[c] + gam6p[c] ,MCON_0234,-20,20
+0,"3-(D-Glyceryl)-diphospho-5'-guanosine + 7,8-Didemethyl-8-hydroxy-5-deazariboflavin <=> GMP + 3PG-factor 420-0",ddhrb[c] + 3dglycdp5gsn[c]  <=> gmp[c] + 3pgfact4200[c] ,MCON_1062,-20,20
+0,Iminoaspartate + H2O <=> Oxaloacetate + Ammonia,h2o[c] + iasp[c]  <=> nh4[c] + oaa[c] ,MCON_1163,-20,20
+0,"4-Deoxy-L-erythro-hex-4-enopyranuronate <=> (4S,5S)-4,5-Dihydroxy-2,6-dioxohexanoate",45unsauratdlgulu[c]  <=> dt5hsu[c] ,MCON_0026,-20,20
+0,4 Fe2+ + Oxygen + 6 H2O <=> 4 Iron(III) oxide-hydroxide + 8 H+,6 h2o[c] + o2[c] + 4 fe2[c]  <=> 8 h[c] + 4 feooh[c] ,MCON_2661,-20,20
+0,2 Fe2+ + Oxygen + 4 H2O <=> 2 Iron(III) oxide-hydroxide + 4 H+ + Hydrogen peroxide,4 h2o[c] + o2[c] + 2 fe2[c]  <=> h2o2[c] + 4 h[c] + 2 feooh[c] ,MCON_2661,-20,20
+0,2 Fe2+ + Hydrogen peroxide + 2 H2O <=> 2 Iron(III) oxide-hydroxide + 4 H+,2 h2o[c] + h2o2[c] + 2 fe2[c]  <=> 4 h[c] + 2 feooh[c] ,MCON_2661,-20,20
+rn00010 Glycolysis / Gluconeogenesis; rn00710 Carbon fixation by Calvin cycle; rn01110 Biosynthesis of secondary metabolites; rn01200 Carbon metabolism; rn01230 Biosynthesis of amino acids,D-Glyceraldehyde 3-phosphate + Orthophosphate + NAD+ <=> 3-Phospho-D-glyceroyl phosphate + NADH + H+,nad[c] + pi[c] + g3p[c]  <=> nadh[c] + h[c] + 13dpg[c] ,MCON_2908,-20,20
+rn00010 Glycolysis / Gluconeogenesis; rn00710 Carbon fixation by Calvin cycle; rn01110 Biosynthesis of secondary metabolites; rn01200 Carbon metabolism; rn01230 Biosynthesis of amino acids,D-Glyceraldehyde 3-phosphate + Orthophosphate + NADP+ <=> 3-Phospho-D-glyceroyl phosphate + NADPH + H+,nadp[c] + pi[c] + g3p[c]  <=> nadph[c] + h[c] + 13dpg[c] ,MCON_2908,-20,20
+rn00010 Glycolysis / Gluconeogenesis; rn00710 Carbon fixation by Calvin cycle; rn01110 Biosynthesis of secondary metabolites; rn01200 Carbon metabolism; rn01230 Biosynthesis of amino acids,ATP + 3-Phospho-D-glycerate <=> ADP + 3-Phospho-D-glyceroyl phosphate,atp[c] + 3pg[c]  <=> adp[c] + 13dpg[c] ,MCON_2355,-20,20
+rn00030 Pentose phosphate pathway,ATP + D-Ribose <=> ADP + D-Ribose 5-phosphate,atp[c] + rib_D[c]  <=> adp[c] + r5p[c] ,MCON_1689,-20,20
+rn00030 Pentose phosphate pathway,2-Deoxy-D-ribose 5-phosphate + ADP <=> Deoxyribose + ATP,adp[c] + 2dr5p[c]  <=> atp[c] + drib[c] ,MCON_1689,-20,20
+rn00030 Pentose phosphate pathway,"D-Ribose 1,5-bisphosphate <=> D-Ribulose 1,5-bisphosphate",r15bp[c]  <=> rb15bp[c] ,MCON_0206,-20,20
+rn00030 Pentose phosphate pathway; rn00680 Methane metabolism; rn01200 Carbon metabolism; rn01230 Biosynthesis of amino acids,D-Ribulose 5-phosphate + Formaldehyde <=> D-arabino-Hex-3-ulose 6-phosphate,fald[c] + ru5p_D[c]  <=> ah6p_D[c] ,MCON_0429 | MCON_1383,-20,20
+rn00030 Pentose phosphate pathway; rn00680 Methane metabolism; rn01200 Carbon metabolism; rn01230 Biosynthesis of amino acids,D-arabino-Hex-3-ulose 6-phosphate <=> D-Fructose 6-phosphate,ah6p_D[c]  <=> f6p[c] ,MCON_0429,-20,20
+rn00040 Pentose and glucuronate interconversions,Xylitol + NAD+ <=> D-Xylulose + NADH + H+,nad[c] + xylt[c]  <=> nadh[c] + h[c] + xylu_D ,MCON_0566,-20,20
+rn00040 Pentose and glucuronate interconversions,4-Deoxy-L-threo-hex-4-enopyranuronate <=> 5-Dehydro-4-deoxy-D-glucuronate,45unsauratdglcu[c]  <=> 5dh4dglcn[c] ,MCON_0026,-20,20
+rn00051 Fructose and mannose metabolism,D-Sorbitol + NAD+ <=> D-Fructose + NADH + H+,nad[c] + sbt_D[c]  <=> nadh[c] + h[c] + fru[c] ,MCON_0566,-20,20
+rn00051 Fructose and mannose metabolism,L-Fuculose 1-phosphate <=> Glycerone phosphate + (S)-Lactaldehyde,fc1p[c]  <=> dhap[c] + lald_L[c] ,MCON_1374,-20,20
+rn00051 Fructose and mannose metabolism,D-Fructose 1-phosphate <=> Glycerone phosphate + D-Glyceraldehyde,f1p[c]  <=> dhap[c] + glyald[c] ,MCON_2528 | MCON_1478 | MCON_3321 | MCON_3232 | MCON_2526,-20,20
+rn00051 Fructose and mannose metabolism,D-Allose 6-phosphate <=> D-Allulose 6-phosphate,all6p[c]  <=> allul6p[c] ,MCON_3136,-20,20
+"rn00220 Arginine biosynthesis; rn00250 Alanine, aspartate and glutamate metabolism; rn01110 Biosynthesis of secondary metabolites; rn01230 Biosynthesis of amino acids",N-(L-Arginino)succinate <=> Fumarate + L-Arginine,argsuc[c]  <=> arg_L[c] + fum[c] ,MCON_1456,-20,20
+"rn00220 Arginine biosynthesis; rn00250 Alanine, aspartate and glutamate metabolism; rn01110 Biosynthesis of secondary metabolites; rn01230 Biosynthesis of amino acids",ATP + L-Citrulline + L-Aspartate <=> AMP + Diphosphate + N-(L-Arginino)succinate,atp[c] + asp_L[c] + citr_L[c]  <=> ppi[c] + amp[c] + argsuc[c] ,MCON_3352,-20,20
+rn00220 Arginine biosynthesis; rn01110 Biosynthesis of secondary metabolites; rn01210 2-Oxocarboxylic acid metabolism; rn01230 Biosynthesis of amino acids,Acetyl-CoA + L-Glutamate <=> CoA + N-Acetyl-L-glutamate,accoa[c] + glu_L[c]  <=> coa[c] + acglu[c] ,MCON_1455,-20,20
+rn00220 Arginine biosynthesis; rn01110 Biosynthesis of secondary metabolites; rn01210 2-Oxocarboxylic acid metabolism; rn01230 Biosynthesis of amino acids,N-Acetylornithine + 2-Oxoglutarate <=> N-Acetyl-L-glutamate 5-semialdehyde + L-Glutamate,akg[c] + acorn[c]  <=> glu_L[c] + acg5sa[c] ,MCON_1613,-20,20
+rn00220 Arginine biosynthesis; rn01110 Biosynthesis of secondary metabolites; rn01210 2-Oxocarboxylic acid metabolism; rn01230 Biosynthesis of amino acids,ATP + N-Acetyl-L-glutamate <=> ADP + N-Acetyl-L-glutamate 5-phosphate,atp[c] + acglu[c]  <=> adp[c] + acg5p[c] ,MCON_2654,-20,20
+rn00220 Arginine biosynthesis; rn01110 Biosynthesis of secondary metabolites; rn01210 2-Oxocarboxylic acid metabolism; rn01230 Biosynthesis of amino acids,N-Acetyl-L-glutamate 5-semialdehyde + Orthophosphate + NADP+ <=> N-Acetyl-L-glutamate 5-phosphate + NADPH + H+,nadp[c] + pi[c] + acg5sa[c]  <=> nadph[c] + h[c] + acg5p[c] ,MCON_1453,-20,20
+rn00230 Purine metabolism,"ATP <=> 3',5'-Cyclic AMP + Diphosphate",atp[c]  <=> ppi[c] + camp[c] ,MCON_1159,-20,20
+rn00230 Purine metabolism,"ADP + ATP <=> Orthophosphate + P1,P4-Bis(5'-adenosyl)tetraphosphate",atp[c] + adp[c]  <=> pi[c] + AppppA[c] ,MCON_2026,-20,20
+rn00230 Purine metabolism,"GTP <=> 3',5'-Cyclic GMP + Diphosphate",gtp[c]  <=> ppi[c] + 35cgmp[c] ,MCON_1159,-20,20
+rn00230 Purine metabolism,3'-AMP + H2O <=> Adenosine + Orthophosphate,h2o[c] + 3amp[c]  <=> pi[c] + adn[c] ,MCON_0299,-20,20
+rn00230 Purine metabolism,"Adenylyl sulfate + ATP <=> Sulfate + P1,P4-Bis(5'-adenosyl)tetraphosphate",atp[c] + aps[c]  <=> so4[c] + AppppA[c] ,MCON_2026,-20,20
+rn00230 Purine metabolism,Guanosine 3'-phosphate + H2O <=> Guanosine + Orthophosphate,h2o[c] + 3gmp[c]  <=> pi[c] + gsn[c] ,MCON_0299,-20,20
+rn00230 Purine metabolism,1-(5'-Phosphoribosyl)-5-amino-4-imidazolecarboxamide + Diphosphate <=> 5-Amino-4-imidazolecarboxyamide + 5-Phospho-alpha-D-ribose 1-diphosphate,ppi[c] + aicar[c]  <=> prpp[c] + 5a4icamd[c] ,MCON_2988,-20,20
+rn00230 Purine metabolism,N6-Succino-2-amino-2'-deoxyadenylate <=> dZMP + Fumarate,dsmp[c]  <=> fum[c] + dzmp[c] ,MCON_2669,-20,20
+rn00230 Purine metabolism,dZDP + ATP <=> dZTP + ADP,atp[c] + dzdp[c]  <=> adp[c] + dztp[c] ,MCON_1703,-20,20
+"rn00230 Purine metabolism; rn00250 Alanine, aspartate and glutamate metabolism; rn01232 Nucleotide metabolism; rn01240 Biosynthesis of cofactors","N6-(1,2-Dicarboxyethyl)-AMP <=> Fumarate + AMP",dcamp[c]  <=> amp[c] + fum[c] ,MCON_2669,-20,20
+"rn00230 Purine metabolism; rn00250 Alanine, aspartate and glutamate metabolism; rn01232 Nucleotide metabolism; rn01240 Biosynthesis of cofactors","GTP + IMP + L-Aspartate <=> GDP + Orthophosphate + N6-(1,2-Dicarboxyethyl)-AMP",gtp[c] + asp_L[c] + imp[c]  <=> pi[c] + gdp[c] + dcamp[c] ,MCON_0554,-20,20
+rn00230 Purine metabolism; rn00670 One carbon pool by folate; rn01110 Biosynthesis of secondary metabolites,10-Formyltetrahydrofolate + 5'-Phosphoribosylglycinamide <=> Tetrahydrofolate + 5'-Phosphoribosyl-N-formylglycinamide,10fthf[c] + gar[c]  <=> thf[c] + fgam[c] ,MCON_2025,-20,20
+rn00230 Purine metabolism; rn00670 One carbon pool by folate; rn01110 Biosynthesis of secondary metabolites,10-Formyltetrahydrofolate + 1-(5'-Phosphoribosyl)-5-amino-4-imidazolecarboxamide <=> Tetrahydrofolate + 1-(5'-Phosphoribosyl)-5-formamido-4-imidazolecarboxamide,10fthf[c] + aicar[c]  <=> thf[c] + fprica[c] ,MCON_1368,-20,20
+rn00230 Purine metabolism; rn01110 Biosynthesis of secondary metabolites,IMP + H2O <=> 1-(5'-Phosphoribosyl)-5-formamido-4-imidazolecarboxamide,h2o[c] + imp[c]  <=> fprica[c] ,MCON_1471 | MCON_1368,-20,20
+rn00230 Purine metabolism; rn01110 Biosynthesis of secondary metabolites,ATP + 5-Phosphoribosylamine + Glycine <=> ADP + Orthophosphate + 5'-Phosphoribosylglycinamide,atp[c] + gly[c] + pram[c]  <=> adp[c] + pi[c] + gar[c] ,MCON_1872,-20,20
+rn00230 Purine metabolism; rn01110 Biosynthesis of secondary metabolites,ATP + 2-(Formamido)-N1-(5'-phosphoribosyl)acetamidine <=> ADP + Orthophosphate + Aminoimidazole ribotide,atp[c] + 15pribonfglycdne[c]  <=> adp[c] + pi[c] + air[c] ,MCON_1652,-20,20
+rn00230 Purine metabolism; rn01110 Biosynthesis of secondary metabolites,ATP + 5'-Phosphoribosyl-N-formylglycinamide + L-Glutamine + H2O <=> ADP + Orthophosphate + 2-(Formamido)-N1-(5'-phosphoribosyl)acetamidine + L-Glutamate,h2o[c] + atp[c] + gln_L[c] + fgam[c]  <=> adp[c] + pi[c] + glu_L[c] + 15pribonfglycdne[c] ,MCON_0209 | MCON_0208 | MCON_0207,-20,20
+rn00230 Purine metabolism; rn01110 Biosynthesis of secondary metabolites,1-(5'-Phosphoribosyl)-5-amino-4-(N-succinocarboxamide)-imidazole <=> Fumarate + 1-(5'-Phosphoribosyl)-5-amino-4-imidazolecarboxamide,25aics[c]  <=> fum[c] + aicar[c] ,MCON_2669,-20,20
+rn00230 Purine metabolism; rn01110 Biosynthesis of secondary metabolites,ATP + 1-(5-Phospho-D-ribosyl)-5-amino-4-imidazolecarboxylate + L-Aspartate <=> ADP + Orthophosphate + 1-(5'-Phosphoribosyl)-5-amino-4-(N-succinocarboxamide)-imidazole,atp[c] + asp_L[c] + 5aizc[c]  <=> adp[c] + pi[c] + 25aics[c] ,MCON_1441,-20,20
+rn00230 Purine metabolism; rn01110 Biosynthesis of secondary metabolites,Formate + ATP + 1-(5'-Phosphoribosyl)-5-amino-4-imidazolecarboxamide <=> ADP + Orthophosphate + 1-(5'-Phosphoribosyl)-5-formamido-4-imidazolecarboxamide,atp[c] + for[c] + aicar[c]  <=> adp[c] + pi[c] + fprica[c] ,MCON_1268 | MCON_3207,-20,20
+rn00230 Purine metabolism; rn01110 Biosynthesis of secondary metabolites,5-Carboxyamino-1-(5-phospho-D-ribosyl)imidazole <=> 1-(5-Phospho-D-ribosyl)-5-amino-4-imidazolecarboxylate,5ca1rpi[c]  <=> 5aizc[c] ,MCON_2643,-20,20
+rn00230 Purine metabolism; rn01110 Biosynthesis of secondary metabolites; rn01232 Nucleotide metabolism,ATP + H2O <=> ADP + Orthophosphate,h2o[c] + atp[c]  <=> adp[c] + pi[c] ,MCON_1365 | MCON_2516,-20,20
+rn00230 Purine metabolism; rn01110 Biosynthesis of secondary metabolites; rn01232 Nucleotide metabolism,Xanthosine 5'-phosphate + H2O <=> Xanthosine + Orthophosphate,h2o[c] + xmp[c]  <=> pi[c] + xtsn[c] ,MCON_0299,-20,20
+rn00230 Purine metabolism; rn01232 Nucleotide metabolism,AMP + H2O <=> Adenosine + Orthophosphate,h2o[c] + amp[c]  <=> pi[c] + adn[c] ,MCON_0299,-20,20
+rn00230 Purine metabolism; rn01232 Nucleotide metabolism,AMP + Diphosphate <=> Adenine + 5-Phospho-alpha-D-ribose 1-diphosphate,ppi[c] + amp[c]  <=> prpp[c] + ade[c] ,MCON_2988,-20,20
+rn00230 Purine metabolism; rn01232 Nucleotide metabolism,ATP + GDP <=> ADP + GTP,atp[c] + gdp[c]  <=> adp[c] + gtp[c] ,MCON_1703,-20,20
+rn00230 Purine metabolism; rn01232 Nucleotide metabolism,GTP + H2O <=> GDP + Orthophosphate,h2o[c] + gtp[c]  <=> pi[c] + gdp[c] ,MCON_1716,-20,20
+rn00230 Purine metabolism; rn01232 Nucleotide metabolism,ITP + H2O <=> IMP + Diphosphate,h2o[c] + itp[c]  <=> ppi[c] + imp[c] ,MCON_0926,-20,20
+rn00230 Purine metabolism; rn01232 Nucleotide metabolism,ATP + IDP <=> ADP + ITP,atp[c] + idp[c]  <=> adp[c] + itp[c] ,MCON_1703,-20,20
+rn00230 Purine metabolism; rn01232 Nucleotide metabolism,IMP + H2O <=> Inosine + Orthophosphate,h2o[c] + imp[c]  <=> pi[c] + ins[c] ,MCON_0299,-20,20
+rn00230 Purine metabolism; rn01232 Nucleotide metabolism,ATP + dADP <=> ADP + dATP,atp[c] + dadp[c]  <=> adp[c] + datp[c] ,MCON_1703,-20,20
+rn00230 Purine metabolism; rn01232 Nucleotide metabolism,GMP + H2O <=> Guanosine + Orthophosphate,h2o[c] + gmp[c]  <=> pi[c] + gsn[c] ,MCON_0299,-20,20
+rn00230 Purine metabolism; rn01232 Nucleotide metabolism,ATP + Xanthosine 5'-phosphate + Ammonia <=> AMP + Diphosphate + GMP,atp[c] + nh4[c] + xmp[c]  <=> ppi[c] + amp[c] + gmp[c] ,MCON_0459 | MCON_1034,-20,20
+rn00230 Purine metabolism; rn01232 Nucleotide metabolism,ATP + Xanthosine 5'-phosphate + L-Glutamine + H2O <=> AMP + Diphosphate + GMP + L-Glutamate,h2o[c] + atp[c] + gln_L[c] + xmp[c]  <=> ppi[c] + amp[c] + glu_L[c] + gmp[c] ,MCON_0459 | MCON_1034,-20,20
+rn00230 Purine metabolism; rn01232 Nucleotide metabolism,Adenine + H2O <=> Hypoxanthine + Ammonia,h2o[c] + ade[c]  <=> nh4[c] + hxan[c] ,MCON_1251,-20,20
+rn00230 Purine metabolism; rn01232 Nucleotide metabolism,ATP + dAMP <=> ADP + dADP,atp[c] + damp[c]  <=> adp[c] + dadp[c] ,MCON_1964 | MCON_1615,-20,20
+rn00230 Purine metabolism; rn01232 Nucleotide metabolism,Guanine + H2O <=> Xanthine + Ammonia,h2o[c] + gua[c]  <=> nh4[c] + xan[c] ,MCON_1091,-20,20
+rn00230 Purine metabolism; rn01232 Nucleotide metabolism,dGTP + H2O <=> Deoxyguanosine + Triphosphate,h2o[c] + dgtp[c]  <=> dgsn[c] + pppi[c] ,MCON_1311,-20,20
+rn00230 Purine metabolism; rn01232 Nucleotide metabolism,ATP + dGDP <=> ADP + dGTP,atp[c] + dgdp[c]  <=> adp[c] + dgtp[c] ,MCON_1703,-20,20
+rn00230 Purine metabolism; rn01232 Nucleotide metabolism,dGMP + H2O <=> Deoxyguanosine + Orthophosphate,h2o[c] + dgmp[c]  <=> pi[c] + dgsn[c] ,MCON_0299,-20,20
+rn00230 Purine metabolism; rn01232 Nucleotide metabolism,dAMP + H2O <=> Deoxyadenosine + Orthophosphate,h2o[c] + damp[c]  <=> pi[c] + dad_2[c] ,MCON_0299,-20,20
+rn00230 Purine metabolism; rn01232 Nucleotide metabolism,XTP + H2O <=> Xanthosine 5'-phosphate + Diphosphate,h2o[c] + xtp[c]  <=> ppi[c] + xmp[c] ,MCON_0926,-20,20
+rn00230 Purine metabolism; rn01232 Nucleotide metabolism,ATP + dIDP <=> ADP + dITP,atp[c] + didp[c]  <=> adp[c] + ditp[c] ,MCON_1703,-20,20
+rn00230 Purine metabolism; rn01232 Nucleotide metabolism,dITP + H2O <=> 2'-Deoxyinosine 5'-phosphate + Diphosphate,h2o[c] + ditp[c]  <=> ppi[c] + dimp[c] ,MCON_0926,-20,20
+rn00230 Purine metabolism; rn01232 Nucleotide metabolism,"AMP + Orthophosphate <=> Adenine + D-Ribose 1,5-bisphosphate",pi[c] + amp[c]  <=> ade[c] + r15bp[c] ,MCON_0583,-20,20
+rn00230 Purine metabolism; rn01232 Nucleotide metabolism,GTP + Formate <=> dGTP + CO2 + H2O,gtp[c] + for[c]  <=> h2o[c] + co2[c] + dgtp[c] ,MCON_2095,-20,20
+rn00230 Purine metabolism; rn01232 Nucleotide metabolism,ATP + Formate <=> dATP + CO2 + H2O,atp[c] + for[c]  <=> h2o[c] + co2[c] + datp[c] ,MCON_2095,-20,20
+rn00240 Pyrimidine metabolism,2'-Deoxy-5-hydroxymethylcytidine-5'-diphosphate + ATP <=> 2'-Deoxy-5-hydroxymethylcytidine-5'-triphosphate + ADP,atp[c] + 2do5hmc5dp[c]  <=> adp[c] + 2do5hmc5tp[c] ,MCON_1703,-20,20
+rn00240 Pyrimidine metabolism,5-Methylcytosine + H2O <=> Thymine + Ammonia,h2o[c] + 5mtc[c]  <=> nh4[c] + thym[c] ,MCON_0322,-20,20
+rn00240 Pyrimidine metabolism,3'-UMP + H2O <=> Uridine + Orthophosphate,h2o[c] + 3ump[c]  <=> pi[c] + uri[c] ,MCON_0299,-20,20
+rn00240 Pyrimidine metabolism,3'-CMP + H2O <=> Cytidine + Orthophosphate,h2o[c] + cmp[c]  <=> pi[c] + cytd[c] ,MCON_0299,-20,20
+rn00240 Pyrimidine metabolism; rn01232 Nucleotide metabolism,CMP + H2O <=> Cytidine + Orthophosphate,h2o[c] + cmp[c]  <=> pi[c] + cytd[c] ,MCON_0299,-20,20
+rn00240 Pyrimidine metabolism; rn01232 Nucleotide metabolism,ATP + CMP <=> ADP + CDP,atp[c] + cmp[c]  <=> adp[c] + cdp[c] ,MCON_2678,-20,20
+rn00240 Pyrimidine metabolism; rn01232 Nucleotide metabolism,UMP + H2O <=> Uridine + Orthophosphate,h2o[c] + ump[c]  <=> pi[c] + uri[c] ,MCON_0299,-20,20
+rn00240 Pyrimidine metabolism; rn01232 Nucleotide metabolism,Cytosine + H2O <=> Uracil + Ammonia,h2o[c] + csn[c]  <=> nh4[c] + ura[c] ,MCON_0322,-20,20
+rn00240 Pyrimidine metabolism; rn01232 Nucleotide metabolism,dTMP + H2O <=> Thymidine + Orthophosphate,h2o[c] + dtmp[c]  <=> pi[c] + thymd[c] ,MCON_0299,-20,20
+rn00240 Pyrimidine metabolism; rn01232 Nucleotide metabolism,dCMP + H2O <=> dUMP + Ammonia,h2o[c] + dcmp[c]  <=> nh4[c] + dump[c] ,MCON_1948,-20,20
+rn00240 Pyrimidine metabolism; rn01232 Nucleotide metabolism,dCMP + H2O <=> Deoxycytidine + Orthophosphate,h2o[c] + dcmp[c]  <=> pi[c] + dcyt[c] ,MCON_0299,-20,20
+rn00240 Pyrimidine metabolism; rn01232 Nucleotide metabolism,ATP + dCMP <=> ADP + dCDP,atp[c] + dcmp[c]  <=> adp[c] + dcdp[c] ,MCON_2678,-20,20
+rn00240 Pyrimidine metabolism; rn01232 Nucleotide metabolism,ATP + dTDP <=> ADP + dTTP,atp[c] + dtdp[c]  <=> adp[c] + dttp[c] ,MCON_1703,-20,20
+rn00240 Pyrimidine metabolism; rn01232 Nucleotide metabolism,ATP + dTMP <=> ADP + dTDP,atp[c] + dtmp[c]  <=> adp[c] + dtdp[c] ,MCON_1907,-20,20
+rn00240 Pyrimidine metabolism; rn01232 Nucleotide metabolism,ATP + dUMP <=> ADP + dUDP,atp[c] + dump[c]  <=> adp[c] + dudp[c] ,MCON_1907,-20,20
+rn00240 Pyrimidine metabolism; rn01232 Nucleotide metabolism,dUTP + H2O <=> dUMP + Diphosphate,h2o[c] + dutp[c]  <=> ppi[c] + dump[c] ,MCON_0264,-20,20
+rn00240 Pyrimidine metabolism; rn01232 Nucleotide metabolism,dUMP + H2O <=> Deoxyuridine + Orthophosphate,h2o[c] + dump[c]  <=> pi[c] + duri[c] ,MCON_0299,-20,20
+rn00240 Pyrimidine metabolism; rn01232 Nucleotide metabolism,ATP + dCDP <=> ADP + dCTP,atp[c] + dcdp[c]  <=> adp[c] + dctp[c] ,MCON_1703,-20,20
+rn00240 Pyrimidine metabolism; rn01232 Nucleotide metabolism,ATP + dUDP <=> ADP + dUTP,atp[c] + dudp[c]  <=> adp[c] + dutp[c] ,MCON_1703,-20,20
+rn00240 Pyrimidine metabolism; rn01232 Nucleotide metabolism,"CMP + Orthophosphate <=> Cytosine + D-Ribose 1,5-bisphosphate",pi[c] + cmp[c]  <=> csn[c] + r15bp[c] ,MCON_0583,-20,20
+rn00240 Pyrimidine metabolism; rn01232 Nucleotide metabolism,"UMP + Orthophosphate <=> Uracil + D-Ribose 1,5-bisphosphate",pi[c] + ump[c]  <=> ura[c] + r15bp[c] ,MCON_0583,-20,20
+rn00240 Pyrimidine metabolism; rn01232 Nucleotide metabolism,UTP + Formate <=> dUTP + CO2 + H2O,for[c] + utp[c]  <=> h2o[c] + co2[c] + dutp[c] ,MCON_2095,-20,20
+rn00240 Pyrimidine metabolism; rn01232 Nucleotide metabolism,CTP + Formate <=> dCTP + CO2 + H2O,for[c] + ctp[c]  <=> h2o[c] + co2[c] + dctp[c] ,MCON_2095,-20,20
+rn00240 Pyrimidine metabolism; rn01232 Nucleotide metabolism; rn01240 Biosynthesis of cofactors,ATP + UDP <=> ADP + UTP,atp[c] + udp[c]  <=> adp[c] + utp[c] ,MCON_1703,-20,20
+rn00240 Pyrimidine metabolism; rn01232 Nucleotide metabolism; rn01240 Biosynthesis of cofactors,ATP + UMP <=> ADP + UDP,atp[c] + ump[c]  <=> adp[c] + udp[c] ,MCON_1967,-20,20
+rn00240 Pyrimidine metabolism; rn01232 Nucleotide metabolism; rn01240 Biosynthesis of cofactors,ATP + CDP <=> ADP + CTP,atp[c] + cdp[c]  <=> adp[c] + ctp[c] ,MCON_1703,-20,20
+rn00240 Pyrimidine metabolism; rn01232 Nucleotide metabolism; rn01240 Biosynthesis of cofactors,ATP + UTP + Ammonia <=> ADP + Orthophosphate + CTP,atp[c] + nh4[c] + utp[c]  <=> adp[c] + pi[c] + ctp[c] ,MCON_1542,-20,20
+rn00240 Pyrimidine metabolism; rn01232 Nucleotide metabolism; rn01240 Biosynthesis of cofactors,ATP + UTP + L-Glutamine + H2O <=> ADP + Orthophosphate + CTP + L-Glutamate,h2o[c] + atp[c] + gln_L[c] + utp[c]  <=> adp[c] + pi[c] + glu_L[c] + ctp[c] ,MCON_1542,-20,20
+rn00240 Pyrimidine metabolism; rn01240 Biosynthesis of cofactors,Orotidine 5'-phosphate <=> UMP + CO2,orot5p[c]  <=> co2[c] + ump[c] ,MCON_2465,-20,20
+rn00240 Pyrimidine metabolism; rn01240 Biosynthesis of cofactors,(S)-Dihydroorotate + NAD+ <=> Orotate + H+ + NADH,nad[c] + dhor_S[c]  <=> nadh[c] + h[c] + orot[c] ,MCON_2335,-20,20
+rn00240 Pyrimidine metabolism; rn01240 Biosynthesis of cofactors,Orotidine 5'-phosphate + Diphosphate <=> Orotate + 5-Phospho-alpha-D-ribose 1-diphosphate,ppi[c] + orot5p[c]  <=> prpp[c] + orot[c] ,MCON_1953,-20,20
+rn00240 Pyrimidine metabolism; rn01240 Biosynthesis of cofactors,(S)-Dihydroorotate + H2O <=> N-Carbamoyl-L-aspartate,h2o[c] + dhor_S[c]  <=> cbasp[c] ,MCON_1192,-20,20
+"rn00250 Alanine, aspartate and glutamate metabolism; rn00350 Tyrosine metabolism; rn00650 Butanoate metabolism; rn00760 Nicotinate and nicotinamide metabolism",Succinate semialdehyde + NAD+ + H2O <=> Succinate + NADH + H+,h2o[c] + nad[c] + sucsal[c]  <=> nadh[c] + succ[c] + h[c] ,MCON_2755,-20,20
+"rn00250 Alanine, aspartate and glutamate metabolism; rn00350 Tyrosine metabolism; rn00650 Butanoate metabolism; rn00760 Nicotinate and nicotinamide metabolism",Succinate semialdehyde + NADP+ + H2O <=> Succinate + NADPH + H+,h2o[c] + nadp[c] + sucsal[c]  <=> nadph[c] + succ[c] + h[c] ,MCON_2755 | MCON_2755,-20,20
+"rn00260 Glycine, serine and threonine metabolism","L-2,4-Diaminobutanoate + Acetyl-CoA <=> N(gamma)-Acetyldiaminobutyrate + CoA",accoa[c] + 24dab[c]  <=> coa[c] + ngacdambut[c] ,MCON_1200,-20,20
+"rn00260 Glycine, serine and threonine metabolism",N(gamma)-Acetyldiaminobutyrate <=> H2O + Ectoine,ngacdambut[c]  <=> h2o[c] + ecto_L[c] ,MCON_1198,-20,20
+"rn00260 Glycine, serine and threonine metabolism; rn00270 Cysteine and methionine metabolism; rn00300 Lysine biosynthesis; rn01110 Biosynthesis of secondary metabolites; rn01230 Biosynthesis of amino acids",L-Homoserine + NAD+ <=> L-Aspartate 4-semialdehyde + NADH + H+,nad[c] + hom_L[c]  <=> nadh[c] + h[c] + aspsa[c] ,MCON_0799,-20,20
+"rn00260 Glycine, serine and threonine metabolism; rn00270 Cysteine and methionine metabolism; rn00300 Lysine biosynthesis; rn01110 Biosynthesis of secondary metabolites; rn01230 Biosynthesis of amino acids",L-Homoserine + NADP+ <=> L-Aspartate 4-semialdehyde + NADPH + H+,nadp[c] + hom_L[c]  <=> nadph[c] + h[c] + aspsa[c] ,MCON_0799,-20,20
+rn00261 Monobactam biosynthesis; rn00300 Lysine biosynthesis; rn01110 Biosynthesis of secondary metabolites; rn01230 Biosynthesis of amino acids,"2,3,4,5-Tetrahydrodipicolinate + NAD+ + H2O <=> (2S,4S)-4-Hydroxy-2,3,4,5-tetrahydrodipicolinate + NADH + H+",h2o[c] + nad[c] + thdp[c]  <=> nadh[c] + h[c] + 4hthdp[c] ,MCON_0803,-20,20
+rn00261 Monobactam biosynthesis; rn00300 Lysine biosynthesis; rn01110 Biosynthesis of secondary metabolites; rn01230 Biosynthesis of amino acids,"2,3,4,5-Tetrahydrodipicolinate + NADP+ + H2O <=> (2S,4S)-4-Hydroxy-2,3,4,5-tetrahydrodipicolinate + NADPH + H+",h2o[c] + nadp[c] + thdp[c]  <=> nadph[c] + h[c] + 4hthdp[c] ,MCON_0803,-20,20
+rn00261 Monobactam biosynthesis; rn00300 Lysine biosynthesis; rn01110 Biosynthesis of secondary metabolites; rn01230 Biosynthesis of amino acids,"L-Aspartate 4-semialdehyde + Pyruvate <=> (2S,4S)-4-Hydroxy-2,3,4,5-tetrahydrodipicolinate + H2O",pyr[c] + aspsa[c]  <=> h2o[c] + 4hthdp[c] ,MCON_0804,-20,20
+rn00270 Cysteine and methionine metabolism,S-Adenosyl-L-homocysteine + H2O <=> S-Inosyl-L-homocysteine + Ammonia,h2o[c] + ahcys[c]  <=> nh4[c] +  ,MCON_2923,-20,20
+rn00270 Cysteine and methionine metabolism,L-Cysteine + 2-Oxoglutarate <=> Mercaptopyruvate + L-Glutamate,akg[c] + cys_L[c]  <=> glu_L[c] + mercppyr[c] ,MCON_3113 | MCON_2775 | MCON_2296,-20,20
+rn00270 Cysteine and methionine metabolism,L-Cysteine + 2-Oxoglutarate <=> Mercaptopyruvate + Glutamate,akg[c] + cys_L[c]  <=> glu[c] + mercppyr[c] ,MCON_3113 | MCON_2775 | MCON_2296,-20,20
+rn00270 Cysteine and methionine metabolism,L-Cysteine + Glutathione + NADP+ <=> S-Glutathionyl-L-cysteine + NADPH,nadp[c] + gthox[c] + cys_L[c]  <=> nadph[c] + sgluttnylcys_l[c] ,MCON_1435,-20,20
+rn00270 Cysteine and methionine metabolism,L-Cysteate + 2-Oxoglutarate <=> 3-Sulfopyruvate + L-Glutamate,akg[c] + Lcyst[c]  <=> glu_L[c] + 3spyr[c] ,MCON_3113 | MCON_2775 | MCON_2296,-20,20
+rn00270 Cysteine and methionine metabolism,3-Sulfino-L-alanine + 2-Oxoglutarate <=> 3-Sulfinylpyruvate + L-Glutamate,akg[c] + 3sala[c]  <=> glu_L[c] + 3snpyr[c] ,MCON_3113 | MCON_2775 | MCON_2296,-20,20
+rn00270 Cysteine and methionine metabolism,S-Methyl-5-thio-D-ribose 1-phosphate <=> S-Methyl-5-thio-D-ribulose 1-phosphate,5mdru1p[c]  <=> 5mdru1p[c] ,MCON_3474,-20,20
+rn00270 Cysteine and methionine metabolism,5'-Methylthioadenosine + H2O <=> 5'-S-Methyl-5'-thioinosine + Ammonia,h2o[c] + 5mta[c]  <=> nh4[c] + 5sm5tins[c] ,MCON_2923,-20,20
+rn00270 Cysteine and methionine metabolism,5'-S-Methyl-5'-thioinosine + Orthophosphate <=> Hypoxanthine + S-Methyl-5-thio-D-ribose 1-phosphate,pi[c] + 5sm5tins[c]  <=> hxan[c] + 5mdru1p[c] ,MCON_3473,-20,20
+"rn00280 Valine, leucine and isoleucine degradation; rn00290 Valine, leucine and isoleucine biosynthesis; rn00966 Glucosinolate biosynthesis; rn01110 Biosynthesis of secondary metabolites; rn01210 2-Oxocarboxylic acid metabolism; rn01230 Biosynthesis of amino acids",L-Leucine + 2-Oxoglutarate <=> 4-Methyl-2-oxopentanoate + L-Glutamate,akg[c] + leu_L[c]  <=> glu_L[c] + 4mop[c] ,MCON_2293,-20,20
+"rn00280 Valine, leucine and isoleucine degradation; rn00290 Valine, leucine and isoleucine biosynthesis; rn00966 Glucosinolate biosynthesis; rn01110 Biosynthesis of secondary metabolites; rn01210 2-Oxocarboxylic acid metabolism; rn01230 Biosynthesis of amino acids",L-Isoleucine + 2-Oxoglutarate <=> (S)-3-Methyl-2-oxopentanoic acid + L-Glutamate,akg[c] + ile_L[c]  <=> glu_L[c] + 3mop[c] ,MCON_2293,-20,20
+"rn00290 Valine, leucine and isoleucine biosynthesis; rn00660 C5-Branched dibasic acid metabolism; rn01210 2-Oxocarboxylic acid metabolism; rn01230 Biosynthesis of amino acids",(R)-2-Methylmalate <=> 2-Methylmaleate + H2O,2mmal[e]  <=> h2o[c] + 2mmale[c] ,MCON_1320 | MCON_1271,-20,20
+"rn00290 Valine, leucine and isoleucine biosynthesis; rn00660 C5-Branched dibasic acid metabolism; rn01210 2-Oxocarboxylic acid metabolism; rn01230 Biosynthesis of amino acids",2-Methylmaleate + H2O <=> D-erythro-3-Methylmalate,h2o[c] + 2mmale[c]  <=> e3mmal[c] ,MCON_1320 | MCON_1271,-20,20
+"rn00290 Valine, leucine and isoleucine biosynthesis; rn00660 C5-Branched dibasic acid metabolism; rn01210 2-Oxocarboxylic acid metabolism; rn01230 Biosynthesis of amino acids",Acetyl-CoA + Pyruvate + H2O <=> (R)-2-Methylmalate + CoA,h2o[c] + pyr[c] + accoa[c]  <=> coa[c] + 2mmal[e] ,MCON_0409,-20,20
+"rn00290 Valine, leucine and isoleucine biosynthesis; rn01110 Biosynthesis of secondary metabolites; rn01210 2-Oxocarboxylic acid metabolism",alpha-Isopropylmalate <=> 2-Isopropylmaleate + H2O,3c3hmp[c]  <=> h2o[c] + 2ippm[c] ,MCON_1320 | MCON_1271,-20,20
+"rn00290 Valine, leucine and isoleucine biosynthesis; rn01110 Biosynthesis of secondary metabolites; rn01210 2-Oxocarboxylic acid metabolism","(2R,3S)-3-Isopropylmalate <=> 2-Isopropylmaleate + H2O",3c2hmp[c]  <=> h2o[c] + 2ippm[c] ,MCON_1320 | MCON_1271,-20,20
+"rn00290 Valine, leucine and isoleucine biosynthesis; rn01110 Biosynthesis of secondary metabolites; rn01210 2-Oxocarboxylic acid metabolism; rn01230 Biosynthesis of amino acids","(R)-2,3-Dihydroxy-3-methylbutanoate + NADP+ <=> 3-Hydroxy-3-methyl-2-oxobutanoic acid + NADPH + H+",nadp[c] + 23dhmb[c]  <=> nadph[c] + h[c] + 2h3moa[c] ,MCON_0412,-20,20
+"rn00290 Valine, leucine and isoleucine biosynthesis; rn01110 Biosynthesis of secondary metabolites; rn01210 2-Oxocarboxylic acid metabolism; rn01230 Biosynthesis of amino acids","(R)-2,3-Dihydroxy-3-methylpentanoate + NADP+ <=> (R)-3-Hydroxy-3-methyl-2-oxopentanoate + NADPH + H+",nadp[c] + 23dhmp[c]  <=> nadph[c] + h[c] + 3h3mop[c] ,MCON_0412,-20,20
+"rn00290 Valine, leucine and isoleucine biosynthesis; rn01110 Biosynthesis of secondary metabolites; rn01210 2-Oxocarboxylic acid metabolism; rn01230 Biosynthesis of amino acids",(S)-2-Aceto-2-hydroxybutanoate <=> (R)-3-Hydroxy-3-methyl-2-oxopentanoate,2ahbut[c]  <=> 3h3mop[c] ,MCON_0412,-20,20
+"rn00290 Valine, leucine and isoleucine biosynthesis; rn01110 Biosynthesis of secondary metabolites; rn01210 2-Oxocarboxylic acid metabolism; rn01230 Biosynthesis of amino acids","(R)-2,3-Dihydroxy-3-methylpentanoate <=> (S)-3-Methyl-2-oxopentanoic acid + H2O",23dhmp[c]  <=> h2o[c] + 3mop[c] ,MCON_1149,-20,20
+"rn00290 Valine, leucine and isoleucine biosynthesis; rn01110 Biosynthesis of secondary metabolites; rn01210 2-Oxocarboxylic acid metabolism; rn01230 Biosynthesis of amino acids",(S)-2-Acetolactate <=> 3-Hydroxy-3-methyl-2-oxobutanoic acid,alac_S[c]  <=> 2h3moa[c] ,MCON_0412,-20,20
+"rn00290 Valine, leucine and isoleucine biosynthesis; rn01110 Biosynthesis of secondary metabolites; rn01210 2-Oxocarboxylic acid metabolism; rn01230 Biosynthesis of amino acids",Pyruvate + 2-Oxobutanoate <=> (S)-2-Aceto-2-hydroxybutanoate + CO2,pyr[c] + 2obut[c]  <=> co2[c] + 2ahbut[c] ,MCON_0410 | MCON_0411,-20,20
+rn00300 Lysine biosynthesis; rn00470 D-Amino acid metabolism; rn01110 Biosynthesis of secondary metabolites; rn01230 Biosynthesis of amino acids,"meso-2,6-Diaminoheptanedioate <=> L-Lysine + CO2",26dap_M[c]  <=> co2[c] + lys_L[c] ,MCON_1770,-20,20
+rn00300 Lysine biosynthesis; rn00470 D-Amino acid metabolism; rn01110 Biosynthesis of secondary metabolites; rn01230 Biosynthesis of amino acids,"LL-2,6-Diaminoheptanedioate <=> meso-2,6-Diaminoheptanedioate",26dap_LL[c]  <=> 26dap_M[c] ,MCON_0430,-20,20
+rn00300 Lysine biosynthesis; rn01110 Biosynthesis of secondary metabolites; rn01210 2-Oxocarboxylic acid metabolism; rn01230 Biosynthesis of amino acids,"(R)-2-Hydroxybutane-1,2,4-tricarboxylate <=> (Z)-But-1-ene-1,2,4-tricarboxylate + H2O",hcit[c]  <=> h2o[c] + chomo[c] ,MCON_0444 | MCON_1922,-20,20
+rn00300 Lysine biosynthesis; rn01110 Biosynthesis of secondary metabolites; rn01210 2-Oxocarboxylic acid metabolism; rn01230 Biosynthesis of amino acids,"Homoisocitrate <=> (Z)-But-1-ene-1,2,4-tricarboxylate + H2O",hicit[c]  <=> h2o[c] + chomo[c] ,MCON_0444 | MCON_1922,-20,20
+rn00300 Lysine biosynthesis; rn01230 Biosynthesis of amino acids,"N-Succinyl-LL-2,6-diaminoheptanedioate + H2O <=> Succinate + LL-2,6-Diaminoheptanedioate",h2o[c] + sl26da[c]  <=> succ[c] + 26dap_LL[c] ,MCON_2723,-20,20
+rn00300 Lysine biosynthesis; rn01230 Biosynthesis of amino acids,"N-Succinyl-LL-2,6-diaminoheptanedioate + 2-Oxoglutarate <=> N-Succinyl-2-L-amino-6-oxoheptanedioate + L-Glutamate",akg[c] + sl26da[c]  <=> glu_L[c] + sl2a6o[c] ,MCON_1613,-20,20
+rn00310 Lysine degradation,"L-Lysine <=> (3S)-3,6-Diaminohexanoate",lys_L[c]  <=> 36dahx[c] ,MCON_3114,-20,20
+rn00310 Lysine degradation,5-Oxopentanoate + NAD+ + H2O <=> Glutarate + NADH + H+,h2o[c] + nad[c] + oxptn[c]  <=> nadh[c] + h[c] + glutar[c] ,MCON_2755,-20,20
+rn00330 Arginine and proline metabolism,Creatinine + H2O <=> Creatine,h2o[c] + crtn[c]  <=> creat[c] ,MCON_1443,-20,20
+rn00330 Arginine and proline metabolism,Creatinine + H2O <=> N-Methylhydantoin + Ammonia,h2o[c] + crtn[c]  <=> nh4[c] + mthd[c] ,MCON_0322,-20,20
+rn00330 Arginine and proline metabolism,L-erythro-4-Hydroxyglutamate + 2-Oxoglutarate <=> (4R)-4-Hydroxy-2-oxoglutarate + L-Glutamate,akg[c] + e4hglu[c]  <=> glu_L[c] + 4h2oxg[c] ,MCON_3113 | MCON_2775 | MCON_2296,-20,20
+rn00330 Arginine and proline metabolism; rn01110 Biosynthesis of secondary metabolites,L-Arginine <=> Agmatine + CO2,arg_L[c]  <=> co2[c] + agm[c] ,MCON_3166,-20,20
+rn00330 Arginine and proline metabolism; rn01110 Biosynthesis of secondary metabolites,Agmatine + H2O <=> N-Carbamoylputrescine + Ammonia,h2o[c] + agm[c]  <=> nh4[c] + ncptrc[c] ,MCON_3455,-20,20
+rn00340 Histidine metabolism; rn01110 Biosynthesis of secondary metabolites,L-Histidinal + H2O + NAD+ <=> L-Histidine + NADH + H+,h2o[c] + nad[c] + histl_L[c]  <=> nadh[c] + h[c] + his_L[c] ,MCON_0797,-20,20
+rn00340 Histidine metabolism; rn01110 Biosynthesis of secondary metabolites,L-Histidinol + NAD+ <=> L-Histidinal + NADH + H+,nad[c] + histd[c]  <=> nadh[c] + h[c] + histl_L[c] ,MCON_0797,-20,20
+rn00340 Histidine metabolism; rn01110 Biosynthesis of secondary metabolites; rn01230 Biosynthesis of amino acids,1-(5-Phospho-D-ribosyl)-ATP + Diphosphate <=> ATP + 5-Phospho-alpha-D-ribose 1-diphosphate,ppi[c] + prbatp[c]  <=> atp[c] + prpp[c] ,MCON_1881,-20,20
+rn00340 Histidine metabolism; rn01110 Biosynthesis of secondary metabolites; rn01230 Biosynthesis of amino acids,L-Histidinol phosphate + 2-Oxoglutarate <=> 3-(Imidazol-4-yl)-2-oxopropyl phosphate + L-Glutamate,akg[c] + hisp[c]  <=> glu_L[c] + imacp[c] ,MCON_1614,-20,20
+rn00340 Histidine metabolism; rn01110 Biosynthesis of secondary metabolites; rn01230 Biosynthesis of amino acids,D-erythro-1-(Imidazol-4-yl)glycerol 3-phosphate <=> 3-(Imidazol-4-yl)-2-oxopropyl phosphate + H2O,eig3p[c]  <=> h2o[c] + imacp[c] ,MCON_0300 | MCON_0505,-20,20
+rn00340 Histidine metabolism; rn01110 Biosynthesis of secondary metabolites; rn01230 Biosynthesis of amino acids,Phosphoribosyl-AMP + H2O <=> 5-(5-Phospho-D-ribosylaminoformimino)-1-(5-phosphoribosyl)-imidazole-4-carboxamide,h2o[c] + prbamp[c]  <=> 55pdriboamform15priboimidaz4carbamd[c] ,MCON_1969,-20,20
+rn00340 Histidine metabolism; rn01110 Biosynthesis of secondary metabolites; rn01230 Biosynthesis of amino acids,N-(5'-Phospho-D-1'-ribulosylformimino)-5-amino-1-(5''-phospho-D-ribosyl)-4-imidazolecarboxamide + L-Glutamine <=> D-erythro-1-(Imidazol-4-yl)glycerol 3-phosphate + 1-(5'-Phosphoribosyl)-5-amino-4-imidazolecarboxamide + L-Glutamate,gln_L[c] + n5pd1ribu5am15pdribo4imidazcarbamd[c]  <=> glu_L[c] + eig3p[c] + aicar[c] ,MCON_0619 | MCON_3300 | MCON_3301,-20,20
+rn00340 Histidine metabolism; rn01110 Biosynthesis of secondary metabolites; rn01230 Biosynthesis of amino acids,5-(5-Phospho-D-ribosylaminoformimino)-1-(5-phosphoribosyl)-imidazole-4-carboxamide <=> N-(5'-Phospho-D-1'-ribulosylformimino)-5-amino-1-(5''-phospho-D-ribosyl)-4-imidazolecarboxamide,55pdriboamform15priboimidaz4carbamd[c]  <=> n5pd1ribu5am15pdribo4imidazcarbamd[c] ,MCON_0301 | MCON_2256,-20,20
+rn00360 Phenylalanine metabolism,L-Phenylalanine <=> Phenethylamine + CO2,phe_L[c]  <=> co2[c] + peamn[c] ,MCON_0966,-20,20
+rn00360 Phenylalanine metabolism,ATP + Phenylacetic acid + CoA <=> AMP + Diphosphate + Phenylacetyl-CoA,atp[c] + coa[c] + pac[c]  <=> ppi[c] + amp[c] + phaccoa[c] ,MCON_0819 | MCON_2332,-20,20
+rn00380 Tryptophan metabolism,Formylanthranilate + H2O <=> Formate + Anthranilate,h2o[c] + nformanth[c]  <=> for[c] + anth[c] ,MCON_1407,-20,20
+rn00380 Tryptophan metabolism,2 3-Hydroxyanthranilate + 4 Oxygen <=> Cinnavalininate + 2 Superoxide + 2 Hydrogen peroxide + 2 H+,4 o2[c] + 2 3hanthrn[c]  <=> 2 h2o2[c] + 2 h[c] + 2 o2s[c] + M01572[c] ,MCON_0161,-20,20
+rn00380 Tryptophan metabolism,5-Hydroxy-L-tryptophan <=> Serotonin + CO2,5htrp[c]  <=> co2[c] + srtn[c] ,MCON_0966,-20,20
+rn00380 Tryptophan metabolism,5-Hydroxykynurenamine + CO2 <=> 5-Hydroxykynurenine,co2[c] + 5hxkynam[c]  <=> 5hxkyn[c] ,MCON_0966,-20,20
+rn00380 Tryptophan metabolism,5-Hydroxy-N-formylkynurenine + H2O <=> 5-Hydroxykynurenine + Formate,h2o[c] + 5hoxnfkyn[c]  <=> for[c] + 5hxkyn[c] ,MCON_1407,-20,20
+"rn00400 Phenylalanine, tyrosine and tryptophan biosynthesis; rn01110 Biosynthesis of secondary metabolites",L-Serine + Indole <=> L-Tryptophan + H2O,ser_L[c] + indole[c]  <=> h2o[c] + trp_L[c] ,MCON_2511 | MCON_1800 | MCON_1801,-20,20
+"rn00400 Phenylalanine, tyrosine and tryptophan biosynthesis; rn01110 Biosynthesis of secondary metabolites","L-Aspartate 4-semialdehyde + 6-Deoxy-5-ketofructose 1-phosphate <=> 2-Amino-3,7-dideoxy-D-threo-hept-6-ulosonic acid + Hydroxypyruvaldehyde phosphate",aspsa[c] + dkfp[c]  <=> hpyrualdhp[c] + adth[c] ,MCON_1478 | MCON_3321,-20,20
+"rn00400 Phenylalanine, tyrosine and tryptophan biosynthesis; rn01110 Biosynthesis of secondary metabolites","2-Amino-3,7-dideoxy-D-threo-hept-6-ulosonic acid + H2O + NAD+ <=> 3-Dehydroquinate + Ammonia + NADH + H+",h2o[c] + nad[c] + adth[c]  <=> nadh[c] + nh4[c] + h[c] + 3dhq[c] ,MCON_1239,-20,20
+"rn00400 Phenylalanine, tyrosine and tryptophan biosynthesis; rn01110 Biosynthesis of secondary metabolites; rn01230 Biosynthesis of amino acids",L-Arogenate <=> L-Phenylalanine + H2O + CO2,Largn[c]  <=> h2o[c] + co2[c] + phe_L[c] ,MCON_2639,-20,20
+"rn00400 Phenylalanine, tyrosine and tryptophan biosynthesis; rn01110 Biosynthesis of secondary metabolites; rn01230 Biosynthesis of amino acids",Chorismate + Ammonia <=> Anthranilate + Pyruvate + H2O,nh4[c] + chor[c]  <=> h2o[c] + pyr[c] + anth[c] ,MCON_1299 | MCON_1300,-20,20
+"rn00400 Phenylalanine, tyrosine and tryptophan biosynthesis; rn01110 Biosynthesis of secondary metabolites; rn01230 Biosynthesis of amino acids",N-(5-Phospho-D-ribosyl)anthranilate + Diphosphate <=> Anthranilate + 5-Phospho-alpha-D-ribose 1-diphosphate,ppi[c] + pran[c]  <=> anth[c] + prpp[c] ,MCON_0565 | MCON_1297,-20,20
+"rn00400 Phenylalanine, tyrosine and tryptophan biosynthesis; rn01110 Biosynthesis of secondary metabolites; rn01230 Biosynthesis of amino acids",Prephenate <=> Phenylpyruvate + H2O + CO2,pphn[c]  <=> h2o[c] + co2[c] + phpyr[c] ,MCON_2639,-20,20
+"rn00400 Phenylalanine, tyrosine and tryptophan biosynthesis; rn01110 Biosynthesis of secondary metabolites; rn01230 Biosynthesis of amino acids",5-O-(1-Carboxyvinyl)-3-phosphoshikimate <=> Chorismate + Orthophosphate,3psme[c]  <=> pi[c] + chor[c] ,MCON_1507,-20,20
+"rn00400 Phenylalanine, tyrosine and tryptophan biosynthesis; rn01110 Biosynthesis of secondary metabolites; rn01230 Biosynthesis of amino acids",Chorismate <=> Prephenate,chor[c]  <=> pphn[c] ,MCON_2644,-20,20
+"rn00400 Phenylalanine, tyrosine and tryptophan biosynthesis; rn01110 Biosynthesis of secondary metabolites; rn01230 Biosynthesis of amino acids",ATP + Shikimate <=> ADP + Shikimate 3-phosphate,atp[c] + skm[c]  <=> adp[c] + skm5p[c] ,MCON_0363 | MCON_2645,-20,20
+"rn00400 Phenylalanine, tyrosine and tryptophan biosynthesis; rn01110 Biosynthesis of secondary metabolites; rn01230 Biosynthesis of amino acids",Shikimate + NADP+ <=> 3-Dehydroshikimate + NADPH + H+,nadp[c] + skm[c]  <=> nadph[c] + h[c] + 3dhsk[c] ,MCON_3308,-20,20
+"rn00400 Phenylalanine, tyrosine and tryptophan biosynthesis; rn01110 Biosynthesis of secondary metabolites; rn01230 Biosynthesis of amino acids",3-Dehydroquinate <=> 3-Dehydroshikimate + H2O,3dhq[c]  <=> h2o[c] + 3dhsk[c] ,MCON_1240,-20,20
+"rn00400 Phenylalanine, tyrosine and tryptophan biosynthesis; rn01110 Biosynthesis of secondary metabolites; rn01230 Biosynthesis of amino acids",Phosphoenolpyruvate + Shikimate 3-phosphate <=> Orthophosphate + 5-O-(1-Carboxyvinyl)-3-phosphoshikimate,pep[c] + skm5p[c]  <=> pi[c] + 3psme[c] ,MCON_0229,-20,20
+"rn00400 Phenylalanine, tyrosine and tryptophan biosynthesis; rn01110 Biosynthesis of secondary metabolites; rn01230 Biosynthesis of amino acids",1-(2-Carboxyphenylamino)-1-deoxy-D-ribulose 5-phosphate <=> Indoleglycerol phosphate + CO2 + H2O,2cpr5p[c]  <=> h2o[c] + co2[c] + 3ig3p[c] ,MCON_1301,-20,20
+"rn00400 Phenylalanine, tyrosine and tryptophan biosynthesis; rn01110 Biosynthesis of secondary metabolites; rn01230 Biosynthesis of amino acids",N-(5-Phospho-D-ribosyl)anthranilate <=> 1-(2-Carboxyphenylamino)-1-deoxy-D-ribulose 5-phosphate,pran[c]  <=> 2cpr5p[c] ,MCON_1298,-20,20
+rn00450 Selenocompound metabolism,Hydrogen selenide + 3 NADP+ + 3 H2O <=> Selenite + 3 NADPH + 5 H+,3 h2o[c] + 3 nadp[c] + seln[c]  <=> 3 nadph[c] + 5 h[c] + selni[c] ,MCON_1435,-20,20
+rn00450 Selenocompound metabolism,Selenohomocysteine + 5-Methyltetrahydropteroyltri-L-glutamate <=> L-Selenomethionine + Tetrahydropteroyltri-L-glutamate,mhpglu[c] + selhcys[c]  <=> hpglu[c] + selmeth[c] ,MCON_0168,-20,20
+rn00450 Selenocompound metabolism,2 NADPH + 2 H+ + Methylselenic acid <=> 2 NADP+ + 2 H2O + Methaneselenol,2 nadph[c] + 2 h[c] + msele[c]  <=> 2 h2o[c] + 2 nadp[c] + M02469[c] ,MCON_1435,-20,20
+rn00520 Amino sugar and nucleotide sugar metabolism; rn00541 O-Antigen nucleotide sugar biosynthesis; rn01250 Biosynthesis of nucleotide sugars,UTP + N-Acetyl-alpha-D-glucosamine 1-phosphate <=> Diphosphate + UDP-N-acetyl-alpha-D-glucosamine,utp[c] + acgam1p[c]  <=> ppi[c] + uacgam[c] ,MCON_2572,-20,20
+rn00520 Amino sugar and nucleotide sugar metabolism; rn00541 O-Antigen nucleotide sugar biosynthesis; rn01250 Biosynthesis of nucleotide sugars,UDP-N-acetyl-alpha-D-glucosamine <=> UDP-N-acetyl-D-galactosamine,uacgam[c]  <=> udpacgal[c] ,MCON_1457 | MCON_1862 | MCON_3230 | MCON_1223,-20,20
+rn00520 Amino sugar and nucleotide sugar metabolism; rn00541 O-Antigen nucleotide sugar biosynthesis; rn01250 Biosynthesis of nucleotide sugars,"UDP-2,3-diacetamido-2,3-dideoxy-alpha-D-glucuronate <=> UDP-2,3-diacetamido-2,3-dideoxy-alpha-D-mannuronate",udpadglcn3naca[c]  <=> udpadmann3naca[c] ,MCON_2577,-20,20
+rn00520 Amino sugar and nucleotide sugar metabolism; rn00541 O-Antigen nucleotide sugar biosynthesis; rn01250 Biosynthesis of nucleotide sugars,"Acetyl-CoA + UDP-2-acetamido-3-amino-2,3-dideoxy-alpha-D-glucuronate <=> CoA + UDP-2,3-diacetamido-2,3-dideoxy-alpha-D-glucuronate",accoa[c] + udp2acet3am23ddaglcu[c]  <=> coa[c] + udpadglcn3naca[c] ,MCON_2575,-20,20
+rn00520 Amino sugar and nucleotide sugar metabolism; rn01250 Biosynthesis of nucleotide sugars,Acetyl-CoA + alpha-D-Glucosamine 1-phosphate <=> CoA + N-Acetyl-alpha-D-glucosamine 1-phosphate,accoa[c] + acgam1p[c]  <=> coa[c] + acgam1p[c] ,MCON_2572,-20,20
+rn00520 Amino sugar and nucleotide sugar metabolism; rn01250 Biosynthesis of nucleotide sugars,UTP + N-Acetyl-alpha-D-galactosamine 1-phosphate <=> Diphosphate + UDP-N-acetyl-D-galactosamine,utp[c] + acgal1p[c]  <=> ppi[c] + udpacgal[c] ,MCON_2572,-20,20
+rn00520 Amino sugar and nucleotide sugar metabolism; rn01250 Biosynthesis of nucleotide sugars,Acetyl-CoA + alpha-D-Galactosamine 1-phosphate <=> CoA + N-Acetyl-alpha-D-galactosamine 1-phosphate,accoa[c] + agala1p[c]  <=> coa[c] + acgal1p[c] ,MCON_2572,-20,20
+rn00521 Streptomycin biosynthesis; rn00523 Polyketide sugar unit biosynthesis; rn00541 O-Antigen nucleotide sugar biosynthesis; rn01110 Biosynthesis of secondary metabolites; rn01250 Biosynthesis of nucleotide sugars,dTDP-L-rhamnose + NADP+ <=> dTDP-4-dehydro-beta-L-rhamnose + NADPH + H+,nadp[c] + dtdprmn[c]  <=> nadph[c] + h[c] + dtdprham[c] ,MCON_2591,-20,20
+rn00521 Streptomycin biosynthesis; rn00523 Polyketide sugar unit biosynthesis; rn00541 O-Antigen nucleotide sugar biosynthesis; rn01110 Biosynthesis of secondary metabolites; rn01250 Biosynthesis of nucleotide sugars,dTDP-4-oxo-6-deoxy-D-glucose <=> dTDP-4-dehydro-beta-L-rhamnose,dtdp4d6dg[c]  <=> dtdprham[c] ,MCON_0485 | MCON_2590,-20,20
+rn00521 Streptomycin biosynthesis; rn00562 Inositol phosphate metabolism; rn01110 Biosynthesis of secondary metabolites,1D-myo-Inositol 3-phosphate + H2O <=> myo-Inositol + Orthophosphate,h2o[c] + mi3p_D[c]  <=> pi[c] + inost[c] ,MCON_2071,-20,20
+rn00521 Streptomycin biosynthesis; rn00562 Inositol phosphate metabolism; rn01110 Biosynthesis of secondary metabolites,D-Glucose 6-phosphate <=> 1D-myo-Inositol 3-phosphate,g6p[c]  <=> mi3p_D[c] ,MCON_0025,-20,20
+rn00562 Inositol phosphate metabolism,Inositol 1-phosphate + H2O <=> myo-Inositol + Orthophosphate,h2o[c] + mi1p_D  <=> pi[c] + inost[c] ,MCON_2071,-20,20
+rn00562 Inositol phosphate metabolism,myo-Inositol 4-phosphate + H2O <=> myo-Inositol + Orthophosphate,h2o[c] + mi4p_D[c]  <=> pi[c] + inost[c] ,MCON_2071,-20,20
+rn00564 Glycerophospholipid metabolism,sn-Glycero-3-phosphocholine + H2O <=> Choline + sn-Glycerol 3-phosphate,h2o[c] + g3pc[c]  <=> glyc3p[c] + chol[c] ,MCON_0572,-20,20
+rn00564 Glycerophospholipid metabolism,sn-Glycero-3-phosphoethanolamine + H2O <=> Ethanolamine + sn-Glycerol 3-phosphate,h2o[c] + g3pe[c]  <=> glyc3p[c] + etha[c] ,MCON_0572,-20,20
+rn00564 Glycerophospholipid metabolism; rn01110 Biosynthesis of secondary metabolites,Geranylgeranyl diphosphate + sn-Glycerol 1-phosphate <=> Diphosphate + 3-(O-Geranylgeranyl)-sn-glycerol 1-phosphate,grdp[c] + lglyc1p[c]  <=> ppi[c] + 3ogerasnglyc1p[c] ,MCON_1916,-20,20
+rn00564 Glycerophospholipid metabolism; rn01110 Biosynthesis of secondary metabolites,"Geranylgeranyl diphosphate + 3-(O-Geranylgeranyl)-sn-glycerol 1-phosphate <=> Diphosphate + 2,3-Bis-(O-geranylgeranyl)-sn-glycerol 1-phosphate",grdp[c] + 3ogerasnglyc1p[c]  <=> ppi[c] + 23dgerasnglyc1p[c] ,MCON_0147,-20,20
+rn00564 Glycerophospholipid metabolism; rn01110 Biosynthesis of secondary metabolites,sn-Glycerol 1-phosphate + NAD+ <=> Glycerone phosphate + NADH + H+,nad[c] + lglyc1p[c]  <=> nadh[c] + h[c] + dhap[c] ,MCON_1056,-20,20
+rn00564 Glycerophospholipid metabolism; rn01110 Biosynthesis of secondary metabolites,sn-Glycerol 1-phosphate + NADP+ <=> Glycerone phosphate + NADPH + H+,nadp[c] + lglyc1p[c]  <=> nadph[c] + h[c] + dhap[c] ,MCON_1056,-20,20
+rn00564 Glycerophospholipid metabolism; rn01110 Biosynthesis of secondary metabolites,"CTP + 2,3-Bis-(O-geranylgeranyl)-sn-glycerol 1-phosphate <=> Diphosphate + CDP-2,3-bis-(O-geranylgeranyl)-sn-glycerol",ctp[c] + 23dgerasnglyc1p[c]  <=> ppi[c] + cdgggp[c] ,MCON_1076,-20,20
+rn00564 Glycerophospholipid metabolism; rn01110 Biosynthesis of secondary metabolites,"CDP-2,3-bis-(O-geranylgeranyl)-sn-glycerol + L-Serine <=> CMP + 2,3-Bis-(O-geranylgeranyl)-sn-glycero-1-phospho-L-serine",ser_L[c] + cdgggp[c]  <=> cmp[c] + 23bisogerasnglyc1pser_l[c] ,MCON_0461,-20,20
+rn00564 Glycerophospholipid metabolism; rn01110 Biosynthesis of secondary metabolites,"2,3-Bis-(O-phytanyl)-sn-glycerol 1-phosphate + 8 NAD+ <=> 2,3-Bis-(O-geranylgeranyl)-sn-glycerol 1-phosphate + 8 NADH + 8 H+",8 nad[c] + 23bisophytsnglyc1p[c]  <=> 8 nadh[c] + 8 h[c] + 23dgerasnglyc1p[c] ,MCON_3296 | MCON_1147 | MCON_3250,-20,20
+rn00564 Glycerophospholipid metabolism; rn01110 Biosynthesis of secondary metabolites,"2,3-Bis-(O-phytanyl)-sn-glycerol 1-phosphate + 8 NADP+ <=> 2,3-Bis-(O-geranylgeranyl)-sn-glycerol 1-phosphate + 8 NADPH + 8 H+",8 nadp[c] + 23bisophytsnglyc1p[c]  <=> 8 nadph[c] + 8 h[c] + 23dgerasnglyc1p[c] ,MCON_3296 | MCON_1147 | MCON_3250,-20,20
+rn00620 Pyruvate metabolism,Oxaloacetate <=> Pyruvate + CO2,oaa[c]  <=> co2[c] + pyr[c] ,MCON_1918,-20,20
+rn00620 Pyruvate metabolism,Acetyl adenylate + CoA <=> AMP + Acetyl-CoA,coa[c] + HC01672[c]  <=> amp[c] + accoa[c] ,MCON_0780 | MCON_0556 | MCON_0558 | MCON_0559 | MCON_0561 | MCON_2868,-20,20
+rn00620 Pyruvate metabolism,ATP + Acetate <=> Diphosphate + Acetyl adenylate,atp[c] + ac[c]  <=> ppi[c] + HC01672[c] ,MCON_0780 | MCON_0556 | MCON_0558 | MCON_0559 | MCON_0561 | MCON_2868,-20,20
+rn00620 Pyruvate metabolism,Acetyl phosphate + H2O <=> Acetate + Orthophosphate,h2o[c] + actp[c]  <=> pi[c] + ac[c] ,MCON_0840 | MCON_3294,-20,20
+rn00620 Pyruvate metabolism,(S)-Lactate <=> (R)-Lactate,lac_L[c]  <=> lac_D[c] ,MCON_0092,-20,20
+rn00620 Pyruvate metabolism,(R)-S-Lactoylglutathione + H2O <=> Glutathione + (R)-Lactate,h2o[c] + lgt_S[c]  <=> gthox[c] + lac_D[c] ,MCON_1612 | MCON_0109 | MCON_3079,-20,20
+rn00627 Aminobenzoate degradation,Benzoyl phosphate + H2O <=> Benzoate + Orthophosphate,h2o[c] + bzp[c]  <=> pi[c] + bz[c] ,MCON_0840 | MCON_3294,-20,20
+rn00627 Aminobenzoate degradation,4-Nitrophenyl phosphate + H2O <=> 4-Nitrophenol + Orthophosphate,h2o[c] + HC01104[c]  <=> pi[c] + 4nph[c] ,MCON_2339,-20,20
+rn00630 Glyoxylate and dicarboxylate metabolism,meso-Tartaric acid + NAD+ <=> 2-Hydroxy-3-oxosuccinate + NADH + H+,nad[c] + tartr_M[c]  <=> nadh[c] + h[c] + oxglyc[c] ,MCON_1272,-20,20
+rn00630 Glyoxylate and dicarboxylate metabolism,"(R,R)-Tartaric acid + NAD+ <=> 2-Hydroxy-3-oxosuccinate + NADH + H+",nad[c] +   <=> nadh[c] + h[c] + oxglyc[c] ,MCON_1272,-20,20
+rn00630 Glyoxylate and dicarboxylate metabolism; rn01110 Biosynthesis of secondary metabolites; rn01200 Carbon metabolism,2 Hydrogen peroxide <=> Oxygen + 2 H2O,2 h2o2[c]  <=> 2 h2o[c] + o2[c] ,MCON_0161,-20,20
+rn00630 Glyoxylate and dicarboxylate metabolism; rn01110 Biosynthesis of secondary metabolites; rn01200 Carbon metabolism,2-Phosphoglycolate + H2O <=> Glycolate + Orthophosphate,h2o[c] + 2pglyc[c]  <=> pi[c] + glyclt[c] ,MCON_3141,-20,20
+rn00630 Glyoxylate and dicarboxylate metabolism; rn01110 Biosynthesis of secondary metabolites; rn01200 Carbon metabolism,"D-Ribulose 1,5-bisphosphate + Oxygen <=> 3-Phospho-D-glycerate + 2-Phosphoglycolate",o2[c] + rb15bp[c]  <=> 3pg[c] + 2pglyc[c] ,MCON_3086,-20,20
+rn00640 Propanoate metabolism,Propionyladenylate + CoA <=> AMP + Propanoyl-CoA,coa[c] + HC01668[c]  <=> amp[c] + ppcoa[c] ,MCON_0780 | MCON_0556 | MCON_0558 | MCON_0559 | MCON_0561 | MCON_2868,-20,20
+rn00640 Propanoate metabolism,ATP + Propanoate <=> Diphosphate + Propionyladenylate,atp[c] +   <=> ppi[c] + HC01668[c] ,MCON_0780 | MCON_0556 | MCON_0558 | MCON_0559 | MCON_0561 | MCON_2868,-20,20
+rn00670 One carbon pool by folate; rn00720 Other carbon fixation pathways; rn01200 Carbon metabolism; rn01240 Biosynthesis of cofactors,"5,10-Methylenetetrahydrofolate + NADP+ <=> 5,10-Methenyltetrahydrofolate + NADPH",nadp[c] + mlthf[c]  <=> nadph[c] + mrthf[c] ,MCON_0224,-20,20
+rn00670 One carbon pool by folate; rn00720 Other carbon fixation pathways; rn01200 Carbon metabolism; rn01240 Biosynthesis of cofactors,"5,10-Methenyltetrahydrofolate + H2O <=> 10-Formyltetrahydrofolate + H+",h2o[c] + mrthf[c]  <=> h[c] + 10fthf[c] ,MCON_0224,-20,20
+rn00680 Methane metabolism,Coenzyme F420 + Hydrogen <=> Reduced coenzyme F420,h2[c] + coF420[c]  <=> coF420h[c] ,MCON_2320,-20,20
+rn00680 Methane metabolism,"L-Serine + 5,6,7,8-Tetrahydromethanopterin <=> 5,10-Methylenetetrahydromethanopterin + Glycine + H2O",ser_L[c] + h4mpt[c]  <=> h2o[c] + gly[c] + mtethnpn[c] ,MCON_0223,-20,20
+rn00680 Methane metabolism,Phosphoenolpyruvate + GTP <=> Enolpyruvoyl-2-diphospho-5'-guanosine + Diphosphate,gtp[c] + pep[c]  <=> ppi[c] + enol2dp5gsn[c] ,MCON_0918,-20,20
+rn00680 Methane metabolism,"Enolpyruvoyl-2-diphospho-5'-guanosine + 7,8-Didemethyl-8-hydroxy-5-deazariboflavin <=> GMP + Dehydro coenzyme F420-0",ddhrb[c] + enol2dp5gsn[c]  <=> gmp[c] + dcof2400[c] ,MCON_1062,-20,20
+rn00680 Methane metabolism; rn01200 Carbon metabolism,"Formylmethanofuran + 5,6,7,8-Tetrahydromethanopterin <=> Methanofuran + 5-Formyl-5,6,7,8-tetrahydromethanopterin",fmfur[c] + h4mpt[c]  <=> mfur[c] + 5fh4mpt[c] ,MCON_1472,-20,20
+rn00680 Methane metabolism; rn01200 Carbon metabolism,"5,10-Methenyltetrahydromethanopterin + H2O <=> 5-Formyl-5,6,7,8-tetrahydromethanopterin + H+",h2o[c] + mtth4mpt[c]  <=> h[c] + 5fh4mpt[c] ,MCON_1290,-20,20
+rn00680 Methane metabolism; rn01200 Carbon metabolism,"5-Methyl-5,6,7,8-tetrahydromethanopterin + Coenzyme M + 2 Sodium cation(side 1) <=> 5,6,7,8-Tetrahydromethanopterin + 2-(Methylthio)ethanesulfonate + 2 Sodium cation(side 2)",2  + com[c] + mh4mpt[c]  <=> h4mpt[c] + 2  + mcom[c] ,MCON_1069 | MCON_1070 | MCON_1068 | MCON_1071 | MCON_1072 | MCON_1073 | MCON_1074 | MCON_1075 | MCON_2872 | MCON_2873,-20,20
+rn00680 Methane metabolism; rn01200 Carbon metabolism,"5,10-Methylenetetrahydromethanopterin + Coenzyme F420 + H+ <=> 5,10-Methenyltetrahydromethanopterin + Reduced coenzyme F420",h[c] + coF420[c] + mtethnpn[c]  <=> coF420h[c] + mtth4mpt[c] ,MCON_1052,-20,20
+rn00680 Methane metabolism; rn01200 Carbon metabolism,"5,10-Methylenetetrahydromethanopterin + Reduced coenzyme F420 <=> 5-Methyl-5,6,7,8-tetrahydromethanopterin + Coenzyme F420",coF420h[c] + mtethnpn[c]  <=> coF420[c] + mh4mpt[c] ,MCON_2394,-20,20
+rn00680 Methane metabolism; rn01200 Carbon metabolism,Coenzyme M 7-mercaptoheptanoylthreonine-phosphate heterodisulfide + Dihydromethanophenazine <=> Coenzyme B + Coenzyme M + Methanophenazine,coms[c] + dhmphze[c]  <=> com[c] + cob[c] + mphze[c] ,MCON_3442 | MCON_3441,-20,20
+rn00680 Methane metabolism; rn01200 Carbon metabolism,Coenzyme B + 2-(Methylthio)ethanesulfonate <=> Coenzyme M 7-mercaptoheptanoylthreonine-phosphate heterodisulfide + Methane,mcom[c] + cob[c]  <=> ch4[c] + coms[c] ,MCON_0759 | MCON_0760 | MCON_0762,-20,20
+rn00680 Methane metabolism; rn01200 Carbon metabolism,"5,6,7,8-Tetrahydromethanopterin + Formaldehyde <=> 5,10-Methylenetetrahydromethanopterin + H2O",fald[c] + h4mpt[c]  <=> h2o[c] + mtethnpn[c] ,MCON_1033 | MCON_1383,-20,20
+rn00680 Methane metabolism; rn01200 Carbon metabolism,Formylmethanofuran + H2O <=> Formate + Methanofuran,h2o[c] + fmfur[c]  <=> for[c] + mfur[c] ,MCON_0238 | MCON_0239 | MCON_0240 | MCON_0241 | MCON_1733 | MCON_1734 | MCON_2898 | MCON_2129,-20,20
+rn00680 Methane metabolism; rn01200 Carbon metabolism,Formate + Coenzyme F420 <=> CO2 + Reduced coenzyme F420,for[c] + coF420[c]  <=> co2[c] + coF420h[c] ,MCON_2237,-20,20
+rn00680 Methane metabolism; rn01200 Carbon metabolism,5-Methyl-H4SPT + Coenzyme M + 2 Sodium cation(side 1) <=> Tetrahydrosarcinapterin + 2-(Methylthio)ethanesulfonate + 2 Sodium cation(side 2),2 na1 + com[c] + mh4spt[c]  <=> 2 Na + mcom[c] + h4spt[c] ,MCON_1069 | MCON_1070 | MCON_1068 | MCON_1071 | MCON_1072 | MCON_1073 | MCON_1074 | MCON_1075 | MCON_2872 | MCON_2873,-20,20
+rn00680 Methane metabolism; rn01210 2-Oxocarboxylic acid metabolism,(R)-(Homo)2-citrate <=> cis-(Homo)2-aconitate + H2O,Rh2cit[c]  <=> h2o[c] + h2acon_C[c] ,MCON_0444 | MCON_1922,-20,20
+rn00680 Methane metabolism; rn01210 2-Oxocarboxylic acid metabolism,cis-(Homo)2-aconitate + H2O <=> (-)-threo-Iso(homo)2-citrate,h2o[c] + h2acon_C[c]  <=> tih2cit[c] ,MCON_0444 | MCON_1922,-20,20
+rn00680 Methane metabolism; rn01210 2-Oxocarboxylic acid metabolism,(R)-(Homo)3-citrate <=> cis-(Homo)3-aconitate + H2O,Rh3cit[c]  <=> h2o[c] + h3acon_C[c] ,MCON_0444 | MCON_1922,-20,20
+rn00680 Methane metabolism; rn01210 2-Oxocarboxylic acid metabolism,cis-(Homo)3-aconitate + H2O <=> (-)-threo-Iso(homo)3-citrate,h2o[c] + h3acon_C[c]  <=> tih3cit[c] ,MCON_0444 | MCON_1922,-20,20
+rn00680 Methane metabolism; rn01240 Biosynthesis of cofactors,3-Sulfopyruvate <=> Sulfoacetaldehyde + CO2,3spyr[c]  <=> co2[c] + sacald[c] ,MCON_2819 | MCON_2821,-20,20
+rn00680 Methane metabolism; rn01240 Biosynthesis of cofactors,(2S)-2-Phospholactate + GTP <=> (2S)-Lactyl-2-diphospho-5'-guanosine + Diphosphate,gtp[c] + 2plac_L[c]  <=> ppi[c] + lppg[c] ,MCON_0918,-20,20
+rn00680 Methane metabolism; rn01240 Biosynthesis of cofactors,"7,8-Didemethyl-8-hydroxy-5-deazariboflavin + (2S)-Lactyl-2-diphospho-5'-guanosine <=> Coenzyme F420-0 + GMP",ddhrb[c] + lppg[c]  <=> gmp[c] + f420_0[c] ,MCON_1062,-20,20
+rn00680 Methane metabolism; rn01240 Biosynthesis of cofactors,Coenzyme F420-0 + GTP + L-Glutamate <=> Coenzyme F420-1 + GDP + Orthophosphate,glu_L[c] + gtp[c] + f420_0[c]  <=> pi[c] + gdp[c] + f420_1[c] ,MCON_0919,-20,20
+rn00680 Methane metabolism; rn01240 Biosynthesis of cofactors,Coenzyme F420-1 + GTP + L-Glutamate <=> Coenzyme F420 + GDP + Orthophosphate,glu_L[c] + gtp[c] + f420_1[c]  <=> pi[c] + gdp[c] + coF420[c] ,MCON_0919,-20,20
+rn00680 Methane metabolism; rn01240 Biosynthesis of cofactors,ATP + Tyramine + L-Glutamate <=> ADP + Orthophosphate + gamma-Glutamyltyramine,atp[c] + glu_L[c] + tym[c]  <=> adp[c] + pi[c] + ggluttym[c] ,MCON_1686,-20,20
+rn00680 Methane metabolism; rn01240 Biosynthesis of cofactors,(5-Formylfuran-3-yl)methyl phosphate + Orthophosphate + 2 H2O <=> 2 D-Glyceraldehyde 3-phosphate,2 h2o[c] + pi[c] + 4hfcp[c]  <=> 2 g3p[c] ,MCON_2254,-20,20
+rn00680 Methane metabolism; rn01240 Biosynthesis of cofactors,(5-Formylfuran-3-yl)methyl phosphate + L-Alanine <=> [5-(Aminomethyl)furan-3-yl]methyl phosphate + Pyruvate,ala_L[c] + 4hfcp[c]  <=> pyr[c] + 5amm3furaetohp[c] ,MCON_2279,-20,20
+rn00680 Methane metabolism; rn01240 Biosynthesis of cofactors,[5-(Aminomethyl)furan-3-yl]methyl phosphate + ATP <=> [5-(Aminomethyl)furan-3-yl]methyl diphosphate + ADP,atp[c] + 5amm3furaetohp[c]  <=> adp[c] + 5amm3furaetohppi[c] ,MCON_0142,-20,20
+rn00680 Methane metabolism; rn01240 Biosynthesis of cofactors,[5-(Aminomethyl)furan-3-yl]methyl diphosphate + gamma-Glutamyltyramine <=> (4-{4-[2-(gamma-L-Glutamylamino)ethyl]phenoxymethyl}furan-2-yl)methanamine + Diphosphate,ggluttym[c] + 5amm3furaetohppi[c]  <=> ppi[c] + apmfglu[c] ,MCON_2321,-20,20
+rn00680 Methane metabolism; rn01240 Biosynthesis of cofactors,"5-Amino-6-(1-D-ribitylamino)uracil + L-Tyrosine + S-Adenosyl-L-methionine <=> 5-Amino-5-(4-hydroxybenzyl)-6-(D-ribitylimino)-5,6-dihydrouracil + Iminoglycine + L-Methionine + 5'-Deoxyadenosine",amet[c] + tyr_L[c] + 5am61dribiamura[c]  <=> met_L[c] + dad_5[c] + imogly[c] + 5am54hb6dribi56dura[c] ,MCON_3335,-20,20
+rn00680 Methane metabolism; rn01240 Biosynthesis of cofactors,"5-Amino-5-(4-hydroxybenzyl)-6-(D-ribitylimino)-5,6-dihydrouracil + S-Adenosyl-L-methionine <=> 7,8-Didemethyl-8-hydroxy-5-deazariboflavin + Ammonia + L-Methionine + 5'-Deoxyadenosine",amet[c] + 5am54hb6dribi56dura[c]  <=> nh4[c] + met_L[c] + dad_5[c] + ddhrb[c] ,MCON_1058,-20,20
+rn00710 Carbon fixation by Calvin cycle; rn01200 Carbon metabolism,"D-Ribulose 1,5-bisphosphate + CO2 + H2O <=> 2 3-Phospho-D-glycerate",h2o[c] + co2[c] + rb15bp[c]  <=> 2 3pg[c] ,MCON_3086,-20,20
+rn00710 Carbon fixation by Calvin cycle; rn01200 Carbon metabolism,"ATP + D-Ribulose 5-phosphate <=> ADP + D-Ribulose 1,5-bisphosphate",atp[c] + ru5p_D[c]  <=> adp[c] + rb15bp[c] ,MCON_1902,-20,20
+rn00710 Carbon fixation by Calvin cycle; rn01200 Carbon metabolism,"Sedoheptulose 1,7-bisphosphate <=> Glycerone phosphate + D-Erythrose 4-phosphate",s17bp[c]  <=> dhap[c] + e4p[c] ,MCON_2528 | MCON_1478 | MCON_3321 | MCON_3232 | MCON_2526,-20,20
+rn00710 Carbon fixation by Calvin cycle; rn01200 Carbon metabolism,"Sedoheptulose 1,7-bisphosphate + H2O <=> Sedoheptulose 7-phosphate + Orthophosphate",h2o[c] + s17bp[c]  <=> pi[c] + s7p[c] ,MCON_2525 | MCON_2528,-20,20
+rn00720 Other carbon fixation pathways; rn01200 Carbon metabolism,Tetrahydrofolate + Acetyl-CoA <=> 5-Methyltetrahydrofolate + CoA + CO,accoa[c] + thf[c]  <=> coa[c] + co[c] + 5mthf[c] ,MCON_1942 | MCON_1330,-20,20
+rn00720 Other carbon fixation pathways; rn01200 Carbon metabolism,Fumarate + Coenzyme M + Coenzyme B <=> Succinate + Coenzyme M 7-mercaptoheptanoylthreonine-phosphate heterodisulfide,fum[c] + com[c] + cob[c]  <=> succ[c] + coms[c] ,MCON_3042,-20,20
+rn00730 Thiamine metabolism,Thiamin diphosphate + H2O <=> Thiamin monophosphate + Orthophosphate,h2o[c] + thmpp[c]  <=> pi[c] + thmmp[c] ,MCON_1365,-20,20
+rn00730 Thiamine metabolism,Thiamin diphosphate + ADP <=> Thiamin triphosphate + AMP,adp[c] + thmpp[c]  <=> amp[c] + thmtp[c] ,MCON_1964 | MCON_1615,-20,20
+rn00730 Thiamine metabolism; rn01240 Biosynthesis of cofactors,ATP + Thiamin monophosphate <=> ADP + Thiamin diphosphate,atp[c] + thmmp[c]  <=> adp[c] + thmpp[c] ,MCON_3190,-20,20
+rn00730 Thiamine metabolism; rn01240 Biosynthesis of cofactors,Thiamin monophosphate + H2O <=> Thiamine + Orthophosphate,h2o[c] + thmmp[c]  <=> pi[c] + thm[c] ,MCON_2339,-20,20
+rn00730 Thiamine metabolism; rn01240 Biosynthesis of cofactors,4-Amino-5-hydroxymethyl-2-methylpyrimidine diphosphate + 4-Methyl-5-(2-phosphooxyethyl)thiazole <=> Diphosphate + Thiamin monophosphate,4mpetz[c] + 2mahmp[c]  <=> ppi[c] + thmmp[c] ,MCON_3369 | MCON_0806,-20,20
+rn00730 Thiamine metabolism; rn01240 Biosynthesis of cofactors,ATP + 4-Amino-5-hydroxymethyl-2-methylpyrimidine <=> ADP + 4-Amino-2-methyl-5-(phosphooxymethyl)pyrimidine,atp[c] + 4ahmmp[c]  <=> adp[c] + hmpp[c] ,MCON_0806,-20,20
+rn00730 Thiamine metabolism; rn01240 Biosynthesis of cofactors,Aminoimidazole ribotide + S-Adenosyl-L-methionine <=> 4-Amino-2-methyl-5-(phosphooxymethyl)pyrimidine + 5'-Deoxyadenosine + L-Methionine + Formate + CO,amet[c] + air[c]  <=> for[c] + met_L[c] + co[c] + hmpp[c] + dad_5[c] ,MCON_1611,-20,20
+rn00730 Thiamine metabolism; rn01240 Biosynthesis of cofactors,ATP + 5-(2-Hydroxyethyl)-4-methylthiazole <=> ADP + 4-Methyl-5-(2-phosphooxyethyl)thiazole,atp[c] + 4mhetz[c]  <=> adp[c] + 4mpetz[c] ,MCON_3370,-20,20
+rn00730 Thiamine metabolism; rn01240 Biosynthesis of cofactors,ATP + 4-Amino-2-methyl-5-(phosphooxymethyl)pyrimidine <=> ADP + 4-Amino-5-hydroxymethyl-2-methylpyrimidine diphosphate,atp[c] + hmpp[c]  <=> adp[c] + 2mahmp[c] ,MCON_0806,-20,20
+rn00730 Thiamine metabolism; rn01240 Biosynthesis of cofactors,4-Amino-5-hydroxymethyl-2-methylpyrimidine diphosphate + 2-(2-Carboxy-4-methylthiazol-5-yl)ethyl phosphate <=> Thiamin monophosphate + Diphosphate + CO2,2mahmp[c] + cthzp[c]  <=> co2[c] + ppi[c] + thmmp[c] ,MCON_3369 | MCON_0806,-20,20
+rn00730 Thiamine metabolism; rn01240 Biosynthesis of cofactors,NAD+ + Glycine + Hydrogen sulfide <=> Nicotinamide + ADP-5-ethyl-4-methylthiazole-2-carboxylate + 3 H2O,nad[c] + gly[c] + h2s[c]  <=> 3 h2o[c] + ncam[c] + adp5ethy4mthiaz2caate[c] ,MCON_3229,-20,20
+rn00740 Riboflavin metabolism,CTP + Riboflavin <=> CDP + FMN,ctp[c] + ribflv[c]  <=> fmn[c] + cdp[c] ,MCON_0442,-20,20
+rn00740 Riboflavin metabolism,Dimethylallyl phosphate + Reduced FMN <=> Prenylated FMNH2 + Orthophosphate,fmnh2[c] + dmallyp[c]  <=> pi[c] + fmnh2[c] ,MCON_3057,-20,20
+rn00740 Riboflavin metabolism; rn01110 Biosynthesis of secondary metabolites; rn01240 Biosynthesis of cofactors,"2 6,7-Dimethyl-8-(D-ribityl)lumazine <=> Riboflavin + 5-Amino-6-(1-D-ribitylamino)uracil",2 dmlz[c]  <=> ribflv[c] + 5am61dribiamura[c] ,MCON_1631,-20,20
+rn00740 Riboflavin metabolism; rn01110 Biosynthesis of secondary metabolites; rn01240 Biosynthesis of cofactors,ATP + FMN <=> Diphosphate + FAD,atp[c] + fmn[c]  <=> ppi[c] + fad[c] ,MCON_1493,-20,20
+rn00740 Riboflavin metabolism; rn01110 Biosynthesis of secondary metabolites; rn01240 Biosynthesis of cofactors,"5-Amino-6-(1-D-ribitylamino)uracil + L-3,4-Dihydroxybutan-2-one 4-phosphate <=> 6,7-Dimethyl-8-(D-ribityl)lumazine + 2 H2O + Orthophosphate",5am61dribiamura[c] + 2h3obutyp[c]  <=> 2 h2o[c] + pi[c] + dmlz[c] ,MCON_2295,-20,20
+rn00740 Riboflavin metabolism; rn01110 Biosynthesis of secondary metabolites; rn01240 Biosynthesis of cofactors,"D-Ribulose 5-phosphate <=> L-3,4-Dihydroxybutan-2-one 4-phosphate + Formate",ru5p_D[c]  <=> for[c] + 2h3obutyp[c] ,MCON_1155,-20,20
+rn00740 Riboflavin metabolism; rn01240 Biosynthesis of cofactors,"2,5-Diamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one + NADH + H+ <=> 2,5-Diamino-6-(5-phospho-D-ribitylamino)pyrimidin-4(3H)-one + NAD+",nadh[c] + h[c] + 25dam65pdriboampyridn43hone[c]  <=> nad[c] + 25dam65pdribiampyridn43hone[c] ,MCON_0173 | MCON_0968,-20,20
+rn00740 Riboflavin metabolism; rn01240 Biosynthesis of cofactors,"2,5-Diamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one + NADPH + H+ <=> 2,5-Diamino-6-(5-phospho-D-ribitylamino)pyrimidin-4(3H)-one + NADP+",nadph[c] + h[c] + 25dam65pdriboampyridn43hone[c]  <=> nadp[c] + 25dam65pdribiampyridn43hone[c] ,MCON_0173 | MCON_0968,-20,20
+rn00760 Nicotinate and nicotinamide metabolism,ATP + Nicotinamide D-ribonucleotide <=> Diphosphate + NAD+,atp[c] + nmn[c]  <=> nad[c] + ppi[c] ,MCON_2395,-20,20
+rn00760 Nicotinate and nicotinamide metabolism,Nicotinamide D-ribonucleotide + H2O <=> Nicotinamide-beta-riboside + Orthophosphate,h2o[c] + nmn[c]  <=> pi[c] + rnam[c] ,MCON_0299,-20,20
+rn00760 Nicotinate and nicotinamide metabolism,Nicotinate D-ribonucleotide + H2O <=> Nicotinate D-ribonucleoside + Orthophosphate,h2o[c] + nicrnt[c]  <=> pi[c] + nicrns[c] ,MCON_0299,-20,20
+rn00760 Nicotinate and nicotinamide metabolism; rn01240 Biosynthesis of cofactors,ATP + NAD+ <=> ADP + NADP+,atp[c] + nad[c]  <=> nadp[c] + adp[c] ,MCON_2072,-20,20
+rn00760 Nicotinate and nicotinamide metabolism; rn01240 Biosynthesis of cofactors,ATP + Deamino-NAD+ + Ammonia <=> AMP + Diphosphate + NAD+,atp[c] + nh4[c] + dnad[c]  <=> nad[c] + ppi[c] + amp[c] ,MCON_1866,-20,20
+rn00760 Nicotinate and nicotinamide metabolism; rn01240 Biosynthesis of cofactors,ATP + Deamino-NAD+ + L-Glutamine + H2O <=> AMP + Diphosphate + NAD+ + L-Glutamate,h2o[c] + atp[c] + gln_L[c] + dnad[c]  <=> nad[c] + ppi[c] + amp[c] + glu_L[c] ,MCON_1866,-20,20
+rn00760 Nicotinate and nicotinamide metabolism; rn01240 Biosynthesis of cofactors,Nicotinamide + H2O <=> Nicotinate + Ammonia,h2o[c] + ncam[c]  <=> nh4[c] + nac[c] ,MCON_1757,-20,20
+rn00760 Nicotinate and nicotinamide metabolism; rn01240 Biosynthesis of cofactors,ATP + Nicotinate D-ribonucleotide <=> Diphosphate + Deamino-NAD+,atp[c] + nicrnt[c]  <=> ppi[c] + dnad[c] ,MCON_2395,-20,20
+rn00760 Nicotinate and nicotinamide metabolism; rn01240 Biosynthesis of cofactors,Nicotinate D-ribonucleotide + Diphosphate + CO2 <=> Quinolinate + 5-Phospho-alpha-D-ribose 1-diphosphate,co2[c] + ppi[c] + nicrnt[c]  <=> prpp[c] + quln[c] ,MCON_1164,-20,20
+rn00760 Nicotinate and nicotinamide metabolism; rn01240 Biosynthesis of cofactors,Quinolinate + 2 H2O + Orthophosphate <=> Iminoaspartate + Glycerone phosphate,2 h2o[c] + pi[c] + quln[c]  <=> dhap[c] + iasp[c] ,MCON_2769,-20,20
+rn00760 Nicotinate and nicotinamide metabolism; rn01240 Biosynthesis of cofactors,L-Aspartate + NADP+ <=> Iminoaspartate + NADPH + H+,nadp[c] + asp_L[c]  <=> nadph[c] + h[c] + iasp[c] ,MCON_1163,-20,20
+rn00760 Nicotinate and nicotinamide metabolism; rn01240 Biosynthesis of cofactors,L-Aspartate + NAD+ <=> Iminoaspartate + NADH + H+,nad[c] + asp_L[c]  <=> nadh[c] + h[c] + iasp[c] ,MCON_1163,-20,20
+rn00770 Pantothenate and CoA biosynthesis,"(R)-2,3-Dihydroxy-3-methylbutanoate + NADP+ <=> (S)-2-Acetolactate + NADPH + H+",nadp[c] + 23dhmb[c]  <=> nadph[c] + h[c] + alac_S[c] ,MCON_0412,-20,20
+rn00770 Pantothenate and CoA biosynthesis,GTP + Dephospho-CoA <=> GDP + CoA,gtp[c] + dpcoa[c]  <=> coa[c] + gdp[c] ,MCON_3184,-20,20
+rn00770 Pantothenate and CoA biosynthesis; rn01240 Biosynthesis of cofactors,ATP + Pantetheine 4'-phosphate <=> Diphosphate + Dephospho-CoA,atp[c] + pan4p[c]  <=> ppi[c] + dpcoa[c] ,MCON_1494,-20,20
+rn00770 Pantothenate and CoA biosynthesis; rn01240 Biosynthesis of cofactors,(R)-4'-Phosphopantothenoyl-L-cysteine <=> Pantetheine 4'-phosphate + CO2,4ppcys[c]  <=> co2[c] + pan4p[c] ,MCON_3480,-20,20
+rn00770 Pantothenate and CoA biosynthesis; rn01240 Biosynthesis of cofactors,CTP + D-4'-Phosphopantothenate + L-Cysteine <=> CMP + Diphosphate + (R)-4'-Phosphopantothenoyl-L-cysteine,ctp[c] + cys_L[c] + 4ppan[c]  <=> ppi[c] + cmp[c] + 4ppcys[c] ,MCON_3480,-20,20
+rn00770 Pantothenate and CoA biosynthesis; rn01240 Biosynthesis of cofactors,ATP + (R)-Pantoate <=> ADP + (R)-4-Phosphopantoate,atp[c] + pant_R[c]  <=> adp[c] + r4ppant[c] ,MCON_3479,-20,20
+rn00790 Folate biosynthesis,"ATP + 6-(Hydroxymethyl)-7,8-dihydropterin <=> AMP + 6-Hydroxymethyl-7,8-dihydropterin diphosphate",atp[c] + 6hm78dhpter[c]  <=> amp[c] + 2ahhm[c] ,MCON_1908,-20,20
+rn00790 Folate biosynthesis,"7,8-Dihydroneopterin 3'-triphosphate + H2O <=> 6-Carboxy-5,6,7,8-tetrahydropterin + Acetaldehyde + Triphosphate",h2o[c] + ahdt[c]  <=> acald[c] + pppi[c] + cph4[c] ,MCON_1447,-20,20
+rn00790 Folate biosynthesis,7-Carboxy-7-carbaguanine + Ammonia + ATP <=> 7-Cyano-7-carbaguanine + ADP + Orthophosphate + H2O,atp[c] + nh4[c] + 7ca7carbgua[c]  <=> h2o[c] + adp[c] + pi[c] + preq0[c] ,MCON_0533,-20,20
+rn00790 Folate biosynthesis,"6-Carboxy-5,6,7,8-tetrahydropterin <=> 7-Carboxy-7-carbaguanine + Ammonia",cph4[c]  <=> nh4[c] + 7ca7carbgua[c] ,MCON_0125,-20,20
+rn00790 Folate biosynthesis,"GTP + H2O <=> 7,8-Dihydroneopterin 2',3'-cyclic phosphate + Formate + Diphosphate",h2o[c] + gtp[c]  <=> ppi[c] + for[c] + dhp23cp[c] ,MCON_3313,-20,20
+rn00790 Folate biosynthesis,5-Phospho-alpha-D-ribose 1-diphosphate + 4-Hydroxybenzoate <=> 4-(beta-D-Ribofuranosyl)phenol 5'-phosphate + CO2 + Diphosphate,prpp[c] + 4hbz[c]  <=> co2[c] + ppi[c] + 4bdribophen5p[c] ,MCON_2372 | MCON_0135,-20,20
+rn00790 Folate biosynthesis,Molybdoenzyme molybdenum cofactor + GTP <=> Guanylyl molybdenum cofactor + Diphosphate,gtp[c] + moco[c]  <=> ppi[c] + mocogdp[c] ,MCON_0226,-20,20
+rn00790 Folate biosynthesis; rn01240 Biosynthesis of cofactors,"6-(Hydroxymethyl)-7,8-dihydropterin + 4-Aminobenzoate <=> Dihydropteroate + H2O",4abz[c] + 6hm78dhpter[c]  <=> h2o[c] + dhpt[c] ,MCON_3444,-20,20
+rn00790 Folate biosynthesis; rn01240 Biosynthesis of cofactors,"6-Hydroxymethyl-7,8-dihydropterin diphosphate + 4-Aminobenzoate <=> Diphosphate + Dihydropteroate",4abz[c] + 2ahhm[c]  <=> ppi[c] + dhpt[c] ,MCON_3444,-20,20
+rn00790 Folate biosynthesis; rn01240 Biosynthesis of cofactors,"7,8-Dihydroneopterin <=> Glycolaldehyde + 6-(Hydroxymethyl)-7,8-dihydropterin",dhnpt[c]  <=> gcald[c] + 6hm78dhpter[c] ,MCON_0460,-20,20
+rn00790 Folate biosynthesis; rn01240 Biosynthesis of cofactors,"7,8-Dihydroneopterin 3'-triphosphate <=> 6-Pyruvoyltetrahydropterin + Triphosphate",ahdt[c]  <=> pppi[c] + 6pthp[c] ,MCON_1447,-20,20
+rn00790 Folate biosynthesis; rn01240 Biosynthesis of cofactors,"7,8-Dihydroneopterin 3'-triphosphate + 3 H2O <=> 7,8-Dihydroneopterin + 3 Orthophosphate",3 h2o[c] + ahdt[c]  <=> 3 pi[c] + dhnpt[c] ,MCON_2339,-20,20
+rn00790 Folate biosynthesis; rn01240 Biosynthesis of cofactors,"ATP + 5,6,7,8-Tetrahydromethanopterin + L-Glutamate <=> ADP + Orthophosphate + Tetrahydrosarcinapterin",atp[c] + glu_L[c] + h4mpt[c]  <=> adp[c] + pi[c] + h4spt[c] ,MCON_0555,-20,20
+rn00790 Folate biosynthesis; rn01240 Biosynthesis of cofactors,ATP + Molybdopterin <=> Diphosphate + Adenylated molybdopterin,atp[c] + M02488[c]  <=> ppi[c] + M01281[c] ,MCON_2021,-20,20
+rn00790 Folate biosynthesis; rn01240 Biosynthesis of cofactors,Adenylated molybdopterin + Molybdate <=> Molybdoenzyme molybdenum cofactor + AMP + H2O,mobd[c] + M01281[c]  <=> h2o[c] + amp[c] + moco[c] ,MCON_1509 | MCON_2884,-20,20
+rn00790 Folate biosynthesis; rn01240 Biosynthesis of cofactors,"6-Hydroxymethyl-7,8-dihydropterin diphosphate + 4-(beta-D-Ribofuranosyl)aniline 5'-phosphate <=> N-[(7,8-Dihydropterin-6-yl)methyl]-4-(beta-D-ribofuranosyl)aniline 5'-phosphate + Diphosphate",2ahhm[c] + 4bdriboanil5p[c]  <=> ppi[c] + n78dhpter6ylm4bdriboanil5p[c] ,MCON_0701,-20,20
+rn00790 Folate biosynthesis; rn01240 Biosynthesis of cofactors,"(8S)-3',8-Cyclo-7,8-dihydroguanosine 5'-triphosphate + H2O <=> Precursor Z + Diphosphate",h2o[c] + 38ch2gtp[c]  <=> ppi[c] + M01618 ,MCON_1531,-20,20
+rn00860 Porphyrin metabolism; rn01110 Biosynthesis of secondary metabolites; rn01240 Biosynthesis of cofactors,2 5-Aminolevulinate <=> Porphobilinogen + 2 H2O,2 5aop[c]  <=> 2 h2o[c] + ppbng[c] ,MCON_1501,-20,20
+rn00860 Porphyrin metabolism; rn01110 Biosynthesis of secondary metabolites; rn01240 Biosynthesis of cofactors,4 Porphobilinogen + H2O <=> Hydroxymethylbilane + 4 Ammonia,h2o[c] + 4 ppbng[c]  <=> 4 nh4[c] + hmbil[c] ,MCON_0900,-20,20
+rn00860 Porphyrin metabolism; rn01110 Biosynthesis of secondary metabolites; rn01240 Biosynthesis of cofactors,5-Aminolevulinate <=> (S)-4-Amino-5-oxopentanoate,5aop[c]  <=> glu1sa[c] ,MCON_0899,-20,20
+rn00860 Porphyrin metabolism; rn01110 Biosynthesis of secondary metabolites; rn01240 Biosynthesis of cofactors,Hydroxymethylbilane <=> Uroporphyrinogen III + H2O,hmbil[c]  <=> h2o[c] + uppg3[c] ,MCON_0901,-20,20
+rn00860 Porphyrin metabolism; rn01110 Biosynthesis of secondary metabolites; rn01240 Biosynthesis of cofactors,2 S-Adenosyl-L-methionine + Uroporphyrinogen III <=> 2 S-Adenosyl-L-homocysteine + Precorrin 2,2 amet[c] + uppg3[c]  <=> 2 ahcys[c] + pre2[c] ,MCON_0901,-20,20
+rn00860 Porphyrin metabolism; rn01110 Biosynthesis of secondary metabolites; rn01240 Biosynthesis of cofactors,Precorrin 2 + NAD+ <=> Sirohydrochlorin + NADH + H+,nad[c] + pre2[c]  <=> nadh[c] + h[c] + scl[c] ,MCON_1503,-20,20
+rn00860 Porphyrin metabolism; rn01110 Biosynthesis of secondary metabolites; rn01240 Biosynthesis of cofactors,Sirohydrochlorin + Nickel(2+) <=> Nickel-sirohydrochlorin + 2 H+,scl[c] + ni2[c]  <=> 2 h[c] + nisirohydro[c] ,MCON_1928,-20,20
+rn00860 Porphyrin metabolism; rn01110 Biosynthesis of secondary metabolites; rn01240 Biosynthesis of cofactors,"Nickel-sirohydrochlorin + 2 ATP + 2 L-Glutamine + 2 H2O <=> Nickel-sirohydrochlorin a,c-diamide + 2 ADP + 2 L-Glutamate + 2 Orthophosphate",2 h2o[c] + 2 atp[c] + 2 gln_L[c] + nisirohydro[c]  <=> 2 adp[c] + 2 pi[c] + 2 glu_L[c] + ni2sirohydroacdamd[c] ,MCON_0502,-20,20
+rn00860 Porphyrin metabolism; rn01110 Biosynthesis of secondary metabolites; rn01240 Biosynthesis of cofactors,"15,17(3)-Seco-F430-17(3)-acid + ATP <=> Coenzyme F430 + ADP + Orthophosphate",atp[c] + sf430a  <=> adp[c] + pi[c] + f430[c] ,MCON_1929,-20,20
+rn00860 Porphyrin metabolism; rn01110 Biosynthesis of secondary metabolites; rn01240 Biosynthesis of cofactors,"Siroheme <=> 12,18-Didecarboxysiroheme + 2 CO2",sheme[c]  <=> 2 co2[c] + 1218ddecasiroheme[c] ,MCON_1213 | MCON_1504,-20,20
+rn00860 Porphyrin metabolism; rn01110 Biosynthesis of secondary metabolites; rn01240 Biosynthesis of cofactors,Fe-coproporphyrin III + 2 S-Adenosyl-L-methionine <=> Heme + 2 CO2 + 2 5'-Deoxyadenosine + 2 L-Methionine,2 amet[c] + fecpp3[c]  <=> 2 co2[c] + pheme[c] + 2 met_L[c] + 2 dad_5[c] ,MCON_1212,-20,20
+rn00860 Porphyrin metabolism; rn01240 Biosynthesis of cofactors,S-Adenosyl-L-methionine + Precorrin 2 <=> S-Adenosyl-L-homocysteine + Precorrin 3A + H+,amet[c] + pre2[c]  <=> ahcys[c] + h[c] + pre3a[c] ,MCON_1684,-20,20
+rn00860 Porphyrin metabolism; rn01240 Biosynthesis of cofactors,Precorrin 8X <=> Hydrogenobyrinate,pre8[c]  <=> hgbyr[c] ,MCON_0651 | MCON_1680,-20,20
+rn00860 Porphyrin metabolism; rn01240 Biosynthesis of cofactors,S-Adenosyl-L-methionine + Precorrin 3B <=> S-Adenosyl-L-homocysteine + Precorrin 4,amet[c] + pre3b[c]  <=> ahcys[c] + pre4[c] ,MCON_1681,-20,20
+rn00860 Porphyrin metabolism; rn01240 Biosynthesis of cofactors,S-Adenosyl-L-methionine + Precorrin 4 <=> S-Adenosyl-L-homocysteine + Precorrin 5,amet[c] + pre4[c]  <=> ahcys[c] + pre5[c] ,MCON_1683,-20,20
+rn00860 Porphyrin metabolism; rn01240 Biosynthesis of cofactors,Adenosyl cobinamide phosphate + GTP <=> Adenosine-GDP-cobinamide + Diphosphate,gtp[c] + adocbip[c]  <=> ppi[c] + agdpcbi[c] ,MCON_1722,-20,20
+rn00860 Porphyrin metabolism; rn01240 Biosynthesis of cofactors,Cobamide coenzyme + GMP <=> Adenosine-GDP-cobinamide + alpha-Ribazole,gmp[c] + adocbl[c]  <=> rdmbzi[c] + agdpcbi[c] ,MCON_1723,-20,20
+rn00860 Porphyrin metabolism; rn01240 Biosynthesis of cofactors,"Hydrogenobyrinate + 2 L-Glutamine + 2 ATP + 2 H2O <=> Hydrogenobyrinate a,c diamide + 2 Orthophosphate + 2 L-Glutamate + 2 ADP",2 h2o[c] + 2 atp[c] + 2 gln_L[c] + hgbyr[c]  <=> 2 adp[c] + 2 pi[c] + 2 glu_L[c] + hgbam[c] ,MCON_2971,-20,20
+rn00860 Porphyrin metabolism; rn01240 Biosynthesis of cofactors,"Adenosyl cobyrinate a,c diamide + 4 L-Glutamine + 4 ATP + 4 H2O <=> Adenosyl cobyrinate hexaamide + 4 L-Glutamate + 4 Orthophosphate + 4 ADP",4 h2o[c] + 4 atp[c] + 4 gln_L[c] + adcobhex[c]  <=> 4 adp[c] + 4 pi[c] + 4 glu_L[c] + adena[c] ,MCON_2599,-20,20
+rn00860 Porphyrin metabolism; rn01240 Biosynthesis of cofactors,"Hydrogenobyrinate a,c diamide + Cobalt ion + ATP + H2O <=> Cob(II)yrinate a,c diamide + Orthophosphate + ADP + H+",h2o[c] + atp[c] + cobalt2[c] + hgbam[c]  <=> adp[c] + pi[c] + h[c] + co2dam[c] ,MCON_0660 | MCON_0667 | MCON_2203,-20,20
+rn00860 Porphyrin metabolism; rn01240 Biosynthesis of cofactors,Sirohydrochlorin + Cobalt ion <=> Cobalt-sirohydrochlorin + 2 H+,cobalt2[c] + scl[c]  <=> 2 h[c] + cobalt2[c] ,MCON_0747 | MCON_2896 | MCON_1928,-20,20
+rn00860 Porphyrin metabolism; rn01240 Biosynthesis of cofactors,Cobalt-sirohydrochlorin + S-Adenosyl-L-methionine <=> Cobalt-factor III + S-Adenosyl-L-homocysteine,amet[c] + cobalt2[c]  <=> ahcys[c] + cobalt2[c] ,MCON_1684,-20,20
+rn00860 Porphyrin metabolism; rn01240 Biosynthesis of cofactors,Cobalt-precorrin 4 + S-Adenosyl-L-methionine <=> Cobalt-precorrin 5A + S-Adenosyl-L-homocysteine,amet[c] + copre4[c]  <=> ahcys[c] + copre5a[c] ,MCON_1683,-20,20
+rn00860 Porphyrin metabolism; rn01240 Biosynthesis of cofactors,Cobalt-precorrin 8 <=> Cobyrinate,copre8[c]  <=> cobya[c] ,MCON_0651 | MCON_1680,-20,20
+rn00860 Porphyrin metabolism; rn01240 Biosynthesis of cofactors,"Cobyrinate + 2 L-Glutamine + 2 ATP + 2 H2O <=> Cob(II)yrinate a,c diamide + 2 L-Glutamate + 2 ADP + 2 Orthophosphate",2 h2o[c] + 2 atp[c] + 2 gln_L[c] + cobya[c]  <=> 2 adp[c] + 2 pi[c] + 2 glu_L[c] + co2dam[c] ,MCON_2971,-20,20
+rn00860 Porphyrin metabolism; rn01240 Biosynthesis of cofactors,Adenosyl cobyrinate hexaamide + D-1-Aminopropan-2-ol O-phosphate + ATP <=> Adenosyl cobinamide phosphate + ADP + Orthophosphate,atp[c] + applp[c] + adena[c]  <=> adp[c] + pi[c] + adocbip[c] ,MCON_1335,-20,20
+rn00860 Porphyrin metabolism; rn01240 Biosynthesis of cofactors,ATP + Adenosyl cobyrinate hexaamide + (R)-1-Aminopropan-2-ol <=> ADP + Orthophosphate + Adenosyl cobinamide,atp[c] + app[c[ + adena[c]  <=> adp[c] + pi[c] + adocbi[c] ,MCON_1335,-20,20
+rn00860 Porphyrin metabolism; rn01240 Biosynthesis of cofactors,Cobalt-precorrin 5A + H2O <=> Cobalt-precorrin 5B + Acetaldehyde,h2o[c] + copre5a[c]  <=> acald[c] + copre5b[c] ,MCON_1682,-20,20
+rn00860 Porphyrin metabolism; rn01240 Biosynthesis of cofactors,Cobalt-precorrin 5B + S-Adenosyl-L-methionine <=> Cobalt-precorrin 6 + S-Adenosyl-L-homocysteine,amet[c] + copre5b[c]  <=> ahcys[c] + copre6[c] ,MCON_1679,-20,20
+rn00860 Porphyrin metabolism; rn01240 Biosynthesis of cofactors,Cobalt-dihydro-precorrin 6 + S-Adenosyl-L-methionine <=> Cobalt-precorrin 7 + S-Adenosyl-L-homocysteine + CO2,amet[c] + codhpre6[c]  <=> co2[c] + ahcys[c] + copre7[c] ,MCON_1685,-20,20
+rn00860 Porphyrin metabolism; rn01240 Biosynthesis of cofactors,Cobalt-precorrin 7 + S-Adenosyl-L-methionine <=> Cobalt-precorrin 8 + S-Adenosyl-L-homocysteine,amet[c] + copre7[c]  <=> ahcys[c] + copre8[c] ,MCON_1678,-20,20
+rn00900 Terpenoid backbone biosynthesis; rn01110 Biosynthesis of secondary metabolites,Isopentenyl diphosphate <=> Dimethylallyl diphosphate,ipdp[c]  <=> dmpp[c] ,MCON_2557,-20,20
+rn00900 Terpenoid backbone biosynthesis; rn01110 Biosynthesis of secondary metabolites,Dimethylallyl diphosphate + Isopentenyl diphosphate <=> Diphosphate + Geranyl diphosphate,ipdp[c] + dmpp[c]  <=> ppi[c] + grdp[c] ,MCON_2555,-20,20
+rn00900 Terpenoid backbone biosynthesis; rn01110 Biosynthesis of secondary metabolites,"Geranyl diphosphate + Isopentenyl diphosphate <=> Diphosphate + trans,trans-Farnesyl diphosphate",ipdp[c] + grdp[c]  <=> ppi[c] + frdp[c] ,MCON_2555,-20,20
+rn00900 Terpenoid backbone biosynthesis; rn01110 Biosynthesis of secondary metabolites,"trans,trans-Farnesyl diphosphate + Isopentenyl diphosphate <=> Diphosphate + Geranylgeranyl diphosphate",ipdp[c] + frdp[c]  <=> ppi[c] + grdp[c] ,MCON_2555,-20,20
+rn00900 Terpenoid backbone biosynthesis; rn01110 Biosynthesis of secondary metabolites,(R)-Mevalonate + CoA + 2 NAD+ <=> (S)-3-Hydroxy-3-methylglutaryl-CoA + 2 NADH + 2 H+,2 nad[c] + coa[c] + mevR[c]  <=> 2 nadh[c] + 2 h[c] + hmgcoa[c] ,MCON_2640,-20,20
+rn00900 Terpenoid backbone biosynthesis; rn01110 Biosynthesis of secondary metabolites,ATP + (R)-Mevalonate <=> ADP + (R)-5-Phosphomevalonate,atp[c] + mevR[c]  <=> adp[c] + 5pmev[c] ,MCON_2559,-20,20
+rn00900 Terpenoid backbone biosynthesis; rn01110 Biosynthesis of secondary metabolites,"trans,trans-Farnesyl diphosphate + 5 Isopentenyl diphosphate <=> all-trans-Octaprenyl diphosphate + 5 Diphosphate",5 ipdp[c] + frdp[c]  <=> 5 ppi[c] + octdp[c] ,MCON_2794,-20,20
+rn00900 Terpenoid backbone biosynthesis; rn01110 Biosynthesis of secondary metabolites,ATP + Isopentenyl phosphate <=> ADP + Isopentenyl diphosphate,atp[c] + ipdp[c]  <=> adp[c] + ipdp[c] ,MCON_2558,-20,20
+rn00900 Terpenoid backbone biosynthesis; rn01110 Biosynthesis of secondary metabolites,(R)-5-Phosphomevalonate <=> trans-Anhydromevalonate 5-phosphate + H2O,5pmev[c]  <=> h2o[c] + tahm[c] ,MCON_2875 | MCON_2874,-20,20
+rn00900 Terpenoid backbone biosynthesis; rn01110 Biosynthesis of secondary metabolites,trans-Anhydromevalonate 5-phosphate <=> Isopentenyl phosphate + CO2,tahm[c]  <=> co2[c] + ipdp[c] ,MCON_1237,-20,20
+rn00910 Nitrogen metabolism,Ammonia + NAD+ + H2O <=> Hydroxylamine + NADH + H+,h2o[c] + nad[c] + nh4[c]  <=> nadh[c] + h[c] + hdxl[c] ,MCON_2044,-20,20
+rn00910 Nitrogen metabolism,ATP + Carbamate <=> ADP + Carbamoyl phosphate,atp[c] + cbmt[c]  <=> adp[c] + cbp[c] ,MCON_0086 | MCON_1025 | MCON_1026 | MCON_2233,-20,20
+rn00910 Nitrogen metabolism,HCO3- + H+ <=> CO2 + H2O,h[c] + hco3[c]  <=> h2o[c] + co2[c] ,MCON_1210,-20,20
+rn00920 Sulfur metabolism,Thiosulfate + Cyanide ion <=> Sulfite + Thiocyanate, + tsul[c]  <=> so3[c] + tcynt[c] ,MCON_1529 | MCON_1376 | MCON_2997 | MCON_2998 | MCON_3198 | MCON_3199 | MCON_3231,-20,20
+rn00920 Sulfur metabolism,S-Adenosyl-L-methionine + Methanethiol <=> S-Adenosyl-L-homocysteine + Dimethyl sulfide,amet[c] + ch4s[c]  <=> ahcys[c] + dms[c] ,MCON_0211 | MCON_2076,-20,20
+rn00983 Drug metabolism - other enzymes,5-FU + 5-Phospho-alpha-D-ribose 1-diphosphate <=> 5-Fluorouridine monophosphate + Diphosphate,prpp[c] + 5flura[c]  <=> ppi[c] + 5flurimp[c] ,MCON_1953,-20,20
+rn00983 Drug metabolism - other enzymes,6-Mercaptopurine ribonucleoside triphosphate + H2O <=> 6-Thioinosine-5'-monophosphate + Diphosphate,h2o[c] + 6tins5tp[c]  <=> ppi[c] + 6tin5mp[c] ,MCON_0926,-20,20
+rn00983 Drug metabolism - other enzymes,6-Thioxanthine 5'-monophosphate + ATP + L-Glutamine + H2O <=> 6-Thioguanosine monophosphate + AMP + Diphosphate + L-Glutamate,h2o[c] + atp[c] + gln_L[c] + 6txth5mp[c]  <=> ppi[c] + amp[c] + glu_L[c] + 6tgsnmp[c] ,MCON_0459 | MCON_1034,-20,20
+rn00983 Drug metabolism - other enzymes,ATP + 5-Fluorouridine diphosphate <=> ADP + 5-Fluorouridine triphosphate,atp[c] + 5furippi[c]  <=> adp[c] + 5furitp[c] ,MCON_1703,-20,20
+rn00983 Drug metabolism - other enzymes,ATP + 5-Fluorodeoxyuridine diphosphate <=> ADP + 5-Fluorodeoxyuridine triphosphate,atp[c] + 5fdouppi[c]  <=> adp[c] + 5fdoutp[c] ,MCON_1703,-20,20
+rn00983 Drug metabolism - other enzymes,5-Fluorodeoxyuridine triphosphate + H2O <=> 5-Fluorodeoxyuridine monophosphate + Diphosphate,h2o[c] + 5fdoutp[c]  <=> ppi[c] + 5fdoump[c] ,MCON_0264,-20,20
+rn01040 Biosynthesis of unsaturated fatty acids,Stearoyl-CoA + H2O <=> CoA + Octadecanoic acid,h2o[c] + stcoa[c]  <=> coa[c] + octadecacid[c] ,MCON_1799,-20,20
+rn01040 Biosynthesis of unsaturated fatty acids,Eicosanoyl-CoA + H2O <=> CoA + Icosanoic acid,h2o[c] + arachcoa[c]  <=> coa[c] + arach[c] ,MCON_1799,-20,20
+rn01040 Biosynthesis of unsaturated fatty acids,Oleoyl-CoA + H2O <=> CoA + (9Z)-Octadecenoic acid,h2o[c] + odecoa[c]  <=> coa[c] + elaid[c] ,MCON_1799,-20,20
+rn01040 Biosynthesis of unsaturated fatty acids,Linoleoyl-CoA + H2O <=> CoA + Linoleate,h2o[c] + lnlccoa[c]  <=> coa[c] + lnlc[c] ,MCON_1799,-20,20
+rn01040 Biosynthesis of unsaturated fatty acids,"(9Z,12Z,15Z)-Octadecatrienoyl-CoA + H2O <=> CoA + (9Z,12Z,15Z)-Octadecatrienoic acid",h2o[c] + lnlncacoa[c]  <=> coa[c] + lnlnca[c] ,MCON_1799,-20,20
+rn01040 Biosynthesis of unsaturated fatty acids,"(5Z,8Z,11Z,14Z,17Z)-Icosapentaenoyl-CoA + H2O <=> CoA + (5Z,8Z,11Z,14Z,17Z)-Icosapentaenoic acid",h2o[c] + tmndnccoa[c]  <=> coa[c] + tmndnc[c] ,MCON_1799,-20,20
+rn01040 Biosynthesis of unsaturated fatty acids,"(4Z,7Z,10Z,13Z,16Z,19Z)-Docosahexaenoyl-CoA + H2O <=> CoA + (4Z,7Z,10Z,13Z,16Z,19Z)-Docosahexaenoic acid",h2o[c] + 4z7z10z13z16z19zdocoecoa[c]  <=> coa[c] + crvnc[c] ,MCON_1799,-20,20
+rn01040 Biosynthesis of unsaturated fatty acids,"gamma-Linolenoyl-CoA + H2O <=> CoA + (6Z,9Z,12Z)-Octadecatrienoic acid",h2o[c] + lnlncgcoa[c]  <=> coa[c] + lnlncg[c] ,MCON_1799,-20,20
+rn01040 Biosynthesis of unsaturated fatty acids,"8,11,14-Eicosatrienoyl-CoA + H2O <=> CoA + Dihomo-gamma-linolenate",h2o[c] + dlnlcgcoa[c]  <=> coa[c] + dlnlcg[c] ,MCON_1799,-20,20
+rn01040 Biosynthesis of unsaturated fatty acids,Arachidonyl-CoA + H2O <=> CoA + Arachidonate,h2o[c] + arachdcoa[c]  <=> coa[c] + arachd[c] ,MCON_1799,-20,20
+rn01210 2-Oxocarboxylic acid metabolism,Oxaloglutarate <=> 2-Oxoadipate + CO2,oxag[c]  <=> co2[c] + 2oxoadp ,MCON_1920,-20,20
+rn01210 2-Oxocarboxylic acid metabolism,Homoisocitrate + NAD+ <=> Oxaloglutarate + NADH + H+,nad[c] + hicit[c]  <=> nadh[c] + h[c] + oxag[c] ,MCON_1920,-20,20
+rn01210 2-Oxocarboxylic acid metabolism; rn01240 Biosynthesis of cofactors,(R)-(Homo)2-citrate <=> (-)-threo-Iso(homo)2-citrate,Rh2cit[c]  <=> tih2cit[c] ,MCON_0444 | MCON_1922,-20,20
+rn01210 2-Oxocarboxylic acid metabolism; rn01240 Biosynthesis of cofactors,(R)-(Homo)3-citrate <=> (-)-threo-Iso(homo)3-citrate,Rh3cit[c]  <=> tih3cit[c] ,MCON_0444 | MCON_1922,-20,20
